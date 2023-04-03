@@ -1,0 +1,8 @@
+# pip install googletrans
+
+from googletrans import Translator
+import requests
+
+translator = Translator()
+translation = translator.translate(word.strip(), src='en', dest='tr').text
+translations.append(translation)
