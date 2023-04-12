@@ -4815,7 +4815,6 @@
  transl_ru: квасцы
  transl_en: alum
  gramm: N,inanim,nonhuman
-
 -lexeme
  lex: ба
  stem: ба.
@@ -38304,7 +38303,6 @@ lexeme
  transl_ru: йотированный
  transl_en: iotacized
  gramm: ADJ
-
 -lexeme
  lex: кавказаг
  stem: кавказаг.|кавказӕг.
@@ -41223,7 +41221,6 @@ lexeme
  transl_ru: короб, плетеный ящик
  transl_en: (wattled) box
  gramm: N,inanim,nonhuman
-
 -lexeme
  lex: къабазгай
  stem: къабазгай.
@@ -50087,7 +50084,6 @@ lexeme
  transl_ru: праздник Успения
  transl_en: Dormition of Virgin Mary
  gramm: N,inanim,nonhuman,pl
-
 -lexeme
  lex: макумӕ
  stem: макумӕ.

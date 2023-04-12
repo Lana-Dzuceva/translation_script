@@ -1,0 +1,4129 @@
+ -lexeme
+ lex: ка
+ stem: ка
+ paradigm: ZERO
+ transl_ru: кто
+ transl_en: who
+ gramm: PRON,interrog,human,sg,nom
+-lexeme
+ lex: ка
+ stem: ке
+ paradigm: ZERO
+ transl_ru: кто
+ transl_en: who
+ gramm: PRON,interrog,human,sg,gen
+-lexeme
+ lex: ка
+ stem: кӕмӕн
+ paradigm: ZERO
+ transl_ru: кто
+ transl_en: who
+ gramm: PRON,interrog,human,sg,dat
+-lexeme
+ lex: ка
+ stem: кӕмӕй
+ paradigm: ZERO
+ transl_ru: кто
+ transl_en: who
+ gramm: PRON,interrog,human,sg,abl
+-lexeme
+ lex: ка
+ stem: кӕмӕ
+ paradigm: ZERO
+ transl_ru: кто
+ transl_en: who
+ gramm: PRON,interrog,human,sg,all
+-lexeme
+ lex: ка
+ stem: кӕми
+ paradigm: ZERO
+ transl_ru: кто
+ transl_en: who
+ gramm: PRON,interrog,human,sg,in
+-lexeme
+ lex: ка
+ stem: кӕбӕл
+ paradigm: ZERO
+ transl_ru: кто
+ transl_en: who
+ gramm: PRON,interrog,human,sg,super
+-lexeme
+ lex: ка
+ stem: кейау
+ paradigm: ZERO
+ transl_ru: кто
+ transl_en: who
+ gramm: PRON,interrog,human,sg,equ
+-lexeme
+ lex: ка
+ stem: кердӕмӕ
+ paradigm: ZERO
+ transl_ru: кто
+ transl_en: who
+ gramm: PRON,interrog,human,sg,dir
+-lexeme
+ lex: ка
+ stem: кердӕгӕй
+ paradigm: ZERO
+ transl_ru: кто
+ transl_en: who
+ gramm: PRON,interrog,human,sg,rcs
+-lexeme
+ lex: ка
+ stem: катӕ
+ paradigm: ZERO
+ transl_ru: кто
+ transl_en: who
+ gramm: PRON,interrog,human,pl,nom
+-lexeme
+ lex: ка
+ stem: кети
+ paradigm: ZERO
+ transl_ru: кто
+ transl_en: who
+ gramm: PRON,interrog,human,pl,gen
+-lexeme
+ lex: ка
+ stem: кӕмӕнти
+ paradigm: ZERO
+ transl_ru: кто
+ transl_en: who
+ gramm: PRON,interrog,human,pl,dat
+-lexeme
+ lex: ка
+ stem: кӕмӕти
+ paradigm: ZERO
+ transl_ru: кто
+ transl_en: who
+ gramm: PRON,interrog,human,pl,all
+-lexeme
+ lex: ка
+ stem: кӕмӕйти
+ paradigm: ZERO
+ transl_ru: кто
+ transl_en: who
+ gramm: PRON,interrog,human,pl,abl
+-lexeme
+ lex: ка
+ stem: кӕмити
+ paradigm: ZERO
+ transl_ru: кто
+ transl_en: who
+ gramm: PRON,interrog,human,pl,in
+-lexeme
+ lex: ка
+ stem: кӕбӕлти
+ paradigm: ZERO
+ transl_ru: кто
+ transl_en: who
+ gramm: PRON,interrog,human,pl,super
+-lexeme
+ lex: ка
+ stem: кетиау
+ paradigm: ZERO
+ transl_ru: кто
+ transl_en: who
+ gramm: PRON,interrog,human,pl,equ
+-lexeme
+ lex: ка
+ stem: кердӕмти
+ paradigm: ZERO
+ transl_ru: кто
+ transl_en: who
+ gramm: PRON,interrog,human,pl,dir
+-lexeme
+ lex: ка
+ stem: кердӕгӕйти
+ paradigm: ZERO
+ transl_ru: кто
+ transl_en: who
+ gramm: PRON,interrog,human,pl,rcs
+-lexeme
+ lex: неке
+ stem: неке
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,sg,nom
+-lexeme
+ lex: неке
+ stem: неке
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,sg,gen
+-lexeme
+ lex: неке
+ stem: некӕмӕн
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,sg,dat
+-lexeme
+ lex: неке
+ stem: некӕмӕй
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,sg,abl
+-lexeme
+ lex: неке
+ stem: некӕмӕ
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,sg,all
+-lexeme
+ lex: неке
+ stem: некӕми
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,sg,in
+-lexeme
+ lex: неке
+ stem: некӕбӕл
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,sg,super
+-lexeme
+ lex: неке
+ stem: некейау
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,sg,equ
+-lexeme
+ lex: неке
+ stem: некердӕмӕ
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,sg,dir
+-lexeme
+ lex: неке
+ stem: некердӕгӕй
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,sg,rcs
+-lexeme
+ lex: неке
+ stem: некетӕ
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,pl,nom
+-lexeme
+ lex: неке
+ stem: некети
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,pl,gen
+-lexeme
+ lex: неке
+ stem: некӕмӕнти
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,pl,dat
+-lexeme
+ lex: неке
+ stem: некӕмӕти
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,pl,all
+-lexeme
+ lex: неке
+ stem: некӕмӕйти
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,pl,abl
+-lexeme
+ lex: неке
+ stem: некӕмити
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,pl,in
+-lexeme
+ lex: неке
+ stem: некӕбӕлти
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,pl,super
+-lexeme
+ lex: неке
+ stem: некетиау
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,pl,equ
+-lexeme
+ lex: неке
+ stem: некердӕмти
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,pl,dir
+-lexeme
+ lex: неке
+ stem: некердӕгӕйти
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,pl,rcs
+-lexeme
+ lex: маке
+ stem: маке
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,sg,nom
+-lexeme
+ lex: маке
+ stem: маке
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,sg,gen
+-lexeme
+ lex: маке
+ stem: макӕмӕн
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,sg,dat
+-lexeme
+ lex: маке
+ stem: макӕмӕй
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,sg,abl
+-lexeme
+ lex: маке
+ stem: макӕмӕ
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,sg,all
+-lexeme
+ lex: маке
+ stem: макӕми
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,sg,in
+-lexeme
+ lex: маке
+ stem: макӕбӕл
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,sg,super
+-lexeme
+ lex: маке
+ stem: макейау
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,sg,equ
+-lexeme
+ lex: маке
+ stem: макердӕмӕ
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,sg,dir
+-lexeme
+ lex: маке
+ stem: макердӕгӕй
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,sg,rcs
+-lexeme
+ lex: маке
+ stem: макетӕ
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,pl,nom
+-lexeme
+ lex: маке
+ stem: макети
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,pl,gen
+-lexeme
+ lex: маке
+ stem: макӕмӕнти
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,pl,dat
+-lexeme
+ lex: маке
+ stem: макӕмӕти
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,pl,all
+-lexeme
+ lex: маке
+ stem: макӕмӕйти
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,pl,abl
+-lexeme
+ lex: маке
+ stem: макӕмити
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,pl,in
+-lexeme
+ lex: маке
+ stem: макӕбӕлти
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,pl,super
+-lexeme
+ lex: маке
+ stem: макетиау
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,pl,equ
+-lexeme
+ lex: маке
+ stem: макердӕмти
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,pl,dir
+-lexeme
+ lex: маке
+ stem: макердӕгӕйти
+ paradigm: ZERO
+ transl_ru: никто
+ transl_en: nobody
+ gramm: PRON,interrog,neg,human,pl,rcs
+-lexeme
+ lex: алке
+ stem: алке
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,human,sg,nom
+-lexeme
+ lex: алке
+ stem: алке
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,human,sg,gen
+-lexeme
+ lex: алке
+ stem: алкӕмӕн
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,human,sg,dat
+-lexeme
+ lex: алке
+ stem: алкӕмӕй
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,human,sg,abl
+-lexeme
+ lex: алке
+ stem: алкӕмӕ
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,human,sg,all
+-lexeme
+ lex: алке
+ stem: алкӕми
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,human,sg,in
+-lexeme
+ lex: алке
+ stem: алкӕбӕл
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,human,sg,super
+-lexeme
+ lex: алке
+ stem: алкейау
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,human,sg,equ
+-lexeme
+ lex: алке
+ stem: алкердӕмӕ
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,human,sg,dir
+-lexeme
+ lex: алке
+ stem: алкердӕгӕй
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,human,sg,rcs
+-lexeme
+ lex: алке
+ stem: алкетӕ
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,human,pl,nom
+-lexeme
+ lex: алке
+ stem: алкети
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,human,pl,gen
+-lexeme
+ lex: алке
+ stem: алкӕмӕнти
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,human,pl,dat
+-lexeme
+ lex: алке
+ stem: алкӕмӕти
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,human,pl,all
+-lexeme
+ lex: алке
+ stem: алкӕмӕйти
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,human,pl,abl
+-lexeme
+ lex: алке
+ stem: алкӕмити
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,human,pl,in
+-lexeme
+ lex: алке
+ stem: алкӕбӕлти
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,human,pl,super
+-lexeme
+ lex: алке
+ stem: алкетиау
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,human,pl,equ
+-lexeme
+ lex: алке
+ stem: алкердӕмти
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,human,pl,dir
+-lexeme
+ lex: алке
+ stem: алкердӕгӕйти
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,human,pl,rcs
+-lexeme
+ lex: еске
+ stem: еске
+ paradigm: ZERO
+ transl_ru: кто-нибудь
+ transl_en: somebody
+ gramm: PRON,interrog,human,indef,sg,nom
+-lexeme
+ lex: еске
+ stem: еске
+ paradigm: ZERO
+ transl_ru: кто-нибудь
+ transl_en: somebody
+ gramm: PRON,interrog,human,indef,sg,gen
+-lexeme
+ lex: еске
+ stem: ескӕмӕн
+ paradigm: ZERO
+ transl_ru: кто-нибудь
+ transl_en: somebody
+ gramm: PRON,interrog,human,indef,sg,dat
+-lexeme
+ lex: еске
+ stem: ескӕмӕй
+ paradigm: ZERO
+ transl_ru: кто-нибудь
+ transl_en: somebody
+ gramm: PRON,interrog,human,indef,sg,abl
+-lexeme
+ lex: еске
+ stem: ескӕмӕ
+ paradigm: ZERO
+ transl_ru: кто-нибудь
+ transl_en: somebody
+ gramm: PRON,interrog,human,indef,sg,all
+-lexeme
+ lex: еске
+ stem: ескӕми
+ paradigm: ZERO
+ transl_ru: кто-нибудь
+ transl_en: somebody
+ gramm: PRON,interrog,human,indef,sg,in
+-lexeme
+ lex: еске
+ stem: ескӕбӕл
+ paradigm: ZERO
+ transl_ru: кто-нибудь
+ transl_en: somebody
+ gramm: PRON,interrog,human,indef,sg,super
+-lexeme
+ lex: еске
+ stem: ескейау
+ paradigm: ZERO
+ transl_ru: кто-нибудь
+ transl_en: somebody
+ gramm: PRON,interrog,human,indef,sg,equ
+-lexeme
+ lex: ке
+ stem: ескетӕ
+ paradigm: ZERO
+ transl_ru: кто-нибудь
+ transl_en: somebody
+ gramm: PRON,interrog,human,indef,pl,nom
+-lexeme
+ lex: ке
+ stem: ескети
+ paradigm: ZERO
+ transl_ru: кто-нибудь
+ transl_en: somebody
+ gramm: PRON,interrog,human,indef,pl,gen
+-lexeme
+ lex: ке
+ stem: ескӕмӕнти
+ paradigm: ZERO
+ transl_ru: кто-нибудь
+ transl_en: somebody
+ gramm: PRON,interrog,human,indef,pl,dat
+-lexeme
+ lex: еске
+ stem: ескӕмӕти
+ paradigm: ZERO
+ transl_ru: кто-нибудь
+ transl_en: somebody
+ gramm: PRON,interrog,human,indef,pl,all
+-lexeme
+ lex: еске
+ stem: ескӕмӕйти
+ paradigm: ZERO
+ transl_ru: кто-нибудь
+ transl_en: somebody
+ gramm: PRON,interrog,human,indef,pl,abl
+-lexeme
+ lex: еске
+ stem: ескӕмити
+ paradigm: ZERO
+ transl_ru: кто-нибудь
+ transl_en: somebody
+ gramm: PRON,interrog,human,indef,pl,in
+-lexeme
+ lex: еске
+ stem: ескӕбӕлти
+ paradigm: ZERO
+ transl_ru: кто-нибудь
+ transl_en: somebody
+ gramm: PRON,interrog,human,indef,pl,super
+-lexeme
+ lex: еске
+ stem: ескетиау
+ paradigm: ZERO
+ transl_ru: кто-нибудь
+ transl_en: somebody
+ gramm: PRON,interrog,human,indef,pl,equ
+-lexeme
+ lex: ци
+ stem: ци
+ paradigm: ZERO
+ transl_ru: что
+ transl_en: what
+ gramm: PRON,interrog,nonhuman,sg,nom
+-lexeme
+ lex: ци
+ stem: цӕмӕ
+ paradigm: ZERO
+ transl_ru: что
+ transl_en: what
+ gramm: PRON,interrog,nonhuman,sg,all
+-lexeme
+ lex: ци
+ stem: цӕй
+ paradigm: ZERO
+ transl_ru: что
+ transl_en: what
+ gramm: PRON,interrog,nonhuman,sg,gen
+-lexeme
+ lex: ци
+ stem: цӕмӕн
+ paradigm: ZERO
+ transl_ru: что
+ transl_en: what
+ gramm: PRON,interrog,nonhuman,sg,dat
+-lexeme
+ lex: ци
+ stem: цӕмӕй
+ paradigm: ZERO
+ transl_ru: что
+ transl_en: what
+ gramm: PRON,interrog,nonhuman,sg,abl
+-lexeme
+ lex: ци
+ stem: цӕми
+ paradigm: ZERO
+ transl_ru: что
+ transl_en: what
+ gramm: PRON,interrog,nonhuman,sg,in
+-lexeme
+ lex: ци
+ stem: цӕбӕл
+ paradigm: ZERO
+ transl_ru: что
+ transl_en: what
+ gramm: PRON,interrog,nonhuman,sg,super
+-lexeme
+ lex: ци
+ stem: цӕййау
+ paradigm: ZERO
+ transl_ru: что
+ transl_en: what
+ gramm: PRON,interrog,nonhuman,sg,equ
+-lexeme
+ lex: ци
+ stem: цирдӕмӕ
+ paradigm: ZERO
+ transl_ru: что
+ transl_en: what
+ gramm: PRON,interrog,nonhuman,sg,dir
+-lexeme
+ lex: ци
+ stem: цирдигӕй
+ paradigm: ZERO
+ transl_ru: что
+ transl_en: what
+ gramm: PRON,interrog,nonhuman,sg,rcs
+-lexeme
+ lex: ци
+ stem: цитӕ
+ paradigm: ZERO
+ transl_ru: что
+ transl_en: what
+ gramm: PRON,interrog,nonhuman,pl,nom
+-lexeme
+ lex: ци
+ stem: цити
+ paradigm: ZERO
+ transl_ru: что
+ transl_en: what
+ gramm: PRON,interrog,nonhuman,pl,gen
+-lexeme
+ lex: ци
+ stem: цӕйти
+ paradigm: ZERO
+ transl_ru: что
+ transl_en: what
+ gramm: PRON,interrog,nonhuman,pl,gen
+-lexeme
+ lex: ци
+ stem: цӕмӕнти
+ paradigm: ZERO
+ transl_ru: что
+ transl_en: what
+ gramm: PRON,interrog,nonhuman,pl,dat
+-lexeme
+ lex: ци
+ stem: цӕмӕйти
+ paradigm: ZERO
+ transl_ru: что
+ transl_en: what
+ gramm: PRON,interrog,nonhuman,pl,abl
+-lexeme
+ lex: ци
+ stem: цӕмити
+ paradigm: ZERO
+ transl_ru: что
+ transl_en: what
+ gramm: PRON,interrog,nonhuman,pl,in
+-lexeme
+ lex: ци
+ stem: цӕбӕлти
+ paradigm: ZERO
+ transl_ru: что
+ transl_en: what
+ gramm: PRON,interrog,nonhuman,pl,super
+-lexeme
+ lex: ци
+ stem: цӕййаути
+ paradigm: ZERO
+ transl_ru: что
+ transl_en: what
+ gramm: PRON,interrog,nonhuman,pl,equ
+-lexeme
+ lex: ци
+ stem: цитиау
+ paradigm: ZERO
+ transl_ru: что
+ transl_en: what
+ gramm: PRON,interrog,nonhuman,pl,equ
+-lexeme
+ lex: ци
+ stem: цердӕмти
+ paradigm: ZERO
+ transl_ru: что
+ transl_en: what
+ gramm: PRON,interrog,nonhuman,pl,dir
+-lexeme
+ lex: ци
+ stem: цердигӕйти
+ paradigm: ZERO
+ transl_ru: что
+ transl_en: what
+ gramm: PRON,interrog,nonhuman,pl,rcs
+-lexeme
+ lex: неци
+ stem: неци
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,sg,nom
+-lexeme
+ lex: неци
+ stem: нецӕмӕ
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,sg,all
+-lexeme
+ lex: неци
+ stem: нецӕй
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,sg,gen
+-lexeme
+ lex: неци
+ stem: нецӕмӕн
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,sg,dat
+-lexeme
+ lex: неци
+ stem: нецӕмӕй
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,sg,abl
+-lexeme
+ lex: неци
+ stem: нецӕми
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,sg,in
+-lexeme
+ lex: неци
+ stem: нецӕбӕл
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,sg,super
+-lexeme
+ lex: неци
+ stem: нецӕййау
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,sg,equ
+-lexeme
+ lex: неци
+ stem: нецирдӕмӕ
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,sg,dir
+-lexeme
+ lex: неци
+ stem: нецирдигӕй
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,sg,rcs
+-lexeme
+ lex: неци
+ stem: нецитӕ
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,pl,nom
+-lexeme
+ lex: неци
+ stem: нецити
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,pl,gen
+-lexeme
+ lex: неци
+ stem: нецӕйти
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,pl,gen
+-lexeme
+ lex: неци
+ stem: нецӕмӕнти
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,pl,dat
+-lexeme
+ lex: неци
+ stem: нецӕмӕйти
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,pl,abl
+-lexeme
+ lex: неци
+ stem: нецӕмити
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,pl,in
+-lexeme
+ lex: неци
+ stem: нецӕбӕлти
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,pl,super
+-lexeme
+ lex: неци
+ stem: нецӕййаути
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,pl,equ
+-lexeme
+ lex: неци
+ stem: нецитиау
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,pl,equ
+-lexeme
+ lex: неци
+ stem: нецирдӕмти
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,pl,dir
+-lexeme
+ lex: неци
+ stem: нецирдигӕйти
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,pl,rcs
+-lexeme
+ lex: маци
+ stem: маци
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,sg,nom
+-lexeme
+ lex: маци
+ stem: мацӕмӕ
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,sg,all
+-lexeme
+ lex: маци
+ stem: мацӕй
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,sg,gen
+-lexeme
+ lex: маци
+ stem: мацӕмӕн
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,sg,dat
+-lexeme
+ lex: маци
+ stem: мацӕмӕй
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,sg,abl
+-lexeme
+ lex: маци
+ stem: мацӕми
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,sg,in
+-lexeme
+ lex: маци
+ stem: мацӕбӕл
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,sg,super
+-lexeme
+ lex: маци
+ stem: мацӕййау
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,sg,equ
+-lexeme
+ lex: маци
+ stem: мацирдӕмӕ
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,sg,dir
+-lexeme
+ lex: маци
+ stem: мацирдигӕй
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,sg,rcs
+-lexeme
+ lex: маци
+ stem: мацитӕ
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,pl,nom
+-lexeme
+ lex: маци
+ stem: мацити
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,pl,gen
+-lexeme
+ lex: маци
+ stem: мацӕйти
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,pl,gen
+-lexeme
+ lex: маци
+ stem: мацӕмӕнти
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,pl,dat
+-lexeme
+ lex: маци
+ stem: мацӕмӕйти
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,pl,abl
+-lexeme
+ lex: маци
+ stem: мацӕмити
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,pl,in
+-lexeme
+ lex: маци
+ stem: мацӕбӕлти
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,pl,super
+-lexeme
+ lex: маци
+ stem: мацӕййаути
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,pl,equ
+-lexeme
+ lex: маци
+ stem: мацитиау
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,pl,equ
+-lexeme
+ lex: маци
+ stem: мацирдӕмӕти
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,pl,dir
+-lexeme
+ lex: маци
+ stem: мацирдигӕйти
+ paradigm: ZERO
+ transl_ru: ничто
+ transl_en: nothing
+ gramm: PRON,interrog,neg,nonhuman,pl,rcs
+-lexeme
+ lex: алци
+ stem: алци
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,nonhuman,sg,nom
+-lexeme
+ lex: алци
+ stem: алцӕмӕ
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,nonhuman,sg,all
+-lexeme
+ lex: алци
+ stem: алцӕй
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,nonhuman,sg,gen
+-lexeme
+ lex: алци
+ stem: алцӕмӕн
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,nonhuman,sg,dat
+-lexeme
+ lex: алци
+ stem: алцӕмӕй
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,nonhuman,sg,abl
+-lexeme
+ lex: алци
+ stem: алцӕми
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,nonhuman,sg,in
+-lexeme
+ lex: алци
+ stem: алцӕбӕл
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,nonhuman,sg,super
+-lexeme
+ lex: алци
+ stem: алцӕййау
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,nonhuman,sg,equ
+-lexeme
+ lex: алци
+ stem: алцердӕмӕ
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,nonhuman,sg,dir
+-lexeme
+ lex: алци
+ stem: алцердигӕй
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,nonhuman,sg,rcs
+-lexeme
+ lex: алци
+ stem: алцитӕ
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,nonhuman,pl,nom
+-lexeme
+ lex: алци
+ stem: алцӕйти
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,nonhuman,pl,gen
+-lexeme
+ lex: алци
+ stem: алцити
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,nonhuman,pl,gen
+-lexeme
+ lex: алци
+ stem: алцӕмӕнти
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,nonhuman,pl,dat
+-lexeme
+ lex: алци
+ stem: алцӕмӕйти
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,nonhuman,pl,abl
+-lexeme
+ lex: алци
+ stem: алцӕмити
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,nonhuman,pl,in
+-lexeme
+ lex: алци
+ stem: алцӕбӕлти
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,nonhuman,pl,super
+-lexeme
+ lex: алци
+ stem: алцӕййаути
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,nonhuman,pl,equ
+-lexeme
+ lex: алци
+ stem: алцитиау
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,nonhuman,pl,equ
+-lexeme
+ lex: алци
+ stem: алцердӕмӕти
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,nonhuman,pl,dir
+-lexeme
+ lex: алци
+ stem: алцердигӕйти
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,univ,nonhuman,pl,rcs
+-lexeme
+ lex: ести
+ stem: ести
+ paradigm: ZERO
+ transl_ru: что-нибудь
+ transl_en: something
+ gramm: PRON,interrog,nonhuman,indef,sg,nom
+-lexeme
+ lex: ести
+ stem: естӕмӕ
+ paradigm: ZERO
+ transl_ru: что-нибудь
+ transl_en: something
+ gramm: PRON,interrog,nonhuman,indef,sg,all
+-lexeme
+ lex: ести
+ stem: естӕй
+ paradigm: ZERO
+ transl_ru: что-нибудь
+ transl_en: something
+ gramm: PRON,interrog,nonhuman,indef,sg,gen
+-lexeme
+ lex: ести
+ stem: естӕмӕн
+ paradigm: ZERO
+ transl_ru: что-нибудь
+ transl_en: something
+ gramm: PRON,interrog,nonhuman,indef,sg,dat
+-lexeme
+ lex: ести
+ stem: естӕмӕй
+ paradigm: ZERO
+ transl_ru: что-нибудь
+ transl_en: something
+ gramm: PRON,interrog,nonhuman,indef,sg,abl
+-lexeme
+ lex: ести
+ stem: естӕми
+ paradigm: ZERO
+ transl_ru: что-нибудь
+ transl_en: something
+ gramm: PRON,interrog,nonhuman,indef,sg,in
+-lexeme
+ lex: ести
+ stem: естӕбӕл
+ paradigm: ZERO
+ transl_ru: что-нибудь
+ transl_en: something
+ gramm: PRON,interrog,nonhuman,indef,sg,super
+-lexeme
+ lex: ести
+ stem: естӕййау
+ paradigm: ZERO
+ transl_ru: что-нибудь
+ transl_en: something
+ gramm: PRON,interrog,nonhuman,indef,sg,equ
+-lexeme
+ lex: ести
+ stem: еститӕ
+ paradigm: ZERO
+ transl_ru: что-нибудь
+ transl_en: something
+ gramm: PRON,interrog,nonhuman,indef,pl,nom
+-lexeme
+ lex: ести
+ stem: естити
+ paradigm: ZERO
+ transl_ru: что-нибудь
+ transl_en: something
+ gramm: PRON,interrog,nonhuman,indef,pl,gen
+-lexeme
+ lex: ести
+ stem: естӕйти
+ paradigm: ZERO
+ transl_ru: что-нибудь
+ transl_en: something
+ gramm: PRON,interrog,nonhuman,indef,pl,gen
+-lexeme
+ lex: ести
+ stem: естӕмӕнти
+ paradigm: ZERO
+ transl_ru: что-нибудь
+ transl_en: something
+ gramm: PRON,interrog,nonhuman,indef,pl,dat
+-lexeme
+ lex: ести
+ stem: естӕмӕти
+ paradigm: ZERO
+ transl_ru: что-нибудь
+ transl_en: something
+ gramm: PRON,interrog,nonhuman,indef,pl,all
+-lexeme
+ lex: ести
+ stem: естӕмӕйти
+ paradigm: ZERO
+ transl_ru: что-нибудь
+ transl_en: something
+ gramm: PRON,interrog,nonhuman,indef,pl,abl
+-lexeme
+ lex: ести
+ stem: естӕмити
+ paradigm: ZERO
+ transl_ru: что-нибудь
+ transl_en: something
+ gramm: PRON,interrog,nonhuman,indef,pl,in
+-lexeme
+ lex: ести
+ stem: естӕбӕлти
+ paradigm: ZERO
+ transl_ru: что-нибудь
+ transl_en: something
+ gramm: PRON,interrog,nonhuman,indef,pl,super
+-lexeme
+ lex: ести
+ stem: еститиау
+ paradigm: ZERO
+ transl_ru: что-нибудь
+ transl_en: something
+ gramm: PRON,interrog,nonhuman,indef,pl,equ
+-lexeme
+ lex: ести
+ stem: естӕййаути
+ paradigm: ZERO
+ transl_ru: что-нибудь
+ transl_en: something
+ gramm: PRON,interrog,nonhuman,indef,pl,equ
+-lexeme
+ lex: кӕци
+ stem: кӕци
+ paradigm: ZERO
+ transl_ru: который
+ transl_en: which
+ gramm: PRON,ADJ,interrog,sg,nom
+-lexeme
+ lex: кӕци
+ stem: кӕций
+ paradigm: ZERO
+ transl_ru: который
+ transl_en: which
+ gramm: PRON,ADJ,interrog,sg,gen
+-lexeme
+ lex: кӕци
+ stem: кӕцимӕн
+ paradigm: ZERO
+ transl_ru: который
+ transl_en: which
+ gramm: PRON,ADJ,interrog,sg,dat
+-lexeme
+ lex: кӕци
+ stem: кӕцимӕ
+ paradigm: ZERO
+ transl_ru: который
+ transl_en: which
+ gramm: PRON,ADJ,interrog,sg,all
+-lexeme
+ lex: кӕци
+ stem: кӕцимӕй
+ paradigm: ZERO
+ transl_ru: который
+ transl_en: which
+ gramm: PRON,ADJ,interrog,sg,abl
+-lexeme
+ lex: кӕци
+ stem: кӕцими
+ paradigm: ZERO
+ transl_ru: который
+ transl_en: which
+ gramm: PRON,ADJ,interrog,sg,in
+-lexeme
+ lex: кӕци
+ stem: кӕцибӕл
+ paradigm: ZERO
+ transl_ru: который
+ transl_en: which
+ gramm: PRON,ADJ,interrog,sg,super
+-lexeme
+ lex: кӕци
+ stem: кӕциау
+ paradigm: ZERO
+ transl_ru: который
+ transl_en: which
+ gramm: PRON,ADJ,interrog,sg,equ 
+-lexeme
+ lex: кӕцитӕ
+ stem: кӕцитӕ
+ paradigm: ZERO
+ transl_ru: который
+ transl_en: which
+ gramm: PRON,ADJ,interrog,pl,nom
+-lexeme
+ lex: кӕцитӕ
+ stem: кӕцити
+ paradigm: ZERO
+ transl_ru: который
+ transl_en: which
+ gramm: PRON,ADJ,interrog,pl,gen
+-lexeme
+ lex: кӕцитӕ
+ stem: кӕцитӕн
+ paradigm: ZERO
+ transl_ru: который
+ transl_en: which
+ gramm: PRON,ADJ,interrog,pl,dat
+-lexeme
+ lex: кӕцитӕ
+ stem: кӕцитӕмӕ
+ paradigm: ZERO
+ transl_ru: который
+ transl_en: which
+ gramm: PRON,ADJ,interrog,pl,all
+-lexeme
+ lex: кӕцитӕ
+ stem: кӕцитӕй
+ paradigm: ZERO
+ transl_ru: который
+ transl_en: which
+ gramm: PRON,ADJ,interrog,pl,abl
+-lexeme
+ lex: кӕцитӕ
+ stem: кӕцитими
+ paradigm: ZERO
+ transl_ru: который
+ transl_en: which
+ gramm: PRON,ADJ,interrog,pl,in
+-lexeme
+ lex: кӕцитӕ
+ stem: кӕцитӕбӕл
+ paradigm: ZERO
+ transl_ru: который
+ transl_en: which
+ gramm: PRON,ADJ,interrog,pl,super
+-lexeme
+ lex: кӕцитӕ
+ stem: кӕцитиау
+ paradigm: ZERO
+ transl_ru: который
+ transl_en: which
+ gramm: PRON,ADJ,interrog,pl,equ  
+-lexeme
+ lex: некӕци
+ stem: некӕци
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,sg,nom
+-lexeme
+ lex: некӕци
+ stem: некӕций
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,sg,gen
+-lexeme
+ lex: некӕци
+ stem: некӕцимӕн
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,sg,dat
+-lexeme
+ lex: некӕци
+ stem: некӕцимӕ
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,sg,all
+-lexeme
+ lex: некӕци
+ stem: некӕцимӕй
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,sg,abl
+-lexeme
+ lex: некӕци
+ stem: некӕцими
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,sg,in
+-lexeme
+ lex: некӕци
+ stem: некӕцибӕл
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,sg,super
+-lexeme
+ lex: некӕци
+ stem: некӕциау
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,sg,equ
+-lexeme
+ lex: некӕцитӕ
+ stem: некӕцитӕ
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,pl,nom
+-lexeme
+ lex: некӕцитӕ
+ stem: некӕцити
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,pl,gen
+-lexeme
+ lex: некӕцитӕ
+ stem: некӕцитӕн
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,pl,dat
+-lexeme
+ lex: некӕцитӕ
+ stem: некӕцитӕмӕ
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,pl,all
+-lexeme
+ lex: некӕцитӕ
+ stem: некӕцитӕй
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,pl,abl
+-lexeme
+ lex: некӕцитӕ
+ stem: некӕцитими
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,pl,in
+-lexeme
+ lex: некӕцитӕ
+ stem: некӕцитӕбӕл
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,pl,super
+-lexeme
+ lex: некӕцитӕ
+ stem: некӕцитиау
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,pl,equ
+-lexeme
+ lex: макӕци
+ stem: макӕци
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,sg,nom
+-lexeme
+ lex: макӕци
+ stem: макӕций
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,sg,gen
+-lexeme
+ lex: макӕци
+ stem: макӕцимӕн
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,sg,dat
+-lexeme
+ lex: макӕци
+ stem: макӕцимӕ
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,sg,all
+-lexeme
+ lex: макӕци
+ stem: макӕцимӕй
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,sg,abl
+-lexeme
+ lex: макӕци
+ stem: макӕцими
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,sg,in
+-lexeme
+ lex: макӕци
+ stem: макӕцибӕл
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,sg,super
+-lexeme
+ lex: макӕци
+ stem: макӕциау
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,sg,equ
+-lexeme
+ lex: макӕцитӕ
+ stem: макӕцитӕ
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,pl,nom
+-lexeme
+ lex: макӕцитӕ
+ stem: макӕцити
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,pl,gen
+-lexeme
+ lex: макӕцитӕ
+ stem: макӕцитӕн
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,pl,dat
+-lexeme
+ lex: макӕцитӕ
+ stem: макӕцитӕмӕ
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,pl,all
+-lexeme
+ lex: макӕцитӕ
+ stem: макӕцитӕй
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,pl,abl
+-lexeme
+ lex: макӕцитӕ
+ stem: макӕцитими
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,pl,in
+-lexeme
+ lex: макӕцитӕ
+ stem: макӕцитӕбӕл
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,pl,super
+-lexeme
+ lex: макӕцитӕ
+ stem: макӕцитиау
+ paradigm: ZERO
+ transl_ru: никакой
+ transl_en: none
+ gramm: PRON,ADJ,interrog,neg,pl,equ
+-lexeme
+ lex: алкӕци
+ stem: алкӕци
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,ADJ,univ,sg,nom
+-lexeme
+ lex: алкӕци
+ stem: алкӕций
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,ADJ,univ,sg,gen
+-lexeme
+ lex: алкӕци
+ stem: алкӕцимӕн
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,ADJ,univ,sg,dat
+-lexeme
+ lex: алкӕци
+ stem: алкӕцимӕ
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,ADJ,univ,sg,all
+-lexeme
+ lex: алкӕци
+ stem: алкӕцимӕй
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,ADJ,univ,sg,abl
+-lexeme
+ lex: алкӕци
+ stem: алкӕцими
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,ADJ,univ,sg,in
+-lexeme
+ lex: алкӕци
+ stem: алкӕцибӕл
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,ADJ,univ,sg,super
+-lexeme
+ lex: алкӕци
+ stem: алкӕциау
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,ADJ,univ,sg,equ
+-lexeme
+ lex: алкӕцитӕ
+ stem: алкӕцитӕ
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,ADJ,univ,pl,nom
+-lexeme
+ lex: алкӕцитӕ
+ stem: алкӕцити
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,ADJ,univ,pl,gen
+-lexeme
+ lex: алкӕцитӕ
+ stem: алкӕцитӕн
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,ADJ,univ,pl,dat
+-lexeme
+ lex: алкӕцитӕ
+ stem: алкӕцитӕмӕ
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,ADJ,univ,pl,all
+-lexeme
+ lex: алкӕцитӕ
+ stem: алкӕцитӕй
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,ADJ,univ,pl,abl
+-lexeme
+ lex: алкӕцитӕ
+ stem: алкӕцитими
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,ADJ,univ,pl,in
+-lexeme
+ lex: алкӕцитӕ
+ stem: алкӕцитӕбӕл
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,ADJ,univ,pl,super
+-lexeme
+ lex: алкӕцитӕ
+ stem: алкӕцитиау
+ paradigm: ZERO
+ transl_ru: каждый
+ transl_en: every
+ gramm: PRON,ADJ,univ,pl,equ
+-lexeme
+ lex: ескӕци
+ stem: ескӕци
+ paradigm: ZERO
+ transl_ru: некоторый
+ transl_en: some
+ gramm: PRON,ADJ,sg,nom
+-lexeme
+ lex: ескӕци
+ stem: ескӕций
+ paradigm: ZERO
+ transl_ru: некоторый
+ transl_en: some
+ gramm: PRON,ADJ,sg,gen
+-lexeme
+ lex: ескӕци
+ stem: ескӕцимӕн
+ paradigm: ZERO
+ transl_ru: некоторый
+ transl_en: some
+ gramm: PRON,ADJ,sg,dat
+-lexeme
+ lex: ескӕци
+ stem: ескӕцимӕ
+ paradigm: ZERO
+ transl_ru: некоторый
+ transl_en: some
+ gramm: PRON,ADJ,sg,all
+-lexeme
+ lex: ескӕци
+ stem: ескӕцимӕй
+ paradigm: ZERO
+ transl_ru: некоторый
+ transl_en: some
+ gramm: PRON,ADJ,sg,abl
+-lexeme
+ lex: ескӕци
+ stem: ескӕцими
+ paradigm: ZERO
+ transl_ru: некоторый
+ transl_en: some
+ gramm: PRON,ADJ,sg,in
+-lexeme
+ lex: ескӕци
+ stem: ескӕцибӕл
+ paradigm: ZERO
+ transl_ru: некоторый
+ transl_en: some
+ gramm: PRON,ADJ,sg,super
+-lexeme
+ lex: ескӕци
+ stem: ескӕциау
+ paradigm: ZERO
+ transl_ru: некоторый
+ transl_en: some
+ gramm: PRON,ADJ,sg,equ
+-lexeme
+ lex: ескӕцитӕ
+ stem: ескӕцитӕ
+ paradigm: ZERO
+ transl_ru: некоторый
+ transl_en: some
+ gramm: PRON,ADJ,pl,nom
+-lexeme
+ lex: ескӕцитӕ
+ stem: ескӕцити
+ paradigm: ZERO
+ transl_ru: некоторый
+ transl_en: some
+ gramm: PRON,ADJ,pl,gen
+-lexeme
+ lex: ескӕцитӕ
+ stem: ескӕцитӕн
+ paradigm: ZERO
+ transl_ru: некоторый
+ transl_en: some
+ gramm: PRON,ADJ,pl,dat
+-lexeme
+ lex: ескӕцитӕ
+ stem: ескӕцитӕмӕ
+ paradigm: ZERO
+ transl_ru: некоторый
+ transl_en: some
+ gramm: PRON,ADJ,pl,all
+-lexeme
+ lex: ескӕцитӕ
+ stem: ескӕцитӕй
+ paradigm: ZERO
+ transl_ru: некоторый
+ transl_en: some
+ gramm: PRON,ADJ,pl,abl
+-lexeme
+ lex: ескӕцитӕ
+ stem: ескӕцитими
+ paradigm: ZERO
+ transl_ru: некоторый
+ transl_en: some
+ gramm: PRON,ADJ,pl,in
+-lexeme
+ lex: ескӕцитӕ
+ stem: ескӕцитӕбӕл
+ paradigm: ZERO
+ transl_ru: некоторый
+ transl_en: some
+ gramm: PRON,ADJ,pl,super
+-lexeme
+ lex: ескӕцитӕ
+ stem: ескӕцитиау
+ paradigm: ZERO
+ transl_ru: некоторый
+ transl_en: some
+ gramm: PRON,ADJ,pl,equ
+-lexeme
+ lex: кадӕр
+ stem: кадӕр
+ paradigm: ZERO
+ transl_ru: кто-то
+ transl_en: someone
+ gramm: PRON,interrog,indef,human,sg,nom
+-lexeme
+ lex: кадӕр
+ stem: кедӕр
+ paradigm: ZERO
+ transl_ru: кто-то
+ transl_en: someone
+ gramm: PRON,interrog,indef,human,sg,gen
+-lexeme
+ lex: кадӕр
+ stem: кӕмӕндӕр
+ paradigm: ZERO
+ transl_ru: кто-то
+ transl_en: someone
+ gramm: PRON,interrog,indef,human,sg,dat
+-lexeme
+ lex: кадӕр
+ stem: кӕмӕйдӕр
+ paradigm: ZERO
+ transl_ru: кто-то
+ transl_en: someone
+ gramm: PRON,interrog,indef,human,sg,abl
+-lexeme
+ lex: кадӕр
+ stem: кӕмӕдӕр
+ paradigm: ZERO
+ transl_ru: кто-то
+ transl_en: someone
+ gramm: PRON,interrog,indef,human,sg,all
+-lexeme
+ lex: кадӕр
+ stem: кӕмидӕр
+ paradigm: ZERO
+ transl_ru: кто-то
+ transl_en: someone
+ gramm: PRON,interrog,indef,human,sg,in
+-lexeme
+ lex: кадӕр
+ stem: кӕбӕлдӕр
+ paradigm: ZERO
+ transl_ru: кто-то
+ transl_en: someone
+ gramm: PRON,interrog,indef,human,sg,super
+-lexeme
+ lex: кадӕр
+ stem: кейаудӕр
+ paradigm: ZERO
+ transl_ru: кто-то
+ transl_en: someone
+ gramm: PRON,interrog,indef,human,sg,equ
+-lexeme
+ lex: кадӕр
+ stem: кердӕмӕдӕр
+ paradigm: ZERO
+ transl_ru: кто-то
+ transl_en: someone
+ gramm: PRON,interrog,indef,human,sg,dir
+-lexeme
+ lex: кадӕр
+ stem: кердӕгӕйдӕр
+ paradigm: ZERO
+ transl_ru: кто-то
+ transl_en: someone
+ gramm: PRON,interrog,indef,human,sg,rcs
+-lexeme
+ lex: кадӕр
+ stem: кадӕртӕ
+ paradigm: ZERO
+ transl_ru: кто-то
+ transl_en: someone
+ gramm: PRON,interrog,indef,human,pl,nom
+-lexeme
+ lex: кадӕр
+ stem: кедӕрти
+ paradigm: ZERO
+ transl_ru: кто-то
+ transl_en: someone
+ gramm: PRON,interrog,indef,human,pl,gen
+-lexeme
+ lex: кадӕр
+ stem: кӕмӕндӕрти
+ paradigm: ZERO
+ transl_ru: кто-то
+ transl_en: someone
+ gramm: PRON,interrog,indef,human,pl,dat
+-lexeme
+ lex: кадӕр
+ stem: кӕмӕдӕрти
+ paradigm: ZERO
+ transl_ru: кто-то
+ transl_en: someone
+ gramm: PRON,interrog,indef,human,pl,all
+-lexeme
+ lex: кадӕр
+ stem: кӕмӕйдӕрти
+ paradigm: ZERO
+ transl_ru: кто-то
+ transl_en: someone
+ gramm: PRON,interrog,indef,human,pl,abl
+-lexeme
+ lex: кадӕр
+ stem: кӕмидӕрти
+ paradigm: ZERO
+ transl_ru: кто-то
+ transl_en: someone
+ gramm: PRON,interrog,indef,human,pl,in
+-lexeme
+ lex: кадӕр
+ stem: кӕбӕлдӕрти
+ paradigm: ZERO
+ transl_ru: кто-то
+ transl_en: someone
+ gramm: PRON,interrog,indef,human,pl,super
+-lexeme
+ lex: кадӕр
+ stem: кедӕртиау
+ paradigm: ZERO
+ transl_ru: кто-то
+ transl_en: someone
+ gramm: PRON,interrog,indef,human,pl,equ
+-lexeme
+ lex: кадӕриддӕр
+ stem: кадӕриддӕр
+ paradigm: ZERO
+ transl_ru: кто бы ни
+ transl_en: whoever
+ gramm: PRON,indef,human,sg,nom
+-lexeme
+ lex: кадӕриддӕр
+ stem: кедӕриддӕр
+ paradigm: ZERO
+ transl_ru: кто бы ни
+ transl_en: whoever
+ gramm: PRON,indef,human,sg,gen
+-lexeme
+ lex: кадӕриддӕр
+ stem: кӕмӕндӕриддӕр
+ paradigm: ZERO
+ transl_ru: кто бы ни
+ transl_en: whoever
+ gramm: PRON,indef,human,sg,dat
+-lexeme
+ lex: кадӕриддӕр
+ stem: кӕмӕйдӕриддӕр
+ paradigm: ZERO
+ transl_ru: кто бы ни
+ transl_en: whoever
+ gramm: PRON,indef,human,sg,abl
+-lexeme
+ lex: кадӕриддӕр
+ stem: кӕмӕдӕриддӕр
+ paradigm: ZERO
+ transl_ru: кто бы ни
+ transl_en: whoever
+ gramm: PRON,indef,human,sg,all
+-lexeme
+ lex: кадӕриддӕр
+ stem: кӕмидӕриддӕр
+ paradigm: ZERO
+ transl_ru: кто бы ни
+ transl_en: whoever
+ gramm: PRON,indef,human,sg,in
+-lexeme
+ lex: кадӕриддӕр
+ stem: кӕбӕлдӕриддӕр
+ paradigm: ZERO
+ transl_ru: кто бы ни
+ transl_en: whoever
+ gramm: PRON,indef,human,sg,super
+-lexeme
+ lex: кадӕриддӕр
+ stem: кейаудӕриддӕр
+ paradigm: ZERO
+ transl_ru: кто бы ни
+ transl_en: whoever
+ gramm: PRON,indef,human,sg,equ
+-lexeme
+ lex: кадӕриддӕр
+ stem: кердӕмӕдӕриддӕр
+ paradigm: ZERO
+ transl_ru: кто бы ни
+ transl_en: whoever
+ gramm: PRON,indef,human,sg,dir
+-lexeme
+ lex: кадӕриддӕр
+ stem: кердӕгӕйдӕриддӕр
+ paradigm: ZERO
+ transl_ru: кто бы ни
+ transl_en: whoever
+ gramm: PRON,indef,human,sg,rcs
+-lexeme
+ lex: кадӕриддӕр
+ stem: кадӕриддӕртӕ
+ paradigm: ZERO
+ transl_ru: кто бы ни
+ transl_en: whoever
+ gramm: PRON,indef,human,pl,nom
+-lexeme
+ lex: кадӕриддӕр
+ stem: кедӕриддӕрти
+ paradigm: ZERO
+ transl_ru: кто бы ни
+ transl_en: whoever
+ gramm: PRON,indef,human,pl,gen
+-lexeme
+ lex: кадӕриддӕр
+ stem: кӕмӕндӕриддӕрти
+ paradigm: ZERO
+ transl_ru: кто бы ни
+ transl_en: whoever
+ gramm: PRON,indef,human,pl,dat
+-lexeme
+ lex: кадӕриддӕр
+ stem: кӕмӕдӕриддӕрти
+ paradigm: ZERO
+ transl_ru: кто бы ни
+ transl_en: whoever
+ gramm: PRON,indef,human,pl,all
+-lexeme
+ lex: кадӕриддӕр
+ stem: кӕмӕйдӕриддӕрти
+ paradigm: ZERO
+ transl_ru: кто бы ни
+ transl_en: whoever
+ gramm: PRON,indef,human,pl,abl
+-lexeme
+ lex: кадӕриддӕр
+ stem: кӕмидӕриддӕрти
+ paradigm: ZERO
+ transl_ru: кто бы ни
+ transl_en: whoever
+ gramm: PRON,indef,human,pl,in
+-lexeme
+ lex: кадӕриддӕр
+ stem: кӕбӕлдӕриддӕрти
+ paradigm: ZERO
+ transl_ru: кто бы ни
+ transl_en: whoever
+ gramm: PRON,indef,human,pl,super
+-lexeme
+ lex: кадӕриддӕр
+ stem: кедӕриддӕртиау
+ paradigm: ZERO
+ transl_ru: кто бы ни
+ transl_en: whoever
+ gramm: PRON,indef,human,pl,equ
+-lexeme
+ lex: цидӕр
+ stem: цидӕр
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,sg,nom
+-lexeme
+ lex: цидӕр
+ stem: цӕмӕдӕр
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,sg,all
+-lexeme
+ lex: цидӕр
+ stem: цӕйдӕр
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,sg,gen
+-lexeme
+ lex: цидӕр
+ stem: цӕмӕндӕр
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,sg,dat
+-lexeme
+ lex: цидӕр
+ stem: цӕмӕйдӕр
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,sg,abl
+-lexeme
+ lex: цидӕр
+ stem: цӕмидӕр
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,sg,in
+-lexeme
+ lex: цидӕр
+ stem: цӕбӕлдӕр
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,sg,super
+-lexeme
+ lex: цидӕр
+ stem: цӕййаудӕр
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,sg,equ
+-lexeme
+ lex: цидӕр
+ stem: цердӕмӕдӕр
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,sg,dir
+-lexeme
+ lex: цидӕр
+ stem: цердигӕйдӕр
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,sg,rcs
+-lexeme
+ lex: цидӕр
+ stem: цидӕртӕ
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,pl,nom
+-lexeme
+ lex: цидӕр
+ stem: цидӕрти
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,pl,gen
+-lexeme
+ lex: цидӕр
+ stem: цӕйдӕрти
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,pl,gen
+-lexeme
+ lex: цидӕр
+ stem: цӕмӕндӕрти
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,pl,dat
+-lexeme
+ lex: цидӕр
+ stem: цӕмӕйдӕрти
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,pl,abl
+-lexeme
+ lex: цидӕр
+ stem: цӕмидӕрти
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,pl,in
+-lexeme
+ lex: цидӕр
+ stem: цӕбӕлдӕрти
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,pl,super
+-lexeme
+ lex: цидӕр
+ stem: цӕййаудӕрти
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,pl,equ
+-lexeme
+ lex: цидӕр
+ stem: цидӕртиау
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,pl,equ
+-lexeme
+ lex: цидӕр
+ stem: цердӕмӕдӕрти
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,pl,dir
+-lexeme
+ lex: цидӕр
+ stem: цердигӕйдӕрти
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,pl,rcs
+-lexeme
+ lex: цидӕриддӕр
+ stem: цидӕриддӕр
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,sg,nom
+-lexeme
+ lex: цидӕриддӕр
+ stem: цӕмӕдӕриддӕр
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,sg,all
+-lexeme
+ lex: цидӕриддӕр
+ stem: цӕйдӕриддӕр
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,sg,gen
+-lexeme
+ lex: цидӕриддӕр
+ stem: цӕмӕндӕриддӕр
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,sg,dat
+-lexeme
+ lex: цидӕриддӕр
+ stem: цӕмӕйдӕриддӕр
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,sg,abl
+-lexeme
+ lex: цидӕриддӕр
+ stem: цӕмидӕриддӕр
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,sg,in
+-lexeme
+ lex: цидӕриддӕр
+ stem: цӕбӕлдӕриддӕр
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,sg,super
+-lexeme
+ lex: цидӕриддӕр
+ stem: цӕййаудӕриддӕр
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,sg,equ
+-lexeme
+ lex: цидӕриддӕр
+ stem: цердӕмӕдӕриддӕр
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,sg,dir
+-lexeme
+ lex: цидӕриддӕр
+ stem: цердигӕйдӕриддӕр
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,sg,rcs
+-lexeme
+ lex: цидӕриддӕр
+ stem: цидӕриддӕртӕ
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,pl,nom
+-lexeme
+ lex: цидӕриддӕр
+ stem: цидӕриддӕрти
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,pl,gen
+-lexeme
+ lex: цидӕриддӕр
+ stem: цӕйдӕриддӕрти
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,pl,gen
+-lexeme
+ lex: цидӕриддӕр
+ stem: цӕмӕндӕриддӕрти
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,pl,dat
+-lexeme
+ lex: цидӕриддӕр
+ stem: цӕмӕйдӕриддӕрти
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,pl,abl
+-lexeme
+ lex: цидӕриддӕр
+ stem: цӕмидӕриддӕрти
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,pl,in
+-lexeme
+ lex: цидӕриддӕр
+ stem: цӕбӕлдӕриддӕрти
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,pl,super
+-lexeme
+ lex: цидӕриддӕр
+ stem: цӕййаудӕриддӕрти
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,pl,equ
+-lexeme
+ lex: цидӕриддӕр
+ stem: цидӕриддӕртиау
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,pl,equ
+-lexeme
+ lex: цидӕриддӕр
+ stem: цердӕмӕдӕриддӕрти
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,pl,dir
+-lexeme
+ lex: цидӕриддӕр
+ stem: цердигӕйдӕриддӕрти
+ paradigm: ZERO
+ transl_ru: что-то
+ transl_en: something
+ gramm: PRON,indef,nonhuman,pl,rcs
+-lexeme
+ lex: фӕ
+ stem: фӕ
+ paradigm: ZERO
+ transl_ru: PV
+ transl_en: PV
+ gramm: PV,pv-fӕ
+-lexeme
+ lex: ба
+ stem: ба
+ paradigm: ZERO
+ transl_ru: PV
+ transl_en: PV
+ gramm: PV,pv-ba
+ -lexeme
+ lex: ӕрба
+ stem: ӕрба
+ paradigm: ZERO
+ transl_ru: PV
+ transl_en: PV
+ gramm: PV,pv-ӕrba
+-lexeme
+ lex: ӕр
+ stem: ӕр
+ paradigm: ZERO
+ transl_ru: PV
+ transl_en: PV
+ gramm: PV,pv-ӕр
+-lexeme
+ lex: ӕра
+ stem: ӕра
+ paradigm: ZERO
+ transl_ru: PV
+ transl_en: PV
+ gramm: PV,pv-ӕрa
+-lexeme
+ lex: ра
+ stem: ра
+ paradigm: ZERO
+ transl_ru: PV
+ transl_en: PV
+ gramm: PV,pv-ra
+-lexeme
+ lex: ис
+ stem: ис
+ paradigm: ZERO
+ transl_ru: PV
+ transl_en: PV
+ gramm: PV,pv-is
+-lexeme
+ lex: ни
+ stem: ни
+ paradigm: ZERO
+ transl_ru: PV
+ transl_en: PV
+ gramm: PV,pv-ni
+-lexeme
+ lex: ун
+ stem: дӕн.
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,prs,1,sg
+-lexeme
+ lex: ун
+ stem: дӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,prs,2,sg
+-lexeme
+ lex: ун
+ stem: ӕй
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,prs,3,sg
+-lexeme
+ lex: ун
+ stem: ес
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,exst,prs,3
+-lexeme
+ lex: ун
+ stem: ан
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,prs,1,pl
+-lexeme
+ lex: ун
+ stem: айтӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,prs,2,pl
+-lexeme
+ lex: ун
+ stem: ӕнцӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,prs,3,pl
+ lex: ун
+ stem: уайинӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,opt,1,sg
+-lexeme
+ lex: ун
+ stem: уайсӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,opt,2,sg
+-lexeme
+ lex: ун
+ stem: уайдӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,opt,3,sg
+-lexeme
+ lex: ун
+ stem: уайанӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,opt,1,pl
+-lexeme
+ lex: ун
+ stem: уайайтӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,opt,2,pl
+-lexeme
+ lex: ун
+ stem: уайуонцӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,opt,3,pl
+-lexeme
+ lex: ун
+ stem: уо
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,imp,2,sg
+-lexeme
+ lex: ун
+ stem: уотӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,imp,2,pl
+-lexeme
+ lex: ун
+ stem: уӕд
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,imp,3,sg
+-lexeme
+ lex: ун
+ stem: уӕнтӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,imp,3,pl
+-lexeme
+ lex: фӕуун
+ stem: фӕуун
+ paradigm: Vintr
+ transl_ru: бывать; закончить; оказаться, очутиться
+ transl_en: be.HAB; finish; find oneself
+ gramm: V,intr,pv,pv-fӕ
+-lexeme
+ lex: баун
+ stem: баун
+ paradigm: Vintr
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-ba
+-lexeme
+ lex: баун
+ stem: бадӕн.
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-ba,prs,1,sg
+-lexeme
+ lex: баун
+ stem: бадӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-ba,prs,2,sg
+-lexeme
+ lex: баун
+ stem: бацӕй
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-ba,prs,3,sg
+-lexeme
+ lex: баун
+ stem: бацан
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-ba,prs,1,pl
+-lexeme
+ lex: баун
+ stem: бацайтӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-ba,prs,2,pl
+-lexeme
+ lex: баун
+ stem: бацӕнцӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-ba,prs,3,pl
+-lexeme
+ lex: баун
+ stem: бауайинӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-ba,opt,1,sg
+-lexeme
+ lex: баун
+ stem: бауайсӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-ba,opt,2,sg
+-lexeme
+ lex: баун
+ stem: бауайдӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-ba,opt,3,sg
+-lexeme
+ lex: баун
+ stem: бауайанӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-ba,opt,1,pl
+-lexeme
+ lex: баун
+ stem: бауайайтӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-ba,opt,2,pl
+-lexeme
+ lex: баун
+ stem: бауайуонцӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-ba,opt,3,pl
+-lexeme
+ lex: баун
+ stem: бауо
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-ba,imp,2,sg
+-lexeme
+ lex: баун
+ stem: бауотӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-ba,imp,2,pl
+-lexeme
+ lex: баун
+ stem: бауӕд
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-ba,imp,3,sg
+-lexeme
+ lex: баун
+ stem: бауӕнтӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-ba,imp,3,pl
+-lexeme
+ lex: исун
+ stem: исун
+ paradigm: Vintr
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-is
+-lexeme
+ lex: исун
+ stem: исдӕн.
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-is,prs,1,sg
+-lexeme
+ lex: исун
+ stem: исдӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-is,prs,2,sg
+-lexeme
+ lex: исун
+ stem: исӕй
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-is,prs,3,sg
+-lexeme
+ lex: исун
+ stem: исан
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-is,prs,1,pl
+-lexeme
+ lex: исун
+ stem: исайтӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-is,prs,2,pl
+-lexeme
+ lex: исун
+ stem: исӕнцӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-is,prs,3,pl
+-lexeme
+ lex: исун
+ stem: исуайинӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-is,opt,1,sg
+-lexeme
+ lex: исун
+ stem: исуайсӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-is,opt,2,sg
+-lexeme
+ lex: исун
+ stem: исуайдӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-is,opt,3,sg
+-lexeme
+ lex: исун
+ stem: исуайанӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-is,opt,1,pl
+-lexeme
+ lex: исун
+ stem: исуайайтӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-is,opt,2,pl
+-lexeme
+ lex: исун
+ stem: исуайуонцӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-is,opt,3,pl
+-lexeme
+ lex: исун
+ stem: исуо
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-is,imp,2,sg
+-lexeme
+ lex: исун
+ stem: исуотӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-is,imp,2,pl
+-lexeme
+ lex: исун
+ stem: исуӕд
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-is,imp,3,sg
+-lexeme
+ lex: исун
+ stem: исуӕнтӕ
+ paradigm: ZERO
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-is,imp,3,pl
+-lexeme
+ lex: исун
+ stem: исуйнаг.|исуинӕг.
+ paradigm: Nct
+ transl_ru: быть
+ transl_en: be
+ gramm: V,intr,pv,pv-is,ptcp.inag
+-lexeme
+ lex: ӕз
+ stem: ӕз
+ paradigm: ZERO
+ transl_ru: я
+ transl_en: I
+ gramm: PRON,pers,full,1,sg,nom
+-lexeme
+ lex: ӕз
+ stem: мӕн
+ paradigm: ZERO
+ transl_ru: я
+ transl_en: I
+ gramm: PRON,pers,full,1,sg,gen
+-lexeme
+ lex: ӕз
+ stem: мӕнӕн
+ paradigm: ZERO
+ transl_ru: я
+ transl_en: I
+ gramm: PRON,pers,full,1,sg,dat
+-lexeme
+ lex: ӕз
+ stem: мӕнмӕ//мӕммӕ
+ paradigm: ZERO
+ transl_ru: я
+ transl_en: I
+ gramm: PRON,pers,full,1,sg,all
+-lexeme
+ lex: ӕз
+ stem: мӕнӕй
+ paradigm: ZERO
+ transl_ru: я
+ transl_en: I
+ gramm: PRON,pers,full,1,sg,abl
+-lexeme
+ lex: ӕз
+ stem: мӕнбӕл
+ paradigm: ZERO
+ transl_ru: я
+ transl_en: I
+ gramm: PRON,pers,full,1,sg,super
+-lexeme
+ lex: ӕз
+ stem: мӕнау
+ paradigm: ZERO
+ transl_ru: я
+ transl_en: I
+ gramm: PRON,pers,full,1,sg,equ
+-lexeme
+ lex: ӕз
+ stem: мӕнӕрдӕмӕ
+ paradigm: ZERO
+ transl_ru: я
+ transl_en: I
+ gramm: PRON,pers,full,1,sg,dir
+-lexeme
+ lex: ӕз
+ stem: мердӕмӕ
+ paradigm: ZERO
+ transl_ru: я
+ transl_en: I
+ gramm: PRON,pers,full,1,sg,dir
+-lexeme
+ lex: ӕз
+ stem: мӕнӕрдӕгӕй
+ paradigm: ZERO
+ transl_ru: я
+ transl_en: I
+ gramm: PRON,pers,full,1,sg,rcs
+-lexeme
+ lex: ду
+ stem: ду
+ paradigm: ZERO
+ transl_ru: ты
+ transl_en: you.sg
+ gramm: PRON,pers,full,2,sg,nom
+-lexeme
+ lex: ду
+ stem: дӕу
+ paradigm: ZERO
+ transl_ru: ты
+ transl_en: you.sg
+ gramm: PRON,pers,full,2,sg,gen
+-lexeme
+ lex: ду
+ stem: дӕуӕн
+ paradigm: ZERO
+ transl_ru: ты
+ transl_en: you.sg
+ gramm: PRON,pers,full,2,sg,dat
+-lexeme
+ lex: ду
+ stem: дӕумӕ
+ paradigm: ZERO
+ transl_ru: ты
+ transl_en: you.sg
+ gramm: PRON,pers,full,2,sg,all
+-lexeme
+ lex: ду
+ stem: дӕуӕй
+ paradigm: ZERO
+ transl_ru: ты
+ transl_en: you.sg
+ gramm: PRON,pers,full,2,sg,abl
+-lexeme
+ lex: ду
+ stem: дӕубӕл
+ paradigm: ZERO
+ transl_ru: ты
+ transl_en: you.sg
+ gramm: PRON,pers,full,2,sg,super
+-lexeme
+ lex: ду
+ stem: дӕуау
+ paradigm: ZERO
+ transl_ru: ты
+ transl_en: you.sg
+ gramm: PRON,pers,full,2,sg,equ
+-lexeme
+ lex: ду
+ stem: дӕуӕрдӕмӕ
+ paradigm: ZERO
+ transl_ru: ты
+ transl_en: you.sg
+ gramm: PRON,pers,full,2,sg,nom
+-lexeme
+ lex: ду
+ stem: дердӕмӕ
+ paradigm: ZERO
+ transl_ru: ты
+ transl_en: you.sg
+ gramm: PRON,pers,full,2,sg,nom
+-lexeme
+ lex: ду
+ stem: дӕуӕрдӕгӕй
+ paradigm: ZERO
+ transl_ru: ты
+ transl_en: you.sg
+ gramm: PRON,pers,full,2,sg,nom
+-lexeme
+ lex: ду
+ stem: дердӕгӕй
+ paradigm: ZERO
+ transl_ru: ты
+ transl_en: you.sg
+ gramm: PRON,pers,full,2,sg,nom 
+-lexeme
+ lex: е
+ stem: е
+ paradigm: ZERO
+ transl_ru: тот
+ transl_en: that
+ gramm: PRON,dem,dist,3,sg,nom
+-lexeme
+ lex: е
+ stem: ейӕ
+ paradigm: ZERO
+ transl_ru: тот
+ transl_en: that
+ gramm: PRON,dem,dist,3,sg,nom
+-lexeme
+ lex: е
+ stem: уой
+ paradigm: ZERO
+ transl_ru: тот
+ transl_en: that
+ gramm: PRON,dem,dist,3,sg,gen
+-lexeme
+ lex: е
+ stem: уомӕн
+ paradigm: ZERO
+ transl_ru: тот
+ transl_en: that
+ gramm: PRON,dem,dist,3,sg,dat
+-lexeme
+ lex: е
+ stem: уомӕ
+ paradigm: ZERO
+ transl_ru: тот
+ transl_en: that
+ gramm: PRON,dem,dist,3,sg,all
+-lexeme
+ lex: е
+ stem: уомӕй
+ paradigm: ZERO
+ transl_ru: тот
+ transl_en: that
+ gramm: PRON,dem,dist,3,sg,abl
+-lexeme
+ lex: е
+ stem: уоми
+ paradigm: ZERO
+ transl_ru: тот
+ transl_en: that
+ gramm: PRON,dem,dist,3,sg,in
+-lexeme
+ lex: е
+ stem: уобӕл//уобӕл
+ paradigm: ZERO
+ transl_ru: тот
+ transl_en: that
+ gramm: PRON,dem,dist,3,sg,super
+-lexeme
+ lex: е
+ stem: уоййау
+ paradigm: ZERO
+ transl_ru: тот
+ transl_en: that
+ gramm: PRON,dem,dist,3,sg,equ
+-lexeme
+ lex: е
+ stem: уордӕмӕ
+ paradigm: ZERO
+ transl_ru: тот
+ transl_en: that
+ gramm: PRON,dem,dist,3,sg,dir
+-lexeme
+ lex: е
+ stem: уордӕгӕй
+ paradigm: ZERO
+ transl_ru: тот
+ transl_en: that
+ gramm: PRON,dem,dist,3,sg,rcs
+-lexeme
+ lex: е
+ stem: уордигӕй
+ paradigm: ZERO
+ transl_ru: тот
+ transl_en: that
+ gramm: PRON,dem,dist,3,sg,rcs
+-lexeme
+ lex: а
+ stem: а//айӕ
+ paradigm: ZERO
+ transl_ru: этот
+ transl_en: this
+ gramm: PRON,dem,prox,3,sg,nom
+-lexeme
+ lex: а
+ stem: ай
+ paradigm: ZERO
+ transl_ru: этот
+ transl_en: this
+ gramm: PRON,dem,prox,3,sg,gen
+-lexeme
+ lex: а
+ stem: амӕн
+ paradigm: ZERO
+ transl_ru: этот
+ transl_en: this
+ gramm: PRON,dem,prox,3,sg,dat
+-lexeme
+ lex: а
+ stem: амӕ
+ paradigm: ZERO
+ transl_ru: этот
+ transl_en: this
+ gramm: PRON,dem,prox,3,sg,all
+-lexeme
+ lex: а
+ stem: амӕй
+ paradigm: ZERO
+ transl_ru: этот
+ transl_en: this
+ gramm: PRON,dem,prox,3,sg,abl
+-lexeme
+ lex: а
+ stem: ами
+ paradigm: ZERO
+ transl_ru: этот
+ transl_en: this
+ gramm: PRON,dem,prox,3,sg,in
+-lexeme
+ lex: а
+ stem: абӕл
+ paradigm: ZERO
+ transl_ru: этот
+ transl_en: this
+ gramm: PRON,dem,prox,3,sg,super
+-lexeme
+ lex: а
+ stem: аййау
+ paradigm: ZERO
+ transl_ru: этот
+ transl_en: this
+ gramm: PRON,dem,prox,3,sg,equ
+-lexeme
+ lex: а
+ stem: ардӕмӕ
+ paradigm: ZERO
+ transl_ru: этот
+ transl_en: this
+ gramm: PRON,dem,prox,3,sg,dir
+-lexeme
+ lex: а
+ stem: ардӕгӕй
+ paradigm: ZERO
+ transl_ru: этот
+ transl_en: this
+ gramm: PRON,dem,prox,3,sg,rcs 
+-lexeme
+ lex: сумах
+ stem: сумах
+ paradigm: ZERO
+ transl_ru: вы
+ transl_en: you
+ gramm: PRON,pers,full,2,pl,nom
+-lexeme
+ lex: сумах
+ stem: сумах
+ paradigm: ZERO
+ transl_ru: вы
+ transl_en: you
+ gramm: PRON,pers,full,2,pl,gen
+-lexeme
+ lex: сумах
+ stem: сумахӕн
+ paradigm: ZERO
+ transl_ru: вы
+ transl_en: you
+ gramm: PRON,pers,full,2,pl,dat
+-lexeme
+ lex: сумах
+ stem: сумахмӕ
+ paradigm: ZERO
+ transl_ru: вы
+ transl_en: you
+ gramm: PRON,pers,full,2,pl,all
+-lexeme
+ lex: сумах
+ stem: сумахӕй
+ paradigm: ZERO
+ transl_ru: вы
+ transl_en: you
+ gramm: PRON,pers,full,2,pl,abl
+-lexeme
+ lex: сумах
+ stem: сумахбӕл
+ paradigm: ZERO
+ transl_ru: вы
+ transl_en: you
+ gramm: PRON,pers,full,2,pl,super
+-lexeme
+ lex: сумах
+ stem: сумахау
+ paradigm: ZERO
+ transl_ru: вы
+ transl_en: you
+ gramm: PRON,pers,full,2,pl,equ
+-lexeme
+ lex: сумах
+ stem: сумахӕрдӕмӕ
+ paradigm: ZERO
+ transl_ru: вы
+ transl_en: you
+ gramm: PRON,pers,full,2,pl,dir
+-lexeme
+ lex: сумах
+ stem: сумахӕрдӕгӕй
+ paradigm: ZERO
+ transl_ru: вы
+ transl_en: you
+ gramm: PRON,pers,full,2,pl,rcs
+-lexeme
+ lex: атӕ
+ stem: атӕ
+ paradigm: ZERO
+ transl_ru: этот
+ transl_en: this
+ gramm: PRON,dem,prox,3,pl,nom
+-lexeme
+ lex: атӕ
+ stem: ани
+ paradigm: ZERO
+ transl_ru: этот
+ transl_en: this
+ gramm: PRON,dem,prox,3,pl,gen
+-lexeme
+ lex: атӕ
+ stem: анӕн
+ paradigm: ZERO
+ transl_ru: этот
+ transl_en: this
+ gramm: PRON,dem,prox,3,pl,dat
+-lexeme
+ lex: атӕ
+ stem: анӕмӕ
+ paradigm: ZERO
+ transl_ru: этот
+ transl_en: this
+ gramm: PRON,dem,prox,3,pl,all
+-lexeme
+ lex: атӕ
+ stem: анӕй
+ paradigm: ZERO
+ transl_ru: этот
+ transl_en: this
+ gramm: PRON,dem,prox,3,pl,abl
+-lexeme
+ lex: атӕ
+ stem: анӕми
+ paradigm: ZERO
+ transl_ru: этот
+ transl_en: this
+ gramm: PRON,dem,prox,3,pl,in
+-lexeme
+ lex: атӕ
+ stem: анӕбӕл
+ paradigm: ZERO
+ transl_ru: этот
+ transl_en: this
+ gramm: PRON,dem,prox,3,pl,super
+-lexeme
+ lex: атӕ
+ stem: аниау
+ paradigm: ZERO
+ transl_ru: этот
+ transl_en: this
+ gramm: PRON,dem,prox,3,pl,equ
+-lexeme
+ lex: атӕ
+ stem: анӕрдӕмӕ
+ paradigm: ZERO
+ transl_ru: этот
+ transl_en: this
+ gramm: PRON,dem,prox,3,pl,dir
+-lexeme
+ lex: атӕ
+ stem: анӕрдӕгӕй
+ paradigm: ZERO
+ transl_ru: этот
+ transl_en: this
+ gramm: PRON,dem,prox,3,pl,rcs
+-lexeme
+ lex: мӕ
+ stem: мӕ
+ paradigm: ZERO
+ transl_ru: я
+ transl_en: I
+ gramm: PRON,pers,encl,1,sg,gen
+-lexeme
+ lex: мӕ
+ stem: мин
+ paradigm: ZERO
+ transl_ru: я
+ transl_en: I
+ gramm: PRON,pers,encl,1,sg,dat
+-lexeme
+ lex: мӕ
+ stem: мӕмӕ
+ paradigm: ZERO
+ transl_ru: я
+ transl_en: I
+ gramm: PRON,pers,encl,1,sg,all
+-lexeme
+ lex: мӕ
+ stem: ми
+ paradigm: ZERO
+ transl_ru: я
+ transl_en: I
+ gramm: PRON,pers,encl,1,sg,abl,in
+-lexeme
+ lex: мӕ
+ stem: мӕбӕл
+ paradigm: ZERO
+ transl_ru: я
+ transl_en: I
+ gramm: PRON,pers,encl,1,sg,super
+-lexeme
+ lex: мӕ
+ stem: мӕ//ме
+ paradigm: ZERO
+ transl_ru: я
+ transl_en: I
+ gramm: PRON,pers,poss,1,sg
+-lexeme
+ lex: дӕ
+ stem: дӕ
+ paradigm: ZERO
+ transl_ru: ты
+ transl_en: you.sg
+ gramm: PRON,pers,encl,2,sg,gen
+-lexeme
+ lex: дӕ
+ stem: дин
+ paradigm: ZERO
+ transl_ru: ты
+ transl_en: you.sg
+ gramm: PRON,pers,encl,2,sg,dat
+-lexeme
+ lex: дӕ
+ stem: дӕмӕ
+ paradigm: ZERO
+ transl_ru: ты
+ transl_en: you.sg
+ gramm: PRON,pers,encl,2,sg,all
+-lexeme
+ lex: дӕ
+ stem: ди
+ paradigm: ZERO
+ transl_ru: ты
+ transl_en: you.sg
+ gramm: PRON,pers,encl,2,sg,abl,in
+-lexeme
+ lex: дӕ
+ stem: дӕбӕл
+ paradigm: ZERO
+ transl_ru: ты
+ transl_en: you.sg
+ gramm: PRON,pers,encl,2,sg,super
+-lexeme
+ lex: нӕ
+ stem: нӕ
+ paradigm: ZERO
+ transl_ru: мы
+ transl_en: we
+ gramm: PRON,pers,encl,1,pl,gen
+-lexeme
+ lex: нӕ
+ stem: нин
+ paradigm: ZERO
+ transl_ru: мы
+ transl_en: we
+ gramm: PRON,pers,encl,1,pl,dat
+-lexeme
+ lex: нӕ
+ stem: нӕмӕ
+ paradigm: ZERO
+ transl_ru: мы
+ transl_en: we
+ gramm: PRON,pers,encl,1,pl,all
+-lexeme
+ lex: нӕ
+ stem: ни
+ paradigm: ZERO
+ transl_ru: мы
+ transl_en: we
+ gramm: PRON,pers,encl,1,pl,abl,in
+-lexeme
+ lex: нӕ
+ stem: нӕбӕл
+ paradigm: ZERO
+ transl_ru: мы
+ transl_en: we
+ gramm: PRON,pers,encl,1,pl,super
+-lexeme
+ lex: уӕ
+ stem: уӕ
+ paradigm: ZERO
+ transl_ru: вы
+ transl_en: you
+ gramm: PRON,pers,encl,2,pl,gen
+-lexeme
+ lex: уӕ
+ stem: уин
+ paradigm: ZERO
+ transl_ru: вы
+ transl_en: you
+ gramm: PRON,pers,encl,2,pl,dat
+-lexeme
+ lex: уӕ
+ stem: уӕмӕ
+ paradigm: ZERO
+ transl_ru: вы
+ transl_en: you
+ gramm: PRON,pers,encl,2,pl,all
+-lexeme
+ lex: уӕ
+ stem: уи
+ paradigm: ZERO
+ transl_ru: вы
+ transl_en: you
+ gramm: PRON,pers,encl,2,pl,abl,in
+-lexeme
+ lex: уӕ
+ stem: уӕбӕл
+ paradigm: ZERO
+ transl_ru: вы
+ transl_en: you
+ gramm: PRON,pers,encl,2,pl,super
+-lexeme
+ lex: ӕй
+ stem: ӕй
+ paradigm: ZERO
+ transl_ru: он, она, оно
+ transl_en: he, she, it
+ gramm: PRON,pers,encl,3,sg,gen
+-lexeme
+ lex: ӕй
+ stem: ин
+ paradigm: ZERO
+ transl_ru: он, она, оно
+ transl_en: he, she, it
+ gramm: PRON,pers,encl,3,sg,dat
+-lexeme
+ lex: ӕй
+ stem: имӕ
+ paradigm: ZERO
+ transl_ru: он, она, оно
+ transl_en: he, she, it
+ gramm: PRON,pers,encl,3,sg,all
+-lexeme
+ lex: ӕй
+ stem: си
+ paradigm: ZERO
+ transl_ru: он, она, оно
+ transl_en: he, she, it
+ gramm: PRON,pers,encl,3,sg,abl,in
+-lexeme
+ lex: ӕй
+ stem: ибӕл
+ paradigm: ZERO
+ transl_ru: он, она, оно
+ transl_en: he, she, it
+ gramm: PRON,pers,encl,3,sg,super
+-lexeme
+ lex: сӕ
+ stem: сӕ
+ paradigm: ZERO
+ transl_ru: они
+ transl_en: they
+ gramm: PRON,pers,encl,3,pl,gen
+-lexeme
+ lex: сӕ
+ stem: син
+ paradigm: ZERO
+ transl_ru: они
+ transl_en: they
+ gramm: PRON,pers,encl,3,pl,dat
+-lexeme
+ lex: сӕ
+ stem: сӕмӕ
+ paradigm: ZERO
+ transl_ru: они
+ transl_en: they
+ gramm: PRON,pers,encl,3,pl,all
+-lexeme
+ lex: сӕ
+ stem: си
+ paradigm: ZERO
+ transl_ru: они
+ transl_en: they
+ gramm: PRON,pers,encl,3,pl,in,abl
+-lexeme
+ lex: сӕ
+ stem: сӕбӕл
+ paradigm: ZERO
+ transl_ru: они
+ transl_en: they
+ gramm: PRON,pers,encl,3,pl,super
+-lexeme
+ lex: сӕ
+ stem: сӕ
+ paradigm: ZERO
+ transl_ru: они
+ transl_en: they
+ gramm: PRON,pers,poss,3,pl
+-lexeme
+ lex: мӕхуӕдӕг
+ stem: мӕхуӕдӕг
+ paradigm: ZERO
+ transl_ru: я сам
+ transl_en: myself
+ gramm: PRON,pers,refl,1,sg,nom
+-lexeme
+ lex: мӕхуӕдӕг
+ stem: мӕхе
+ paradigm: ZERO
+ transl_ru: я сам
+ transl_en: myself
+ gramm: PRON,pers,refl,1,sg,gen
+-lexeme
+ lex: мӕхуӕдӕг
+ stem: мӕхецӕн
+ paradigm: ZERO
+ transl_ru: я сам
+ transl_en: myself
+ gramm: PRON,pers,refl,1,sg,dat
+-lexeme
+ lex: мӕхуӕдӕг
+ stem: мӕхемӕ
+ paradigm: ZERO
+ transl_ru: я сам
+ transl_en: myself
+ gramm: PRON,pers,refl,1,sg,all
+-lexeme
+ lex: мӕхуӕдӕг
+ stem: мӕхецӕй
+ paradigm: ZERO
+ transl_ru: я сам
+ transl_en: myself
+ gramm: PRON,pers,refl,1,sg,abl
+-lexeme
+ lex: мӕхуӕдӕг
+ stem: мӕхебӕл
+ paradigm: ZERO
+ transl_ru: я сам
+ transl_en: myself
+ gramm: PRON,pers,refl,1,sg,super
+-lexeme
+ lex: мӕхуӕдӕг
+ stem: мӕхейау
+ paradigm: ZERO
+ transl_ru: я сам
+ transl_en: myself
+ gramm: PRON,pers,refl,1,sg,equ
+-lexeme
+ lex: мӕхуӕдӕг
+ stem: мӕхердӕмӕ
+ paradigm: ZERO
+ transl_ru: я сам
+ transl_en: myself
+ gramm: PRON,pers,refl,1,sg,dir
+-lexeme
+ lex: мӕхуӕдӕг
+ stem: мӕхердӕгӕй
+ paradigm: ZERO
+ transl_ru: я сам
+ transl_en: myself
+ gramm: PRON,pers,refl,1,sg,rcs 
+-lexeme
+ lex: дӕхуӕдӕг
+ stem: дӕхуӕдӕг
+ paradigm: ZERO
+ transl_ru: ты сам
+ transl_en: yourself.sg
+ gramm: PRON,pers,refl,2,sg,nom
+-lexeme
+ lex: дӕхуӕдӕг
+ stem: дӕхе
+ paradigm: ZERO
+ transl_ru: ты сам
+ transl_en: yourself.sg
+ gramm: PRON,pers,refl,2,sg,gen
+-lexeme
+ lex: дӕхуӕдӕг
+ stem: дӕхецӕн
+ paradigm: ZERO
+ transl_ru: ты сам
+ transl_en: yourself.sg
+ gramm: PRON,pers,refl,2,sg,dat
+-lexeme
+ lex: дӕхуӕдӕг
+ stem: дӕхемӕ
+ paradigm: ZERO
+ transl_ru: ты сам
+ transl_en: yourself.sg
+ gramm: PRON,pers,refl,2,sg,all
+-lexeme
+ lex: дӕхуӕдӕг
+ stem: дӕхецӕй
+ paradigm: ZERO
+ transl_ru: ты сам
+ transl_en: yourself.sg
+ gramm: PRON,pers,refl,2,sg,abl
+-lexeme
+ lex: дӕхуӕдӕг
+ stem: дӕхебӕл
+ paradigm: ZERO
+ transl_ru: ты сам
+ transl_en: yourself.sg
+ gramm: PRON,pers,refl,2,sg,super
+-lexeme
+ lex: дӕхуӕдӕг
+ stem: дӕхейау
+ paradigm: ZERO
+ transl_ru: ты сам
+ transl_en: yourself.sg
+ gramm: PRON,pers,refl,2,sg,equ
+-lexeme
+ lex: дӕхуӕдӕг
+ stem: дӕхердӕмӕ
+ paradigm: ZERO
+ transl_ru: ты сам
+ transl_en: yourself.sg
+ gramm: PRON,pers,refl,2,sg,dir
+-lexeme
+ lex: дӕхуӕдӕг
+ stem: дӕхердӕгӕй
+ paradigm: ZERO
+ transl_ru: ты сам
+ transl_en: yourself.sg
+ gramm: PRON,pers,refl,2,sg,rcs
+-lexeme
+ lex: нӕхуӕдтӕ
+ stem: нӕхуӕдтӕ
+ paradigm: ZERO
+ transl_ru: мы сами
+ transl_en: ourself
+ gramm: PRON,pers,refl,1,pl,nom
+-lexeme
+ lex: нӕхуӕдтӕ
+ stem: нӕхуӕдӕг
+ paradigm: ZERO
+ transl_ru: мы сами
+ transl_en: ourself
+ gramm: PRON,pers,refl,1,pl,nom
+-lexeme
+ lex: нӕхуӕдтӕ
+ stem: нӕхе
+ paradigm: ZERO
+ transl_ru: мы сами
+ transl_en: ourself
+ gramm: PRON,pers,refl,1,pl,gen
+-lexeme
+ lex: нӕхуӕдтӕ
+ stem: нӕхецӕн
+ paradigm: ZERO
+ transl_ru: мы сами
+ transl_en: ourself
+ gramm: PRON,pers,refl,1,pl,dat
+-lexeme
+ lex: нӕхуӕдтӕ
+ stem: нӕхемӕ
+ paradigm: ZERO
+ transl_ru: мы сами
+ transl_en: ourself
+ gramm: PRON,pers,refl,1,pl,all
+-lexeme
+ lex: нӕхуӕдтӕ
+ stem: нӕхецӕй
+ paradigm: ZERO
+ transl_ru: мы сами
+ transl_en: ourself
+ gramm: PRON,pers,refl,1,pl,abl
+-lexeme
+ lex: нӕхуӕдтӕ
+ stem: нӕхебӕл
+ paradigm: ZERO
+ transl_ru: мы сами
+ transl_en: ourself
+ gramm: PRON,pers,refl,1,pl,super
+-lexeme
+ lex: нӕхуӕдтӕ
+ stem: нӕхейау
+ paradigm: ZERO
+ transl_ru: мы сами
+ transl_en: ourself
+ gramm: PRON,pers,refl,1,pl,equ
+-lexeme
+ lex: нӕхуӕдтӕ
+ stem: нӕхердӕмӕ
+ paradigm: ZERO
+ transl_ru: мы сами
+ transl_en: ourself
+ gramm: PRON,pers,refl,1,pl,dir
+-lexeme
+ lex: нӕхуӕдтӕ
+ stem: нӕхердӕгӕй
+ paradigm: ZERO
+ transl_ru: мы сами
+ transl_en: ourself
+ gramm: PRON,pers,refl,1,pl,rcs
+-lexeme
+ lex: уӕхуӕдтӕ
+ stem: уӕхуӕдтӕ//уӕхуӕдӕг 
+ paradigm: ZERO
+ transl_ru: вы сами
+ transl_en: yourself
+ gramm: PRON,pers,refl,2,pl,nom
+-lexeme
+ lex: уӕхуӕдтӕ
+ stem: уӕхе
+ paradigm: ZERO
+ transl_ru: вы сами
+ transl_en: yourself
+ gramm: PRON,pers,refl,2,pl,gen
+-lexeme
+ lex: уӕхуӕдтӕ
+ stem: уӕхецӕн
+ paradigm: ZERO
+ transl_ru: вы сами
+ transl_en: yourself
+ gramm: PRON,pers,refl,2,pl,dat
+-lexeme
+ lex: уӕхуӕдтӕ
+ stem: уӕхемӕ
+ paradigm: ZERO
+ transl_ru: вы сами
+ transl_en: yourself
+ gramm: PRON,pers,refl,2,pl,all
+-lexeme
+ lex: уӕхуӕдтӕ
+ stem: уӕхецӕй
+ paradigm: ZERO
+ transl_ru: вы сами
+ transl_en: yourself
+ gramm: PRON,pers,refl,2,pl,abl
+-lexeme
+ lex: уӕхуӕдтӕ
+ stem: уӕхебӕл
+ paradigm: ZERO
+ transl_ru: вы сами
+ transl_en: yourself
+ gramm: PRON,pers,refl,2,pl,super
+-lexeme
+ lex: уӕхуӕдтӕ
+ stem: уӕхейау
+ paradigm: ZERO
+ transl_ru: вы сами
+ transl_en: yourself
+ gramm: PRON,pers,refl,2,pl,equ
+-lexeme
+ lex: уӕхуӕдтӕ
+ stem: уӕхердӕмӕ
+ paradigm: ZERO
+ transl_ru: вы сами
+ transl_en: yourself
+ gramm: PRON,pers,refl,2,pl,dir
+-lexeme
+ lex: уӕхуӕдтӕ
+ stem: уӕхердӕгӕй
+ paradigm: ZERO
+ transl_ru: вы сами
+ transl_en: yourself
+ gramm: PRON,pers,refl,2,pl,rcs
+-lexeme
+ lex: ӕхуӕдӕг
+ stem: ӕхуӕдӕг
+ paradigm: ZERO
+ transl_ru: сам
+ transl_en: oneself
+ gramm: PRON,pers,refl,3,sg,nom
+-lexeme
+ lex: ӕхуӕдӕг
+ stem: ӕхе
+ paradigm: ZERO
+ transl_ru: сам
+ transl_en: oneself
+ gramm: PRON,pers,refl,3,sg,gen
+-lexeme
+ lex: ӕхуӕдӕг
+ stem: ӕхецӕн
+ paradigm: ZERO
+ transl_ru: сам
+ transl_en: oneself
+ gramm: PRON,pers,refl,3,sg,dat
+-lexeme
+ lex: ӕхуӕдӕг
+ stem: ӕхемӕ
+ paradigm: ZERO
+ transl_ru: сам
+ transl_en: oneself
+ gramm: PRON,pers,refl,3,sg,all
+-lexeme
+ lex: ӕхуӕдӕг
+ stem: ӕхецӕй
+ paradigm: ZERO
+ transl_ru: сам
+ transl_en: oneself
+ gramm: PRON,pers,refl,3,sg,abl
+-lexeme
+ lex: ӕхуӕдӕг
+ stem: ӕхебӕл
+ paradigm: ZERO
+ transl_ru: сам
+ transl_en: oneself
+ gramm: PRON,pers,refl,3,sg,super
+-lexeme
+ lex: ӕхуӕдӕг
+ stem: ӕхейау
+ paradigm: ZERO
+ transl_ru: сам
+ transl_en: oneself
+ gramm: PRON,pers,refl,3,sg,equ
+-lexeme
+ lex: ӕхуӕдӕг
+ stem: ӕхердӕмӕ
+ paradigm: ZERO
+ transl_ru: сам
+ transl_en: oneself
+ gramm: PRON,pers,refl,3,sg,dir
+-lexeme
+ lex: ӕхуӕдӕг
+ stem: ӕхердӕгӕй
+ paradigm: ZERO
+ transl_ru: сам
+ transl_en: oneself
+ gramm: PRON,pers,refl,3,sg,rcs
+-lexeme
+ lex: cӕхуӕдтӕ
+ stem: сӕхуӕдтӕ
+ paradigm: ZERO
+ transl_ru: сам
+ transl_en: oneself
+ gramm: PRON,pers,refl,3,sg,nom
+-lexeme
+ lex: cӕхуӕдтӕ
+ stem: сӕхуӕдӕг
+ paradigm: ZERO
+ transl_ru: сам
+ transl_en: oneself
+ gramm: PRON,pers,refl,3,sg,nom
+-lexeme
+ lex: сӕхуӕдтӕ
+ stem: сӕхе
+ paradigm: ZERO
+ transl_ru: сам
+ transl_en: oneself
+ gramm: PRON,pers,refl,3,sg,gen
+-lexeme
+ lex: сӕхуӕдтӕ
+ stem: сӕхецӕн
+ paradigm: ZERO
+ transl_ru: сам
+ transl_en: oneself
+ gramm: PRON,pers,refl,3,sg,dat
+-lexeme
+ lex: сӕхуӕдтӕ
+ stem: сӕхемӕ
+ paradigm: ZERO
+ transl_ru: сам
+ transl_en: oneself
+ gramm: PRON,pers,refl,3,sg,all
+-lexeme
+ lex: сӕхуӕдтӕ
+ stem: сӕхецӕй
+ paradigm: ZERO
+ transl_ru: сам
+ transl_en: oneself
+ gramm: PRON,pers,refl,3,sg,abl
+-lexeme
+ lex: сӕхуӕдтӕ
+ stem: сӕхебӕл
+ paradigm: ZERO
+ transl_ru: сам
+ transl_en: oneself
+ gramm: PRON,pers,refl,3,sg,super
+-lexeme
+ lex: сӕхуӕдтӕ
+ stem: сӕхейау
+ paradigm: ZERO
+ transl_ru: сам
+ transl_en: oneself
+ gramm: PRON,pers,refl,3,sg,equ
+-lexeme
+ lex: сӕхуӕдтӕ
+ stem: сӕхердӕмӕ
+ paradigm: ZERO
+ transl_ru: сам
+ transl_en: oneself
+ gramm: PRON,pers,refl,3,sg,dir
+-lexeme
+ lex: сӕхуӕдтӕ
+ stem: сӕхердӕгӕй
+ paradigm: ZERO
+ transl_ru: сам
+ transl_en: oneself
+ gramm: PRON,pers,refl,3,sg,rcs
+-lexeme
+ lex: уӕхуӕдӕгка
+ stem: уӕхуӕдӕгка 
+ paradigm: ZERO
+ transl_ru: вы сами
+ transl_en: yourself
+ gramm: PRON,pers,refl,2,pl,nom,foc
+-lexeme
+ lex: нӕхуӕдӕгка
+ stem: нӕхуӕдӕгка 
+ paradigm: ZERO
+ transl_ru: мы сами
+ transl_en: ourself
+ gramm: PRON,pers,refl,1,pl,nom,foc
+-lexeme
+ lex: мӕхуӕдӕгка
+ stem: мӕхуӕдӕгка 
+ paradigm: ZERO
+ transl_ru: я сам
+ transl_en: myself
+ gramm: PRON,pers,refl,1,sg,nom,foc
+-lexeme
+ lex: дӕхуӕдӕгка
+ stem: дӕхуӕдӕгка 
+ paradigm: ZERO
+ transl_ru: ты сам
+ transl_en: yourself.sg
+ gramm: PRON,pers,refl,2,sg,nom,foc
+-lexeme
+ lex: ӕхуӕдӕгка
+ stem: ӕхуӕдӕгка 
+ paradigm: ZERO
+ transl_ru: он сам
+ transl_en: oneself
+ gramm: PRON,pers,refl,2,pl,nom,foc
+-lexeme
+ lex: сӕхуӕдӕгка
+ stem: сӕхуӕдӕгка 
+ paradigm: ZERO
+ transl_ru: они сами
+ transl_en: themself
+ gramm: PRON,pers,refl,2,pl,nom,foc
+-lexeme
+ lex: мӕхеуон
+ stem: мӕхеуон
+ paradigm: Nctt
+ transl_ru: мой собственный
+ transl_en: my own
+ gramm: PRON,pers,1sg,poss,refl,subst
+-lexeme
+ lex: дӕхеуон
+ stem: дӕхеуон
+ paradigm: Nctt
+ transl_ru: твой собственный
+ transl_en: your own
+ gramm: PRON,pers,2sg,poss,refl,subst
+-lexeme
+ lex: нӕхеуон
+ stem: нӕхеуон
+ paradigm: Nctt
+ transl_ru: наш собственный
+ transl_en: our own
+ gramm: PRON,pers,1pl,poss,refl,subst
+-lexeme
+ lex: уӕхеуон
+ stem: уӕхеуон
+ paradigm: Nctt
+ transl_ru: ваш собственный
+ transl_en: your own
+ gramm: PRON,pers,2pl,poss,refl,subst
+-lexeme
+ lex: ӕхеуон
+ stem: ӕхеуон
+ paradigm: Nctt
+ transl_ru: его собственный
+ transl_en: his own
+ gramm: PRON,pers,3sg,poss,refl,subst
+-lexeme
+ lex: сӕхеуон
+ stem: сӕхеуон
+ paradigm: Nctt
+ transl_ru: их собственный
+ transl_en: their own
+ gramm: PRON,pers,3pl,poss,refl,subst
+-lexeme
+ lex: мӕнон
+ stem: мӕнон
+ paradigm: Nctt
+ transl_ru: мой
+ transl_en: mine
+ gramm: PRON,pers,1sg,poss,subst
+-lexeme
+ lex: дӕууон
+ stem: дӕууон
+ paradigm: Nct
+ transl_ru: твой
+ transl_en: yours
+ gramm: PRON,pers,2sg,poss,subst
+-lexeme
+ lex: дӕууон
+ stem: дӕууон
+ paradigm: Nctt
+ transl_ru: твой
+ transl_en: yours
+ gramm: PRON,pers,2sg,poss,subst
+-lexeme
+ lex: уойуон
+ stem: уойуон
+ paradigm: Nct
+ transl_ru: его
+ transl_en: his
+ gramm: PRON,pers,3sg,poss,subst
+-lexeme
+ lex: уойуон
+ stem: уойуон
+ paradigm: Nctt
+ transl_ru: его
+ transl_en: his
+ gramm: PRON,pers,3sg,poss,subst
+-lexeme
+ lex: махон
+ stem: махон
+ paradigm: Nct
+ transl_ru: наш
+ transl_en: ours
+ gramm: PRON,pers,1pl,poss,subst
+-lexeme
+ lex: махон
+ stem: махон
+ paradigm: Nctt
+ transl_ru: наш
+ transl_en: ours
+ gramm: PRON,pers,1pl,poss,subst
+-lexeme
+ lex: cумахон
+ stem: cумахон
+ paradigm: Nct
+ transl_ru: ваш
+ transl_en: yours
+ gramm: PRON,pers,2pl,poss,subst
+-lexeme
+ lex: cумахон
+ stem: cумахон
+ paradigm: Nctt
+ transl_ru: ваш
+ transl_en: yours
+ gramm: PRON,pers,2pl,poss,subst
+-lexeme
+ lex: уониуон
+ stem: уониуон
+ paradigm: Nct
+ transl_ru: их
+ transl_en: theirs
+ gramm: PRON,pers,3pl,poss,subst
+-lexeme
+ lex: кӕрӕдзей
+ stem: кӕрӕдзей
+ paradigm: Nct
+ transl_ru: друг друга
+ transl_en: each other
+ gramm: PRON,rcp
