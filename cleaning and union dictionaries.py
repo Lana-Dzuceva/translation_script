@@ -1,25 +1,28 @@
-# part 1: clean digor-rus dict
 
-# TODO: перевести все буквы 'æ' в дигор-англ слвар на буквы из дигор-русск слов
 def cleaning_digor_eng():
+
     with open('Дигорско-английский.txt', 'r', encoding='utf-8') as f:
-        lines = list(map(lambda x: x.rstrip("\n"), f.readlines()))
-
-    lines = list(map(lambda line: line.replace('æ', 'ӕ'), lines))
-
+        lines = list(map(lambda x: x.rstrip("\n").lower().replace('æ', 'ӕ'), f.readlines()))
+    # bad_letters = 'eyopakxc'
+    # good_letters = 'еуоракхс'
+    # for i in range(len(bad_letters)):
+    #     lines = [i.replace(bad_letters[i], good_letters[i]) for i in lines]
     with open('Дигорско-английский очищенный.txt', 'w', encoding='utf-8') as f:
         for line in lines:
             if line.strip():
                 f.write(line + '\n')
 
 
-# TODO: выкинуть нафиг из дигор-русск все ненужное
+
 def cleaning_digor_rus():
     # print('	' == ' ')
     # return
     with open('Дигорско-русский.txt', 'r', encoding='utf-8') as f:
-        lines = list(map(lambda x: x.rstrip("\n"), f.readlines()))
-
+        lines = list(map(lambda x: x.rstrip("\n").lower().replace('æ', 'ӕ'), f.readlines()))
+    # bad_letters = 'eyopakxc'
+    # good_letters = 'еуоракхс'
+    # for i in range(len(bad_letters)):
+    #     lines = [i.replace(bad_letters[i], good_letters[i]) for i in lines]
     with open('Дигорско-русский очищенный.txt', 'w', encoding='utf-8') as f:
         for line in lines:
             if line.find('[') == -1 or \
@@ -31,12 +34,15 @@ def cleaning_digor_rus():
 
 def cleaning_pronouns():
     with open('Местоимения.txt', 'r', encoding='utf-8') as f:
-        lines = list(map(lambda x: x.rstrip("\n"), f.readlines()))
-
+        lines = list(map(lambda x: x.rstrip("\n").lower().replace('æ', 'ӕ'), f.readlines()))
+    # bad_letters = 'eyopakxc'
+    # good_letters = 'еуоракхс'
+    # for i in range(len(bad_letters)):
+    #     lines = [i.replace(bad_letters[i], good_letters[i]) for i in lines]
     with open('Местоимения очищенные.txt', 'w', encoding='utf-8') as f:
         for line in lines:
             if line.strip():
-                f.write(line.replace('æ', 'ӕ') + '\n')
+                f.write(line + '\n')
 
 
 class Lexeme:
@@ -67,30 +73,41 @@ osetin_alphabet = {'а': 1, 'ӕ': 2, 'б': 3, 'в': 4, 'г': 5, 'гъ': 6, 'д':
 
 
 def words_comparator(word1, word2):
-    ossetian_alphabet = "а ӕ б в г гъ д дж дз е ё ж з и й к къ л м н о п пъ р с т тъ у ф х хъ ц цъ ч чъ ш щ ъ ы ь э ю я"
-    i1 = 0
-    i2 = 0
-    while i1 < len(word1) and i2 < len(word2):
-        letter1 = word1[i1]
-        letter2 = word2[i2]
-        if i1 + 1 < len(word1) and word1[i1: i1 + 2] in ossetian_alphabet:
-            letter1 = word1[i1: i1 + 2]
+    try:
+        ossetian_alphabet = " а ӕ б в г гъ д дж дз е ё ж з и й к къ л м н о п пъ р с т тъ у ф х хъ ц цъ ч чъ ш щ ъ ы ь э ю я"
+        i1 = 0
+        i2 = 0
+        while i1 < len(word1) and i2 < len(word2):
+            letter1 = word1[i1]
+            letter2 = word2[i2]
+            if i1 + 1 < len(word1) and word1[i1: i1 + 2] in ossetian_alphabet:
+                letter1 = word1[i1: i1 + 2]
+                i1 += 1
+            if i2 + 1 < len(word2) and word2[i2: i2 + 2] in ossetian_alphabet:
+                letter2 = word2[i2: i2 + 2]
+                i2 += 1
+            if ossetian_alphabet.index(letter1) < ossetian_alphabet.index(letter2):
+                return -1
+            elif ossetian_alphabet.index(letter1) > ossetian_alphabet.index(letter2):
+                return 1
             i1 += 1
-        if i2 + 1 < len(word2) and word2[i2: i2 + 2] in ossetian_alphabet:
-            letter2 = word2[i2: i2 + 2]
             i2 += 1
-        if ossetian_alphabet.index(letter1) < ossetian_alphabet.index(letter2):
+        if len(word1) < len(word2):
             return -1
-        elif ossetian_alphabet.index(letter1) > ossetian_alphabet.index(letter2):
+        elif len(word1) > len(word2):
             return 1
-        i1 += 1
-        i2 += 1
-    if len(word1) < len(word2):
-        return -1
-    elif len(word1) > len(word2):
+        return 0
+    except Exception:
+        if '-' not in word1 and '-' not in word2:
+            print(word1, word2)
+            print(Exception.args)
+        if '-' in word1:
+            return -1
         return 1
-    return 0
 
+# print('c' == 'c')
+# print(words_comparator("cтъона", 'дехгӕнӕг'))
+# exit()
 
 def union_dictionaries():
     lexems = []
@@ -111,7 +128,7 @@ def union_dictionaries():
                     lexems[-1].lex = lexems[-1].lex.remove('')
                 i += 6
             i += 1
-    with open('Местоимения.txt', 'r', encoding='utf-8') as f:
+    with open('Местоимения очищенные.txt', 'r', encoding='utf-8') as f:
         lines = list(map(lambda x: x.rstrip("\n"), f.readlines()))
         i = 0
         while i < len(lines):
@@ -146,15 +163,15 @@ def union_dictionaries():
                     f.write('	[m1]')
                     for gr in lexems[ind].gramm[:-1]:
                         f.write(f'[p][i][c][com]{gr},[/com][/c][/i][/p]')
-                    f.write(f'[p][i][c][com]{lexems[ind].gramm[-1]},[/com][/c][/i][/p]')
+                    f.write(f'[p][i][c][com]{lexems[ind].gramm[-1]}[/com][/c][/i][/p]')
                     f.write('[/m]\n')
                     f.write(f'	[m1][trn]{lexems[ind].transl_en}[/trn][/m]\n')
                 i = r
             else:
                 i += 1
-    # print(all_, 'all_')
-    # print(count_paired_words, 'count_paired_words')
-    # print(len(lexems), 'lexems')
+    print(all_, 'all_')
+    print(count_paired_words, 'count_paired_words')
+    print(len(lexems), 'lexems')
     used_lexems = [False] * len(lexems)
     with open('unioned dictionary.txt', 'r', encoding='utf-8') as f:
         lines = list(map(lambda x: x.rstrip("\n"), f.readlines()))
@@ -163,39 +180,43 @@ def union_dictionaries():
                 ind = find_lexem(lexems, lines[i])
                 if ind != -1:
                     used_lexems[ind] = True
-
+    inserted = 0
     for i in range(len(lexems)):
         if not used_lexems[i]:
+            inserted += 1
             ind = 0
-            # lexems[i].lex
             error_list = []
             temp = lexems[i].lex
             if len(temp) > 1:
                 error_list.append(lexems[i])
                 continue
+            temp = temp[0]
             r = 0
             while r < len(lines):
                 if lines[r].find('[') == -1:
-                    if words_comparator(temp, lines[r]) == -1:
+                    if words_comparator(temp, lines[r]) == 1:
                         ind = r
                         r += 1
                     else:
                         break
                 else:
                     r += 1
-
+            # if ind == 0:
+            #     print(temp)
             gram = '	[m1]'
-            for gr in lexems[ind].gramm[:-1]:
+            for gr in lexems[i].gramm[:-1]:
                 gram += f'[p][i][c][com]{gr},[/com][/c][/i][/p]'
-            gram += f'[p][i][c][com]{lexems[ind].gramm[-1]}[/com][/c][/i][/p]' + '[/m]'
-            trn = f'	[m1][trn]{lexems[ind].transl_en}[/trn][/m]'
-            lines.insert(ind, lexems[i].lex)
+            gram += f'[p][i][c][com]{lexems[i].gramm[-1]}[/com][/c][/i][/p]' + '[/m]'
+            trn = f'	[m1][trn]{lexems[i].transl_en}[/trn][/m]'
+            lines.insert(ind, lexems[i].lex[0])
             lines.insert(ind + 1, gram)
             lines.insert(ind + 2, trn)
-
+    print(inserted, "inserted")
+    print(len(error_list), 'errorlist')
     with open('unioned dictionary2.txt', 'w', encoding='utf-8') as f:
-        f.writelines(lines)
-
+        f.writelines([i + '\n' for i in lines])
+    with open('errorlist.txt', 'w', encoding='utf-8') as f:
+        f.writelines([i + '\n' for i in error_list])
 
 # with open('Дигорско-русский очищенный.txt', 'r', encoding='utf-8') as f:
 #     a = sum(map(lambda x: x.rstrip("\n").strip() == "", f.readlines()))
@@ -225,15 +246,15 @@ def union_dictionaries():
 #                 print(i)
 #                 c += 1
 #     print(c)
-# cleaning_digor_eng()
-# print(1)
-# cleaning_digor_rus()
-# print(2)
-# cleaning_pronouns()
-# print(3)
-# union_dictionaries()
-# print(4)
+# print(ord('æ'), ord('æ'))
+cleaning_digor_eng()
+print(1)
+cleaning_digor_rus()
+print(2)
+cleaning_pronouns()
+print(3)
+union_dictionaries()
+print(4)
 # print('ӕ' < 'б')
-
 
 # убрать запятую после последней грам категории

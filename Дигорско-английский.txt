@@ -6084,7 +6084,6 @@
  transl_en: heir; descendant; posterity
  gramm: N,anim,human
 -lexeme
--lexeme
  lex: байзæргæнæг
  stem: байзæргæнæг.//байизæргæнæг.
  paradigm: Nct
@@ -112039,7 +112038,6 @@ lexeme
  transl_en: open, boundless, stretched, shoreless
  gramm: ADJ
 -lexeme
- -lexeme
  lex: æвдирзт
  stem: æвдирзт.
  paradigm: Nct
