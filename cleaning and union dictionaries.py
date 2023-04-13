@@ -38,6 +38,7 @@ def cleaning_pronouns():
             if line.strip():
                 f.write(line.replace('æ', 'ӕ') + '\n')
 
+
 class Lexeme:
     def __init__(self, lex, transl_en, gramm):
         self.lex = lex
@@ -58,7 +59,39 @@ def find_lexem(lexems, word):
     return -1
 
 
-# TODO: к каждому слову из дигор-русск слов добавить перевод из дигор англ вместе со строками gram
+osetin_alphabet = {'а': 1, 'ӕ': 2, 'б': 3, 'в': 4, 'г': 5, 'гъ': 6, 'д': 7, 'дж': 8, 'дз': 9, 'е': 10,
+                   'ё': 11, 'ж': 12, 'з': 13, 'и': 14, 'й': 15, 'к': 16, 'къ': 17, 'л': 18, 'м': 19,
+                   'н': 20, 'о': 21, 'п': 22, 'пъ': 23, 'р': 24, 'с': 25, 'т': 26, 'тъ': 27, 'у': 28,
+                   'ф': 29, 'х': 30, 'хъ': 31, 'ц': 32, 'цъ': 33, 'ч': 34, 'чъ': 35, 'ш': 36, 'щ': 37,
+                   'ъ': 38, 'ы': 39, 'ь': 40, 'э': 41, 'ю': 42, 'я': 43}
+
+
+def words_comparator(word1, word2):
+    ossetian_alphabet = "а ӕ б в г гъ д дж дз е ё ж з и й к къ л м н о п пъ р с т тъ у ф х хъ ц цъ ч чъ ш щ ъ ы ь э ю я"
+    i1 = 0
+    i2 = 0
+    while i1 < len(word1) and i2 < len(word2):
+        letter1 = word1[i1]
+        letter2 = word2[i2]
+        if i1 + 1 < len(word1) and word1[i1: i1 + 2] in ossetian_alphabet:
+            letter1 = word1[i1: i1 + 2]
+            i1 += 1
+        if i2 + 1 < len(word2) and word2[i2: i2 + 2] in ossetian_alphabet:
+            letter2 = word2[i2: i2 + 2]
+            i2 += 1
+        if ossetian_alphabet.index(letter1) < ossetian_alphabet.index(letter2):
+            return -1
+        elif ossetian_alphabet.index(letter1) > ossetian_alphabet.index(letter2):
+            return 1
+        i1 += 1
+        i2 += 1
+    if len(word1) < len(word2):
+        return -1
+    elif len(word1) > len(word2):
+        return 1
+    return 0
+
+
 def union_dictionaries():
     lexems = []
     count_paired_words = 0
@@ -119,9 +152,50 @@ def union_dictionaries():
                 i = r
             else:
                 i += 1
-    print(all_, 'all_')
-    print(count_paired_words, 'count_paired_words')
-    print(len(lexems), 'lexems')
+    # print(all_, 'all_')
+    # print(count_paired_words, 'count_paired_words')
+    # print(len(lexems), 'lexems')
+    used_lexems = [False] * len(lexems)
+    with open('unioned dictionary.txt', 'r', encoding='utf-8') as f:
+        lines = list(map(lambda x: x.rstrip("\n"), f.readlines()))
+        for i in range(len(lines)):
+            if lines[i].find('[') == -1:
+                ind = find_lexem(lexems, lines[i])
+                if ind != -1:
+                    used_lexems[ind] = True
+
+    for i in range(len(lexems)):
+        if not used_lexems[i]:
+            ind = 0
+            # lexems[i].lex
+            error_list = []
+            temp = lexems[i].lex
+            if len(temp) > 1:
+                error_list.append(lexems[i])
+                continue
+            r = 0
+            while r < len(lines):
+                if lines[r].find('[') == -1:
+                    if words_comparator(temp, lines[r]) == -1:
+                        ind = r
+                        r += 1
+                    else:
+                        break
+                else:
+                    r += 1
+
+            gram = '	[m1]'
+            for gr in lexems[ind].gramm[:-1]:
+                gram += f'[p][i][c][com]{gr},[/com][/c][/i][/p]'
+            gram += f'[p][i][c][com]{lexems[ind].gramm[-1]}[/com][/c][/i][/p]' + '[/m]'
+            trn = f'	[m1][trn]{lexems[ind].transl_en}[/trn][/m]'
+            lines.insert(ind, lexems[i].lex)
+            lines.insert(ind + 1, gram)
+            lines.insert(ind + 2, trn)
+
+    with open('unioned dictionary2.txt', 'w', encoding='utf-8') as f:
+        f.writelines(lines)
+
 
 # with open('Дигорско-русский очищенный.txt', 'r', encoding='utf-8') as f:
 #     a = sum(map(lambda x: x.rstrip("\n").strip() == "", f.readlines()))
@@ -157,6 +231,9 @@ def union_dictionaries():
 # print(2)
 # cleaning_pronouns()
 # print(3)
-union_dictionaries()
-print(4)
-# спросить надо ли делать что-то еще
+# union_dictionaries()
+# print(4)
+# print('ӕ' < 'б')
+
+
+# убрать запятую после последней грам категории
