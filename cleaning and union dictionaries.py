@@ -1,6 +1,4 @@
-
 def cleaning_digor_eng():
-
     with open('Дигорско-английский.txt', 'r', encoding='utf-8') as f:
         lines = list(map(lambda x: x.rstrip("\n").lower().replace('æ', 'ӕ'), f.readlines()))
     # bad_letters = 'eyopakxc'
@@ -11,7 +9,6 @@ def cleaning_digor_eng():
         for line in lines:
             if line.strip():
                 f.write(line + '\n')
-
 
 
 def cleaning_digor_rus():
@@ -105,6 +102,7 @@ def words_comparator(word1, word2):
             return -1
         return 1
 
+
 # print('c' == 'c')
 # print(words_comparator("cтъона", 'дехгӕнӕг'))
 # exit()
@@ -119,10 +117,10 @@ def union_dictionaries():
         while i < len(lines):
             if '-lexeme' in lines[i]:
                 lexems.append(Lexeme(
-                    lex=[i.strip('/').strip('|').strip() for i in lines[i + 1].strip(' lex:').strip('.').split('.')],
+                    lex=[i.strip('/|').strip() for i in lines[i + 1].removeprefix(' lex:').strip('.').split('.')],
                     # lex=[lines[i + 1].strip(' lex:').strip('').split('.')],
-                    transl_en=lines[i + 5].strip(' transl_en:').strip(),
-                    gramm=[i.strip() for i in lines[i + 6].strip(' gramm:').split(',')]
+                    transl_en=lines[i + 5].removeprefix(' transl_en:').strip(),
+                    gramm=[i.strip() for i in lines[i + 6].removeprefix(' gramm:').split(',')]
                 ))
                 if '' in lexems[-1].lex:
                     lexems[-1].lex = lexems[-1].lex.remove('')
@@ -134,9 +132,9 @@ def union_dictionaries():
         while i < len(lines):
             if '-lexeme' in lines[i]:
                 lexems.append(Lexeme(
-                    lex=[i.strip('/').strip('|').strip() for i in lines[i + 2].strip(' stem:').strip('.').split('.')],
-                    transl_en=lines[i + 5].strip(' transl_en:').strip(),
-                    gramm=[i.strip() for i in lines[i + 6].strip(' gramm:').split(',')]
+                    lex=[i.strip('/|').strip() for i in lines[i + 2].removeprefix(' stem:').strip('.').split('.')],
+                    transl_en=lines[i + 5].removeprefix(' transl_en:').strip(),
+                    gramm=[i.strip() for i in lines[i + 6].removeprefix(' gramm:').split(',')]
                 ))
                 if '' in lexems[-1].lex:
                     lexems[-1].lex = lexems[-1].lex.remove('')
@@ -218,6 +216,7 @@ def union_dictionaries():
     with open('errorlist.txt', 'w', encoding='utf-8') as f:
         f.writelines([i + '\n' for i in error_list])
 
+
 # with open('Дигорско-русский очищенный.txt', 'r', encoding='utf-8') as f:
 #     a = sum(map(lambda x: x.rstrip("\n").strip() == "", f.readlines()))
 #     print(a)
@@ -247,14 +246,51 @@ def union_dictionaries():
 #                 c += 1
 #     print(c)
 # print(ord('æ'), ord('æ'))
-cleaning_digor_eng()
-print(1)
-cleaning_digor_rus()
-print(2)
-cleaning_pronouns()
-print(3)
-union_dictionaries()
-print(4)
+# cleaning_digor_eng()
+# print(1)
+# cleaning_digor_rus()
+# print(2)
+# cleaning_pronouns()
+# print(3)
+# union_dictionaries()
+# print(4)
 # print('ӕ' < 'б')
 
-# убрать запятую после последней грам категории
+def final_cleaning():
+    with open('Английский.txt', 'r', encoding='utf-8') as f:
+        lines = list(map(lambda x: x.rstrip("\n"), f.readlines()))
+    # print(len(lines))
+    # i = 0
+    # while i < len(lines):
+    #     while i < len(lines) and not lines[i].strip():
+    #         print(1)
+    #         del lines[i]
+    #     i += 1
+    # print(len(lines))
+    fixed_lines = []
+    words_without_trn = []
+    i = 0
+    while i < len(lines):
+        fixed_lines.append(lines[i])
+        if i == len(lines) - 1 or '[' not in lines[i + 1]:
+            words_without_trn.append(lines[i])
+            i += 1
+        else:
+            i += 1
+            temp = []
+            while i < len(lines) and '[' in lines[i]:
+                temp.append(lines[i])
+                i += 1
+            temp.sort()
+            fixed_lines.extend(temp)
+
+    with open('слова без перевода.txt', 'w', encoding='utf-8') as f:
+        f.writelines([i + '\n' for i in words_without_trn])
+    with open('Английский исправленный.txt', 'w', encoding='utf-8') as f:
+        f.writelines([i + '\n' for i in fixed_lines])
+
+
+# a = ['[a1]', '[a2]', '[a3]','[a1]qqqqqqq']
+# a.sort()
+# print(a)
+final_cleaning()
