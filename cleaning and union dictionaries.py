@@ -290,7 +290,244 @@ def final_cleaning():
         f.writelines([i + '\n' for i in fixed_lines])
 
 
-# a = ['[a1]', '[a2]', '[a3]','[a1]qqqqqqq']
-# a.sort()
-# print(a)
-final_cleaning()
+def extract_word(s, start_ind, char_break):
+    """
+    не спрашивайте зачем она нужна. так надо
+    :param s:
+    :param start_ind:
+    :param char_break:
+    :return: слово и индекс, где остановились
+    """
+    temp = ''
+    while s[start_ind] != char_break:
+        temp += s[start_ind]
+        start_ind += 1
+    return temp.strip(), start_ind
+
+
+def clear_string_m1():
+    kw = ['см.', 'тж.', 'мн.']  # keywords
+    with open('Английский исправленный.txt', 'r', encoding='utf-8') as f:
+        lines = list(map(lambda x: x.strip().rstrip("\n"), f.readlines()))
+    with open('temp.txt', 'w', encoding='utf-8') as f:
+        for i in range(len(lines)):
+            line = lines[i]
+            if 'm1' in line and kw[0] in line or kw[1] in line or kw[2] in line:
+                dick = {
+                    kw[0]: [],
+                    kw[1]: [],
+                    kw[2]: []
+                }
+                cur_kw = 0
+                r = 0
+                lenn = len(line)
+                while r < lenn:
+                    if line.startswith('[p][i][c][com]', r):
+                        temp, r = extract_word(line, r + 14, '[')
+                        r += 14  # minimum 10 forward
+                        if temp in kw:
+                            cur_kw = kw.index(temp)
+                    if line.startswith('[ref]', r):
+                        temp, r = extract_word(line, r + 5, '[')
+                        r += 3
+                        dick[kw[cur_kw]].append(temp)
+                    # try: заигнорю слова на которые нет ссылок потому что он указывал только тег ref
+                    #     if line.startswith('[i][com]', r) and not line.startswith('[i][com](', r):
+                    #         temp, r = extract_word(line, r + 4, '')
+                    #         dick[kw[cur_kw]].append(temp)
+                    # except:
+                    #     pass
+                    if line.startswith('[i][com]([p][c]', r):
+                        temp, r = extract_word(line, r + 15, '[')  # temp always == 'мн.'
+                        r += 8
+                        temp, r = extract_word(line, r, ')')
+                        dick[kw[2]].append(temp)
+                    r += 1
+                part1 = ''
+                if len(dick[kw[0]]) > 0:
+                    part1 = f'[p][i][c][com]{kw[0]}[/com][/c][/i][/p] {", ".join([f"[ref]{ref}[/ref]" for ref in dick[kw[0]]])}'
+                part2 = ''
+                if len(dick[kw[1]]) > 0:
+                    part2 = f'[p][i][c][com]{kw[1]}[/com][/c][/i][/p] {", ".join([f"[ref]{ref}[/ref]" for ref in dick[kw[1]]])}'
+                part3 = ''
+                if len(dick[kw[2]]) > 0:
+                    part3 = f'[i][com]([p][c]{kw[2]}[/c][/p] {dick[kw[2]][0]})[/com][/i]'
+
+                if len(part1) > 0 or len(part2) > 0 or len(part3) > 0:
+                    line = f'[m1]{part1} {part2} {part3}[/m]'
+                else:
+                    continue
+            if '[' in line:
+                line = '	' + line
+            while '  ' in line:
+                line = line.replace('  ', ' ')
+            f.write(line + '\n')
+
+
+def testing():
+    kw = ['см.', 'тж.', 'мн.']  # keywords
+    with open('test.txt', 'r', encoding='utf-8') as f:
+        lines = list(map(lambda x: x.strip().rstrip("\n"), f.readlines()))
+        for i in range(len(lines)):
+            line = lines[i]
+            # if line.count('.') > 1:
+            #     print(line)
+    with open('test_out.txt', 'w', encoding='utf-8') as f:
+        for i in range(len(lines)):
+            line = lines[i]
+            if 'm1' in line and kw[0] in line or kw[1] in line or kw[2] in line:
+                dick = {
+                    kw[0]: [],
+                    kw[1]: [],
+                    kw[2]: []
+                }
+                cur_kw = 0
+                r = 0
+                lenn = len(line)
+                while r < lenn:
+                    if line.startswith('[p][i][c][com]', r):
+                        temp, r = extract_word(line, r + 14, '[')
+                        r += 14  # minimum 10 forward
+                        if temp in kw:
+                            cur_kw = kw.index(temp)
+                    if line.startswith('[ref]', r):
+                        temp, r = extract_word(line, r + 5, '[')
+                        r += 2
+                        dick[kw[cur_kw]].append(temp)
+                    # try: заигнорю слова на которые нет ссылок потому что он указывал только тег ref
+                    #     if line.startswith('[i][com]', r) and not line.startswith('[i][com](', r):
+                    #         temp, r = extract_word(line, r + 4, '')
+                    #         dick[kw[cur_kw]].append(temp)
+                    # except:
+                    #     pass
+                    if line.startswith('[i][com]([p][c]', r):
+                        temp, r = extract_word(line, r + 15, '[')  # temp always == 'мн.'
+                        r += 8
+                        temp, r = extract_word(line, r, ')')
+                        dick[kw[2]].append(temp)
+                    r += 1
+                part1 = ''
+                if len(dick[kw[0]]) > 0:
+                    part1 = f'[p][i][c][com]{kw[0]}[/com][/c][/i][/p] {", ".join([f"[ref]{ref}[/ref]" for ref in dick[kw[0]]])}'
+                part2 = ''
+                if len(dick[kw[1]]) > 0:
+                    part2 = f'[p][i][c][com]{kw[1]}[/com][/c][/i][/p] {", ".join([f"[ref]{ref}[/ref]" for ref in dick[kw[1]]])}'
+                part3 = ''
+                if len(dick[kw[2]]) > 0:
+                    part3 = f'[i][com]([p][c]{kw[2]}[/c][/p] {dick[kw[2]][0]})[/com][/i]'
+
+                if len(part1) > 0 or len(part2) > 0 or len(part3) > 0:
+                    line = f'[m1]{part1} {part2} {part3}[/m]'
+                else:
+                    continue
+            if '[' in line:
+                line = '	' + line
+            while '  ' in line:
+                line = line.replace('  ', ' ')
+            f.write(line + '\n')
+
+
+def replace_m1():
+    kw = ['см.', 'тж.', 'мн.']  # keywords
+    with open('temp.txt', 'r', encoding='utf-8') as f:
+        lines = list(map(lambda x: x.strip().rstrip("\n"), f.readlines()))
+    with open('temp2.txt', 'w', encoding='utf-8') as f:
+        i = 0
+        while i < len(lines):
+            word = lines[i]
+            r = i + 1
+            space = '	'
+            gr = []
+            other = []
+            trn = []
+            m3 = []
+            while r < len(lines) and '[' in lines[r]:
+                if 'm3' in lines[r]:
+                    m3.append(lines[r])
+                elif 'trn' in lines[r]:
+                    trn.append(lines[r])
+                elif kw[0] in lines[r] or kw[1] in lines[r] or kw[2] in lines[r]:
+                    other.append(lines[r])
+                else:
+                    gr.append(lines[r])
+                r += 1
+
+            i = r
+            f.write(word + '\n')
+            for m in other:
+                f.write('	' + m + '\n')
+            for m in gr:
+                f.write('	' + m + '\n')
+            for m in trn:
+                f.write('	' + m + '\n')
+            for m in m3:
+                f.write('	' + m + '\n')
+
+
+def transfer_duplicates():
+    with open('temp.txt', 'r', encoding='utf-8') as f:
+        lines = list(map(lambda x: x.strip().rstrip("\n"), f.readlines()))
+    space = '	'
+    used = []
+    temp3_lines = []
+    duplicated_lines = []
+    i = 0
+    while i < len(lines):
+        word = lines[i]
+
+        if word in used:
+            duplicated_lines.append(word)
+            r = i + 1
+            while r < len(lines) and '[' in lines[r]:
+                duplicated_lines.append(space + lines[r])
+                r += 1
+            i = r
+        else:
+            temp3_lines.append(word)
+            r = i + 1
+            while r < len(lines) and '[' in lines[r]:
+                temp3_lines.append(space + lines[r])
+                r += 1
+            i = r
+            used.append(word)
+
+    with open('итоговый вариант.txt', 'w', encoding='utf-8') as f:
+        for line in temp3_lines:
+            f.write(line + '\n')
+    with open('duplicated words.txt', 'w', encoding='utf-8') as f:
+        for line in duplicated_lines:
+            f.write(line + '\n')
+
+
+transfer_duplicates()
+# if 'см' in line or 'тж' in line:
+#     sign = ''
+#     refs = []
+#     r = 0
+#     while r < len(line):
+#         if line[r] == 'p' and line[r:r + 13] == 'p][i][c][com]':
+#             temp = ''
+#             t = r + 13
+#             while line[t] != '[':
+#                 temp += line[t]
+#                 t += 1
+#             temp = temp.strip()
+#             if temp in ['см', 'тж']:
+#                 sign = temp
+#         if line[r] == 'r' and line[r:r + 4] == 'ref]':
+#             temp = ''
+#             t = r + 4
+#             while line[t] != '[':
+#                 temp += line[t]
+#                 t += 1
+#             refs.append(temp)
+#     line = f'	[m1][p][i][c][com]{sign}[/com][/c][/i][/p] {", ".join([f"[ref]{ref}[/ref]" for ref in refs])}[/m]'
+# elif 'мн' in line:
+#     pass
+# line = line.removeprefix('[m1]').removesuffix('[/m]')
+# line, ref = line[:line.find('[ref]')], line[line.find('[ref]'):]
+# words = [''.strip(' ,.:|/;').removeprefix('[p][i][c][com]') for i in line.strip().split('[/com][/c][/i][/p]')]
+# print(words)
+# if i == 20:
+#     return
+# ref = ''

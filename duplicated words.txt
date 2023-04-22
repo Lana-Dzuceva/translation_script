@@ -1,0 +1,1030 @@
+еске
+	[m1][p][i][c][com]pron,[/com][/c][/i][/p][p][i][c][com]interrog,[/com][/c][/i][/p][p][i][c][com]human,[/com][/c][/i][/p][p][i][c][com]indef,[/com][/c][/i][/p][p][i][c][com]sg,[/com][/c][/i][/p][p][i][c][com]nom[/com][/c][/i][/p][/m]
+	[m1][trn]somebody[/trn][/m]
+кӕд
+	[m1][p][i][c][com]conj[/com][/c][/i][/p][/m]
+	[m1][trn]though[/trn][/m]
+кӕнтӕ
+	[m1][p][i][c][com]adv[/com][/c][/i][/p][/m]
+	[m1][trn]far away[/trn][/m]
+кӕсӕг
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]anim,[/com][/c][/i][/p][p][i][c][com]human[/com][/c][/i][/p][/m]
+	[m1][trn]kabardians[/trn][/m]
+кӕд
+	[m1][p][i][c][com]conj[/com][/c][/i][/p][/m]
+	[m1][trn]if[/trn][/m]
+уойуон
+	[m1][p][i][c][com]pron,[/com][/c][/i][/p][p][i][c][com]pers,[/com][/c][/i][/p][p][i][c][com]3sg,[/com][/c][/i][/p][p][i][c][com]poss,[/com][/c][/i][/p][p][i][c][com]subst[/com][/c][/i][/p][/m]
+	[m1][trn]his[/trn][/m]
+къӕбис
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]anim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]puppy, dog[/trn][/m]
+ба
+	[m1][p][i][c][com]prtcl[/com][/c][/i][/p][/m]
+	[m1][trn]foc[/trn][/m]
+беринги
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]bering (sea)[/trn][/m]
+венӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]vienna[/trn][/m]
+дигори
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]digora channal[/trn][/m]
+къеппа
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]transfer of turn[/trn][/m]
+ливзӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]mountainous moss[/trn][/m]
+ливзӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]meat ragout[/trn][/m]
+мах
+	[m1][p][i][c][com]pron,[/com][/c][/i][/p][p][i][c][com]pers,[/com][/c][/i][/p][p][i][c][com]full,[/com][/c][/i][/p][p][i][c][com]1,[/com][/c][/i][/p][p][i][c][com]pl,[/com][/c][/i][/p][p][i][c][com]dir[/com][/c][/i][/p][/m]
+	[m1][trn]we[/trn][/m]
+мах
+	[m1][p][i][c][com]pron,[/com][/c][/i][/p][p][i][c][com]pers,[/com][/c][/i][/p][p][i][c][com]full,[/com][/c][/i][/p][p][i][c][com]1,[/com][/c][/i][/p][p][i][c][com]pl,[/com][/c][/i][/p][p][i][c][com]equ[/com][/c][/i][/p][/m]
+	[m1][trn]we[/trn][/m]
+мах
+	[m1][p][i][c][com]pron,[/com][/c][/i][/p][p][i][c][com]pers,[/com][/c][/i][/p][p][i][c][com]full,[/com][/c][/i][/p][p][i][c][com]1,[/com][/c][/i][/p][p][i][c][com]pl,[/com][/c][/i][/p][p][i][c][com]super[/com][/c][/i][/p][/m]
+	[m1][trn]we[/trn][/m]
+мах
+	[m1][p][i][c][com]pron,[/com][/c][/i][/p][p][i][c][com]pers,[/com][/c][/i][/p][p][i][c][com]full,[/com][/c][/i][/p][p][i][c][com]1,[/com][/c][/i][/p][p][i][c][com]pl,[/com][/c][/i][/p][p][i][c][com]abl[/com][/c][/i][/p][/m]
+	[m1][trn]we[/trn][/m]
+мах
+	[m1][p][i][c][com]pron,[/com][/c][/i][/p][p][i][c][com]pers,[/com][/c][/i][/p][p][i][c][com]full,[/com][/c][/i][/p][p][i][c][com]1,[/com][/c][/i][/p][p][i][c][com]pl,[/com][/c][/i][/p][p][i][c][com]all[/com][/c][/i][/p][/m]
+	[m1][trn]we[/trn][/m]
+мах
+	[m1][p][i][c][com]pron,[/com][/c][/i][/p][p][i][c][com]pers,[/com][/c][/i][/p][p][i][c][com]full,[/com][/c][/i][/p][p][i][c][com]1,[/com][/c][/i][/p][p][i][c][com]pl,[/com][/c][/i][/p][p][i][c][com]dat[/com][/c][/i][/p][/m]
+	[m1][trn]we[/trn][/m]
+мах
+	[m1][p][i][c][com]pron,[/com][/c][/i][/p][p][i][c][com]pers,[/com][/c][/i][/p][p][i][c][com]full,[/com][/c][/i][/p][p][i][c][com]1,[/com][/c][/i][/p][p][i][c][com]pl,[/com][/c][/i][/p][p][i][c][com]gen[/com][/c][/i][/p][/m]
+	[m1][trn]we[/trn][/m]
+ӕй
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]ӕ[/ref] [/m]
+	[m1][p][i][c][com]v,[/com][/c][/i][/p][p][i][c][com]intr,[/com][/c][/i][/p][p][i][c][com]prs,[/com][/c][/i][/p][p][i][c][com]3,[/com][/c][/i][/p][p][i][c][com]sg[/com][/c][/i][/p][/m]
+	[m1][trn]be[/trn][/m]
+ӕрфӕн
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]anim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]Ӕрфӕн[/ref] [/m]
+	[m1][trn]name of famous horse uruzmag[/trn][/m]
+мела
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman,[/com][/c][/i][/p][p][i][c][com]body part[/com][/c][/i][/p][/m]
+	[m1][trn]first moustache, thrum beard[/trn][/m]
+мела
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]adj,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]soot; smoky, smoked[/trn][/m]
+пох
+	[m1][p][i][c][com]adj[/com][/c][/i][/p][/m]
+	[m1][trn]chestnut[/trn][/m]
+пъерцӕг
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]queen (digor draughts)[/trn][/m]
+сайӕн
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]bedding[/trn][/m]
+сах
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]alchik's side[/trn][/m]
+сӕризӕд
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]trumeau decorated with animal horns[/trn][/m]
+сах
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]shah; check (in chess)[/trn][/m]
+сес
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]crowberry[/trn][/m]
+ӕхе
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]ӕхуӕдӕг[/ref] [/m]
+	[m1][p][i][c][com]pron[/com][/c][/i][/p][/m]
+	[m1][trn]his own[/trn][/m]
+ӕхеуон
+	[m1][p][i][c][com]pron[/com][/c][/i][/p][/m]
+	[m1][trn]own, his own[/trn][/m]
+тӕрмӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]layer[/trn][/m]
+толӕн
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]rental[/trn][/m]
+тохӕн
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]torment, suffering[/trn][/m]
+тунӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]web, cobweb[/trn][/m]
+айдагъ
+	[m1][p][i][c][com]adj[/com][/c][/i][/p][/m]
+	[m1][trn]empty; the only one[/trn][/m]
+	[m3][*]- [ref]айдагъ кӕнун[/ref][/*][/m]
+алкӕми
+	[m1][p][i][c][com]afv[/com][/c][/i][/p][/m]
+	[m1][trn]everywhere[/trn][/m]
+алке
+	[m1][p][i][c][com]pron,[/com][/c][/i][/p][p][i][c][com]univ,[/com][/c][/i][/p][p][i][c][com]human,[/com][/c][/i][/p][p][i][c][com]sg,[/com][/c][/i][/p][p][i][c][com]nom[/com][/c][/i][/p][/m]
+	[m1][trn]every[/trn][/m]
+алцӕмӕй
+	[m1][p][i][c][com]pron[/com][/c][/i][/p][/m]
+	[m1][trn]everything[/trn][/m]
+аман
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]anim,[/com][/c][/i][/p][p][i][c][com]human,[/com][/c][/i][/p][p][i][c][com]f[/com][/c][/i][/p][/m]
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]аман[/ref] [/m]
+	[m1][trn]first woman, eva[/trn][/m]
+аман
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]anim,[/com][/c][/i][/p][p][i][c][com]human,[/com][/c][/i][/p][p][i][c][com]f[/com][/c][/i][/p][/m]
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]аман[/ref] [/m]
+	[m1][trn]first woman, eva[/trn][/m]
+ами
+	[m1][p][i][c][com]adv[/com][/c][/i][/p][/m]
+	[m1][trn]here[/trn][/m]
+амистол
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]амистол[/ref] [/m]
+	[m1][p][i][c][com][/com][/c][/i][/p][/m]
+	[m1][trn]angel, saint; apostle[/trn][/m]
+амистол
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]амистол[/ref] [/m]
+	[m1][p][i][c][com][/com][/c][/i][/p][/m]
+	[m1][trn]angel, saint; apostle[/trn][/m]
+ардӕгӕй
+	[m1][p][i][c][com][/com][/c][/i][/p][/m]
+	[m1] [p][i][c][com]тж.[/com][/c][/i][/p] [ref]ардӕги[/ref], [ref]ардӕгги[/ref], [ref]ардӕггӕй[/ref], [ref]ардигӕй[/ref] [/m]
+	[m1][trn][/trn][/m]
+ардӕмӕ
+	[m1][p][i][c][com]adv[/com][/c][/i][/p][/m]
+	[m1][trn]this way; from that time[/trn][/m]
+архӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]fortification; fastener; branch, bough; dagger[/trn][/m]
+асадӕн
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]day's rest, halting day[/trn][/m]
+	[m3][*]- [ref]асадӕн кӕнун[/ref][/*][/m]
+асауӕдзӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]body part,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]shibone[/trn][/m]
+астӕу
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]body part,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]waist; middle[/trn][/m]
+астӕугауӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]body part,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]diaphragm; fence;[/trn][/m]
+асхъаун
+	[m1][p][i][c][com]v,[/com][/c][/i][/p][p][i][c][com]intr[/com][/c][/i][/p][/m]
+	[m1][trn]split[/trn][/m]
+ба
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman,[/com][/c][/i][/p][p][i][c][com]intj[/com][/c][/i][/p][/m]
+	[m1][trn]kiss; oh[/trn][/m]
+	[m3][*]- [ref]ба кӕнун[/ref][/*][/m]
+	[m3][*]- [ref]батӕ кӕнун[/ref][/*][/m]
+бадӕн
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]bank; seat[/trn][/m]
+балердзау
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]балердзау[/ref] [/m]
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]pisces (constellation)[/trn][/m]
+балердзау
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]балердзау[/ref] [/m]
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]pisces (constellation)[/trn][/m]
+берӕгъзӕнгӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]biragzang (village)[/trn][/m]
+берӕгъзӕнгӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]biragzang (village)[/trn][/m]
+бор
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]brass; yolk[/trn][/m]
+	[m3][*]- [ref]бор кӕнун[/ref][/*][/m]
+	[m3][*]- [ref]бор ун[/ref][/*][/m]
+гурдзи
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]georgia[/trn][/m]
+гуркъумтӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]gurkumta (village)[/trn][/m]
+гуркъумтӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]gurkumta (village)[/trn][/m]
+гъӕдгӕрон
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]kadgaron (village)[/trn][/m]
+гъӕдгӕрон
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]kadgaron (village)[/trn][/m]
+дӕ
+	[m1][p][i][c][com]v,[/com][/c][/i][/p][p][i][c][com]intr,[/com][/c][/i][/p][p][i][c][com]prs,[/com][/c][/i][/p][p][i][c][com]2,[/com][/c][/i][/p][p][i][c][com]sg[/com][/c][/i][/p][/m]
+	[m1][trn]be[/trn][/m]
+дӕууон
+	[m1][p][i][c][com]pron,[/com][/c][/i][/p][p][i][c][com]pers,[/com][/c][/i][/p][p][i][c][com]2sg,[/com][/c][/i][/p][p][i][c][com]poss,[/com][/c][/i][/p][p][i][c][com]subst[/com][/c][/i][/p][/m]
+	[m1][trn]yours[/trn][/m]
+дзеген
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1] [p][i][c][com]тж.[/com][/c][/i][/p] [ref]дзегейнӕ[/ref] [/m]
+	[m1][trn]mat[/trn][/m]
+дигорӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]digoria[/trn][/m]
+дигорӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]digoria[/trn][/m]
+дин
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]дӕ[/ref] [/m]
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]religion, faith[/trn][/m]
+дон
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]don river[/trn][/m]
+дон
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]don river[/trn][/m]
+	[m3][*]- [ref]дон кӕнун[/ref][/*][/m]
+ейӕ
+	[m1] [i][com]([p][c]мн.[/c][/p] [ref]етӕ[/ref])[/com][/i][/m]
+	[m1][p][i][c][com][/com][/c][/i][/p][/m]
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]е[/ref] [/m]
+	[m1][trn][/trn][/m]
+ес
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]asset, fortune, wealth; pole[/trn][/m]
+ескӕми
+	[m1][p][i][c][com]adv[/com][/c][/i][/p][/m]
+	[m1][trn]somewhere[/trn][/m]
+еске
+	[m1][p][i][c][com]adj[/com][/c][/i][/p][/m]
+	[m1][trn]someone's; smb foreign[/trn][/m]
+естӕмӕй
+	[m1][p][i][c][com]adv[/com][/c][/i][/p][/m]
+	[m1] [p][i][c][com]тж.[/com][/c][/i][/p] [ref]естӕмӕйти[/ref] [/m]
+	[m1][trn]by something[/trn][/m]
+зӕронд
+	[m1] [i][com]([p][c]мн.[/c][/p] зӕрӕндтӕ)[/com][/i][/m]
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]old age; antiquity[/trn][/m]
+	[m3][*]- [ref]зӕронд кӕнун[/ref][/*][/m]
+	[m3][*]- [ref]зӕронд ун[/ref][/*][/m]
+захъа
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]zaka (village)[/trn][/m]
+захъа
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1] [p][i][c][com]тж.[/com][/c][/i][/p] [ref]сахъа[/ref] [/m]
+	[m1][trn]zaka (village)[/trn][/m]
+ибӕл
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]е[/ref] [/m]
+	[m1][p][i][c][com][/com][/c][/i][/p][/m]
+	[m1][trn][/trn][/m]
+идард
+	[m1][p][i][c][com]adj[/com][/c][/i][/p][/m]
+	[m1][trn]far[/trn][/m]
+	[m3][*]- [ref]идард кӕнун[/ref][/*][/m]
+	[m3][*]- [ref]идард ун[/ref][/*][/m]
+	[m3][*]- [ref]хе идард ласун[/ref][/*][/m]
+имӕ
+	[m1][p][i][c][com][/com][/c][/i][/p][/m]
+	[m1][trn][/trn][/m]
+кӕбӕлти
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]ка[/ref] [/m]
+	[m1][p][i][c][com]adv[/com][/c][/i][/p][/m]
+	[m1][trn]where[/trn][/m]
+кӕд
+	[m1][p][i][c][com]adv[/com][/c][/i][/p][/m]
+	[m1][trn]when[/trn][/m]
+кӕлӕн
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn][/trn][/m]
+	[m3][*]- [ref]кӕлӕнтӕ кӕнун[/ref][/*][/m]
+кӕмӕдӕр
+	[m1][p][i][c][com]pron,[/com][/c][/i][/p][p][i][c][com]indef[/com][/c][/i][/p][/m]
+	[m1][trn]to someone, from someone[/trn][/m]
+кӕми
+	[m1][p][i][c][com]adv[/com][/c][/i][/p][/m]
+	[m1][trn]where[/trn][/m]
+кӕмидӕр
+	[m1][p][i][c][com]adv[/com][/c][/i][/p][/m]
+	[m1][trn]somewhere[/trn][/m]
+кӕмидӕриддӕр
+	[m1][p][i][c][com]adv[/com][/c][/i][/p][/m]
+	[m1][trn]everywhere, wherever[/trn][/m]
+кӕмидӕрти
+	[m1][p][i][c][com]adv[/com][/c][/i][/p][/m]
+	[m1][trn]somewhere[/trn][/m]
+кӕмити
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]ка[/ref] [/m]
+	[m1][p][i][c][com]adv[/com][/c][/i][/p][/m]
+	[m1][trn]where[/trn][/m]
+кӕнтӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]anim,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1] [p][i][c][com]тж.[/com][/c][/i][/p] [ref]кантӕ[/ref] [/m]
+	[m1][trn]underground spirits; souls of the dead; underground inhabitants; kingdom of the dead;[/trn][/m]
+	[m3][*]- [ref]кӕнтӕй кӕсӕгмӕ[/ref][/*][/m]
+кӕраз
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]shed[/trn][/m]
+кӕрдӕг
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]anim,[/com][/c][/i][/p][p][i][c][com]human[/com][/c][/i][/p][/m]
+	[m1][trn]mower, haymaker; cutter[/trn][/m]
+кӕрдзин
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]karjin (village)[/trn][/m]
+кӕрдзин
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]karjin (village)[/trn][/m]
+кӕрдун
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]harvest; haymaking[/trn][/m]
+кӕсӕг
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]kabarda[/trn][/m]
+кӕсӕг
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]kabarda[/trn][/m]
+кӕун
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]crying[/trn][/m]
+	[m3][*]- [ref]кӕун кӕнун[/ref][/*][/m]
+кӕфдзау
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]anim,[/com][/c][/i][/p][p][i][c][com]human[/com][/c][/i][/p][/m]
+	[m1][trn]fisher[/trn][/m]
+кӕхцӕ
+	[m1] [i][com]([p][c]мн.[/c][/p] кӕхцитӕ)[/com][/i][/m]
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1] [p][i][c][com]тж.[/com][/c][/i][/p] [ref]кӕхцгӕнӕн[/ref] [/m]
+	[m1][trn]bowl; box where falls the threshed grains[/trn][/m]
+кадӕр
+	[m1][p][i][c][com]pron[/com][/c][/i][/p][/m]
+	[m1][trn]somebody, someone[/trn][/m]
+катӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn][/trn][/m]
+кедӕр
+	[m1][p][i][c][com]adj[/com][/c][/i][/p][/m]
+	[m1][trn]somebody's; belonging to smb else[/trn][/m]
+кедӕриддӕр
+	[m1][p][i][c][com]adj[/com][/c][/i][/p][/m]
+	[m1][trn]no matter whose[/trn][/m]
+къӕбис
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1] [p][i][c][com]тж.[/com][/c][/i][/p] [ref]къабис[/ref] [/m]
+	[m1][trn]inflorescence[/trn][/m]
+къӕндзугин
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]anim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]wild boar[/trn][/m]
+къӕрес
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]crust, scrab[/trn][/m]
+къӕркъур
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]body part,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]cartilage[/trn][/m]
+къӕрмӕг
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]cork, plug[/trn][/m]
+къӕрта
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]tub, wooden bucket[/trn][/m]
+къаппа-къуппа
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]disorder; plunder[/trn][/m]
+	[m3][*]- [ref]къаппа-къуппа кӕнун[/ref][/*][/m]
+къахой
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]anim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]shrew;[/trn][/m]
+	[m3][*]- [ref]къахой тӕрхъос[/ref][/*][/m]
+къеппа
+	[m1][p][i][c][com]adj[/com][/c][/i][/p][/m]
+	[m1][trn]very dirty[/trn][/m]
+къозо
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]ball[/trn][/m]
+къосбун
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]bottom of the patron[/trn][/m]
+къото
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]barn (made from twigs for grain); seine[/trn][/m]
+къох
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]oak-grove; grove[/trn][/m]
+	[m3][*]- [ref]къох есун[/ref][/*][/m]
+	[m3][*]- [ref]къох рауегъун[/ref][/*][/m]
+	[m3][*]- [ref]къох ӕвӕрун[/ref][/*][/m]
+	[m3][*]- [ref]къохмӕ раттун[/ref][/*][/m]
+	[m3][*]- [ref]къохтӕ телун[/ref][/*][/m]
+къох-къох
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]grunting[/trn][/m]
+	[m3][*]- [ref]къох-къох кӕнун[/ref][/*][/m]
+къуллау
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]body part,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]hernia[/trn][/m]
+къупхӕ
+	[m1] [i][com]([p][c]мн.[/c][/p] къупхитӕ)[/com][/i][/m]
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]pile[/trn][/m]
+	[m3][*]- [ref]къупхӕ кӕнун[/ref][/*][/m]
+лӕбурд
+	[m1] [i][com]([p][c]мн.[/c][/p] лӕбурдтитӕ)[/com][/i][/m]
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]landslide[/trn][/m]
+лӕмӕгъ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]beshmet[/trn][/m]
+	[m3][*]- [ref]лӕмӕгъ кӕнун[/ref][/*][/m]
+лӕнкӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]hollow, low place[/trn][/m]
+лагъз
+	[m1][p][i][c][com]adj[/com][/c][/i][/p][/m]
+	[m1][trn]smooth[/trn][/m]
+ласӕг
+	[m1] [i][com]([p][c]мн.[/c][/p] ласгутӕ)[/com][/i][/m]
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]adj,[/com][/c][/i][/p][p][i][c][com]anim,[/com][/c][/i][/p][p][i][c][com]human[/com][/c][/i][/p][/m]
+	[m1][trn]carrier; leading; draught[/trn][/m]
+ласӕггаг
+	[m1] [i][com]([p][c]мн.[/c][/p] ласӕггӕгтӕ)[/com][/i][/m]
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman,[/com][/c][/i][/p][p][i][c][com]body part[/com][/c][/i][/p][/m]
+	[m1][trn]gullit[/trn][/m]
+ливзӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1] [p][i][c][com]тж.[/com][/c][/i][/p] [ref]либзӕ[/ref] [/m]
+	[m1][trn]mucus[/trn][/m]
+листӕг
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]anim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]sheep[/trn][/m]
+	[m3][*]- [ref]листӕг кӕнун[/ref][/*][/m]
+	[m3][*]- [ref]листӕг кӕсун[/ref][/*][/m]
+лолӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn](tobacco) pipe[/trn][/m]
+мӕ
+мӕздӕг
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]mozdok (town)[/trn][/m]
+мӕздӕг
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]mozdok (town)[/trn][/m]
+мӕнкъӕй
+	[m1][p][i][c][com]adj[/com][/c][/i][/p][/m]
+	[m1] [p][i][c][com]тж.[/com][/c][/i][/p] [ref]мӕнкъи[/ref], [ref]минкъий[/ref] [/m]
+	[m1][trn]small[/trn][/m]
+мӕсуг
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]mashuk (mountain)[/trn][/m]
+мӕсуг
+	[m1] [i][com]([p][c]мн.[/c][/p] мӕсгутӕ)[/com][/i][/m]
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]mashuk (mountain)[/trn][/m]
+мӕтӕзе
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]cereals measure[/trn][/m]
+мӕхъӕл
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]ingushetia[/trn][/m]
+мӕхъӕл
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]ingushetia[/trn][/m]
+ма
+	[m1][p][i][c][com]ptcl,[/com][/c][/i][/p][p][i][c][com]encl[/com][/c][/i][/p][/m]
+	[m1][trn]more, still, yet[/trn][/m]
+мадӕл
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]land near the village which is not for cultivation[/trn][/m]
+макӕбӕлти
+	[m1][p][i][c][com]pron,[/com][/c][/i][/p][p][i][c][com]neg[/com][/c][/i][/p][/m]
+	[m1][trn]nowhere[/trn][/m]
+макӕми
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]маке[/ref] [/m]
+	[m1][p][i][c][com]pron,[/com][/c][/i][/p][p][i][c][com]neg[/com][/c][/i][/p][/m]
+	[m1][trn]nowhere[/trn][/m]
+маке
+	[m1][p][i][c][com]pron,[/com][/c][/i][/p][p][i][c][com]interrog,[/com][/c][/i][/p][p][i][c][com]neg,[/com][/c][/i][/p][p][i][c][com]human,[/com][/c][/i][/p][p][i][c][com]sg,[/com][/c][/i][/p][p][i][c][com]nom[/com][/c][/i][/p][/m]
+	[m1][trn]nobody[/trn][/m]
+мах
+	[m1][p][i][c][com]pron,[/com][/c][/i][/p][p][i][c][com]pers,[/com][/c][/i][/p][p][i][c][com]full,[/com][/c][/i][/p][p][i][c][com]1,[/com][/c][/i][/p][p][i][c][com]pl,[/com][/c][/i][/p][p][i][c][com]nom[/com][/c][/i][/p][/m]
+	[m1][trn]we[/trn][/m]
+махон
+	[m1][p][i][c][com]pron,[/com][/c][/i][/p][p][i][c][com]pers,[/com][/c][/i][/p][p][i][c][com]1pl,[/com][/c][/i][/p][p][i][c][com]poss,[/com][/c][/i][/p][p][i][c][com]subst[/com][/c][/i][/p][/m]
+	[m1][trn]ours[/trn][/m]
+махъа
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]glanders[/trn][/m]
+мела
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]misfire, miss;[/trn][/m]
+	[m3][*]- [ref]мела кӕнун[/ref][/*][/m]
+	[m3][*]- [ref]мела ун[/ref][/*][/m]
+мерет
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman,[/com][/c][/i][/p][p][i][c][com]anim,[/com][/c][/i][/p][p][i][c][com]human[/com][/c][/i][/p][/m]
+	[m1][trn]imereti (region in georgia); inhabitant of imeretia[/trn][/m]
+мин
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]мӕ[/ref] [/m]
+	[m1][p][i][c][com]num,[/com][/c][/i][/p][p][i][c][com]card[/com][/c][/i][/p][/m]
+	[m1][trn]thousand[/trn][/m]
+мисир
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]египет[/ref] [/m]
+	[m1][trn]egypt[/trn][/m]
+мисир
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]egypt[/trn][/m]
+монцагъуйун
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]lekking behavior[/trn][/m]
+мос
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]revenge[/trn][/m]
+	[m3][*]- [ref]мос есун[/ref][/*][/m]
+нӕмуг
+	[m1] [i][com]([p][c]мн.[/c][/p] нӕмгутӕ)[/com][/i][/m]
+	[m1] [i][com]([p][c]мн.[/c][/p] нӕмгутӕ)[/com][/i][/m]
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]grain, seed[/trn][/m]
+нӕмугхуар
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]anim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]thrush[/trn][/m]
+нӕрун
+	[m1][p][i][c][com]v,[/com][/c][/i][/p][p][i][c][com]intr[/com][/c][/i][/p][/m]
+	[m1][trn]thunder[/trn][/m]
+над
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]way[/trn][/m]
+	[m3][*]- [ref]над дарун[/ref][/*][/m]
+	[m3][*]- [ref]над кӕнун[/ref][/*][/m]
+назу
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1] [p][i][c][com]тж.[/com][/c][/i][/p] [ref]назутӕ[/ref] [/m]
+	[m1][trn]commemoration day before the great feast; palm sunday[/trn][/m]
+назу
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]commemoration day before the great feast; palm sunday[/trn][/m]
+науӕ
+	[m1][p][i][c][com]num,[/com][/c][/i][/p][p][i][c][com]card[/com][/c][/i][/p][/m]
+	[m1][trn]ninety[/trn][/m]
+некӕбӕлти
+	[m1][p][i][c][com]adv[/com][/c][/i][/p][/m]
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]неке[/ref] [/m]
+	[m1][trn]from nowhere[/trn][/m]
+некӕми
+	[m1][p][i][c][com]adv,[/com][/c][/i][/p][p][i][c][com]neg[/com][/c][/i][/p][/m]
+	[m1][trn]nowhere; never[/trn][/m]
+неке
+	[m1] [i][com]([p][c]мн.[/c][/p] [b]некетӕ[/b] никто; [b]некети[/b] никого, ничей; [b]некӕмӕнти[/b] никому; [b]некӕмӕти[/b] ни к кому; [b]некӕмӕйти[/b] ни от кого; [b]некӕмити[/b] нигде; [b]некӕбӕлти[/b] ни на ком)[/com][/i][/m]
+	[m1][p][i][c][com]pron,[/com][/c][/i][/p][p][i][c][com]interrog,[/com][/c][/i][/p][p][i][c][com]neg,[/com][/c][/i][/p][p][i][c][com]human,[/com][/c][/i][/p][p][i][c][com]sg,[/com][/c][/i][/p][p][i][c][com]nom[/com][/c][/i][/p][/m]
+	[m1][trn]nobody[/trn][/m]
+нецӕмӕй
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]неци[/ref] [/m]
+	[m1][p][i][c][com]adv,[/com][/c][/i][/p][p][i][c][com]neg[/com][/c][/i][/p][/m]
+	[m1][trn]rather not[/trn][/m]
+нецӕми
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]неци[/ref] [/m]
+	[m1][p][i][c][com]adv,[/com][/c][/i][/p][p][i][c][com]neg[/com][/c][/i][/p][/m]
+	[m1][trn]to nowhere[/trn][/m]
+нецирдӕмӕ
+	[m1][p][i][c][com]adv,[/com][/c][/i][/p][p][i][c][com]neg[/com][/c][/i][/p][/m]
+	[m1][trn]to nowhere, to none of the directions[/trn][/m]
+нецирдигӕй
+	[m1][p][i][c][com]adv,[/com][/c][/i][/p][p][i][c][com]neg[/com][/c][/i][/p][/m]
+	[m1][trn]from nowhere, from none of the directions[/trn][/m]
+ни
+	[m1][p][i][c][com]pv,[/com][/c][/i][/p][p][i][c][com]pv-ni[/com][/c][/i][/p][/m]
+	[m1][trn]pv[/trn][/m]
+нивӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]happiness, fortune[/trn][/m]
+ниссӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]anim,[/com][/c][/i][/p][p][i][c][com]human[/com][/c][/i][/p][/m]
+	[m1][trn]lady[/trn][/m]
+нихаггин
+	[m1][p][i][c][com]adj[/com][/c][/i][/p][/m]
+	[m1][trn]sharp-clawed[/trn][/m]
+персайнаг
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]adj,[/com][/c][/i][/p][p][i][c][com]anim,[/com][/c][/i][/p][p][i][c][com]human[/com][/c][/i][/p][/m]
+	[m1][trn]persian[/trn][/m]
+пох
+	[m1][p][i][c][com]adj[/com][/c][/i][/p][/m]
+	[m1][trn]fluffy, puffy, swollen, soft;[/trn][/m]
+	[m3][*]- [ref]пох кӕнун[/ref][/*][/m]
+	[m3][*]- [ref]пох ун[/ref][/*][/m]
+пъерцӕг
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]ramson[/trn][/m]
+рӕбуйнаг
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn][/trn][/m]
+	[m3][*]- [ref]рӕбуйнаг дӕндаг[/ref][/*][/m]
+рӕбун
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]corner; foot, base; savings[/trn][/m]
+рӕдӕнг
+	[m1][p][i][c][com]adj[/com][/c][/i][/p][/m]
+	[m1][trn]clear-boled[/trn][/m]
+рӕйун
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]bark[/trn][/m]
+рӕмӕн
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]hope; rest[/trn][/m]
+рӕугутӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman,[/com][/c][/i][/p][p][i][c][com]body part[/com][/c][/i][/p][/m]
+	[m1][trn]lungs[/trn][/m]
+	[m3][*]- [ref]рӕугути нез[/ref][/*][/m]
+	[m3][*]- [ref]рӕугути туппуртӕ[/ref][/*][/m]
+	[m3][*]- [ref]рӕугути цъарӕ[/ref][/*][/m]
+радӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]turn,[/trn][/m]
+раз
+	[m1] [i][com]([p][c]мн.[/c][/p] рӕзтӕ)[/com][/i][/m]
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]front side[/trn][/m]
+	[m3][*]- [ref]рази ун[/ref][/*][/m]
+разӕй
+	[m1][p][i][c][com]adv[/com][/c][/i][/p][/m]
+	[m1][trn]at the front, in front; firstly[/trn][/m]
+	[m3][*]- [ref]разӕй цӕуӕг[/ref][/*][/m]
+развӕлгъау
+	[m1][p][i][c][com]adv[/com][/c][/i][/p][/m]
+	[m1][trn]prematurely[/trn][/m]
+размӕ
+	[m1][p][i][c][com]post[/com][/c][/i][/p][/m]
+	[m1][trn]before[/trn][/m]
+римӕхсун
+	[m1][p][i][c][com]v,[/com][/c][/i][/p][p][i][c][com]tr[/com][/c][/i][/p][/m]
+	[m1] [p][i][c][com]тж.[/com][/c][/i][/p] [ref]нимӕхсун[/ref] [/m]
+	[m1][trn]hide[/trn][/m]
+сӕ
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]уони[/ref] [/m]
+	[m1][p][i][c][com]pron,[/com][/c][/i][/p][p][i][c][com]pers,[/com][/c][/i][/p][p][i][c][com]encl,[/com][/c][/i][/p][p][i][c][com]3,[/com][/c][/i][/p][p][i][c][com]pl,[/com][/c][/i][/p][p][i][c][com]gen[/com][/c][/i][/p][/m]
+	[m1][trn]they[/trn][/m]
+сӕбӕкк
+	[m1][p][i][c][com]adj[/com][/c][/i][/p][/m]
+	[m1][trn]flat[/trn][/m]
+сӕр
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman,[/com][/c][/i][/p][p][i][c][com]body part[/com][/c][/i][/p][/m]
+	[m1][trn]head; roof; cover; top; beginning; reason; chapter[/trn][/m]
+	[m3][*]- [ref]сӕр губур кӕнун[/ref][/*][/m]
+	[m3][*]- [ref]сӕр ӕрӕвӕрун[/ref][/*][/m]
+	[m3][*]- [ref]сӕрбӕл дзорун[/ref][/*][/m]
+	[m3][*]- [ref]сӕрбӕл ислӕуун[/ref][/*][/m]
+	[m3][*]- [ref]сӕрмӕ хӕссун[/ref][/*][/m]
+	[m3][*]- [ref]сӕрӕй бунмӕ[/ref][/*][/m]
+сӕрӕй
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]possibly, it seems[/trn][/m]
+сӕризӕд
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]anim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]guardian angel; saint, patron[/trn][/m]
+сӕх
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]post, pillar[/trn][/m]
+сӕхолӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]sakhola (river)[/trn][/m]
+сӕхолӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]sakhola (river)[/trn][/m]
+	[m3][*]- [ref]сӕхолӕ кӕнун[/ref][/*][/m]
+сайӕн
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]fodder[/trn][/m]
+сапп
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]boundary[/trn][/m]
+сари
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]svaneti[/trn][/m]
+сари
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]svaneti[/trn][/m]
+	[m3][*]- [ref]сари сауӕдонӕ[/ref][/*][/m]
+сауӕнгӕ
+	[m1][p][i][c][com]prtcl[/com][/c][/i][/p][/m]
+	[m1][trn]even; always; as a whole; up to the end; very[/trn][/m]
+сах
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]grain measure (1,5 - 2 kg)[/trn][/m]
+сенӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]siene (river)[/trn][/m]
+сенӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1] [p][i][c][com]тж.[/com][/c][/i][/p] [ref]сен[/ref] [/m]
+	[m1][trn]siene (river)[/trn][/m]
+сента
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]fasade[/trn][/m]
+сес
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman,[/com][/c][/i][/p][p][i][c][com]body part[/com][/c][/i][/p][/m]
+	[m1][trn]feather; spine[/trn][/m]
+сесгун
+	[m1][p][i][c][com]adj[/com][/c][/i][/p][/m]
+	[m1][trn][/trn][/m]
+си
+	[m1][p][i][c][com]pron,[/com][/c][/i][/p][p][i][c][com]pers,[/com][/c][/i][/p][p][i][c][com]encl,[/com][/c][/i][/p][p][i][c][com]3,[/com][/c][/i][/p][p][i][c][com]sg,[/com][/c][/i][/p][p][i][c][com]abl,[/com][/c][/i][/p][p][i][c][com]in[/com][/c][/i][/p][/m]
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]ӕ[/ref] [/m]
+	[m1][trn]he, she, it[/trn][/m]
+синтуӕнтӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]anim,[/com][/c][/i][/p][p][i][c][com]nonhuman,[/com][/c][/i][/p][p][i][c][com]body part[/com][/c][/i][/p][/m]
+	[m1][trn]worms under the bull skin[/trn][/m]
+сиуӕнти
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]ploughshare[/trn][/m]
+содзун
+	[m1][p][i][c][com]v,[/com][/c][/i][/p][p][i][c][com]intr[/com][/c][/i][/p][/m]
+	[m1][trn]be on fire; feel burning pain[/trn][/m]
+сомех
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]армени[/ref] [/m]
+	[m1][trn]armenia[/trn][/m]
+сомех
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]armenia[/trn][/m]
+сор
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]adj,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]сор кӕнун[/ref] [/m]
+	[m1][trn]dry weather, dryness; dry[/trn][/m]
+	[m3][*]- [ref]сор кӕнун[/ref][/*][/m]
+сорӕг
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]anim,[/com][/c][/i][/p][p][i][c][com]human[/com][/c][/i][/p][/m]
+	[m1][trn]persecutor[/trn][/m]
+соргӕнӕн
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]adj,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]dryer; drying[/trn][/m]
+стӕгдар
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman,[/com][/c][/i][/p][p][i][c][com]body part[/com][/c][/i][/p][/m]
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]ӕстӕгдар[/ref] [/m]
+	[m1][trn]skeleton, bones;[/trn][/m]
+суагъӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]decision, resolution, protocol[/trn][/m]
+	[m3][*]- [ref]суагъӕ финсун[/ref][/*][/m]
+сугъдӕг
+	[m1][p][i][c][com]adv[/com][/c][/i][/p][/m]
+	[m1][trn]one, only, completely[/trn][/m]
+	[m3][*]- [ref]сугъдӕг кӕнун[/ref][/*][/m]
+	[m3][*]- [ref]сугъдӕг ун[/ref][/*][/m]
+суйнаг
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]rope, cord, string;[/trn][/m]
+сумах
+	[m1][p][i][c][com]pron,[/com][/c][/i][/p][p][i][c][com]pers,[/com][/c][/i][/p][p][i][c][com]full,[/com][/c][/i][/p][p][i][c][com]2,[/com][/c][/i][/p][p][i][c][com]pl,[/com][/c][/i][/p][p][i][c][com]nom[/com][/c][/i][/p][/m]
+	[m1][trn]you[/trn][/m]
+суфа
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]anim,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]human,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]light-minded kind woman[/trn][/m]
+тӕгӕр
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]sycamore[/trn][/m]
+тӕнӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman,[/com][/c][/i][/p][p][i][c][com]body part[/com][/c][/i][/p][/m]
+	[m1][trn]right and left part of the stomach[/trn][/m]
+	[m3][*]- [ref]тӕнти райсун[/ref][/*][/m]
+тӕнгун
+	[m1][p][i][c][com]adj[/com][/c][/i][/p][/m]
+	[m1][trn]stringed[/trn][/m]
+тӕрмӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn][/trn][/m]
+тӕтӕр
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]tatarstan[/trn][/m]
+тӕтӕр
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]tatarstan[/trn][/m]
+тӕхсун
+	[m1][p][i][c][com]v,[/com][/c][/i][/p][p][i][c][com]intr,[/com][/c][/i][/p][p][i][c][com]tr[/com][/c][/i][/p][/m]
+	[m1][trn]ache[/trn][/m]
+талгъӕр
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]adj,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]striped; speckled, pocky; mixture[/trn][/m]
+танхъа
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]swell, ripple; foam[/trn][/m]
+тар
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]anim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]giant[/trn][/m]
+тар
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]anim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]тар[/ref] [/m]
+	[m1][trn]giant[/trn][/m]
+	[m3][*]- [ref]тар кӕнун[/ref][/*][/m]
+тас
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]basin[/trn][/m]
+тебӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]таби[/ref] [/m]
+	[m1][trn]frying pan[/trn][/m]
+толӕн
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]bank[/trn][/m]
+тола
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]cutting, hewing; deck cabin[/trn][/m]
+	[m3][*]- [ref]толатӕ кӕнун[/ref][/*][/m]
+толдзгун
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]toldzgun (village)[/trn][/m]
+толдзгун
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]toldzgun (village)[/trn][/m]
+тонг
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]belt, (saddle) girth[/trn][/m]
+тотур
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]anim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]wolves and bulls patron[/trn][/m]
+тохӕн
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]wrapping; package; packing[/trn][/m]
+	[m3][*]- [ref]тохӕн кӕнун[/ref][/*][/m]
+тохгӕ
+	[m1][p][i][c][com]adj[/com][/c][/i][/p][/m]
+	[m1][trn]folding[/trn][/m]
+тохун
+	[m1][p][i][c][com]v,[/com][/c][/i][/p][p][i][c][com]tr[/com][/c][/i][/p][/m]
+	[m1][trn]wrap up; wind, reel; roll up[/trn][/m]
+ту
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]spit[/trn][/m]
+	[m3][*]- [ref]ту кӕнун[/ref][/*][/m]
+туку
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]pussy willow; pussy willow buds[/trn][/m]
+тумугъ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]round; gathering, crowd[/trn][/m]
+	[m3][*]- [ref]тумугъ бийнонтӕ[/ref][/*][/m]
+	[m3][*]- [ref]тумугъ кӕнун[/ref][/*][/m]
+	[m3][*]- [ref]тумугъ ун[/ref][/*][/m]
+тунӕ
+	[m1] [i][com]([p][c]мн.[/c][/p] тунтӕ)[/com][/i][/m]
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]ray[/trn][/m]
+туттургъан
+	[m1][p][i][c][com]adj[/com][/c][/i][/p][/m]
+	[m1][trn]fastidious[/trn][/m]
+туххӕй
+	[m1][p][i][c][com]adv[/com][/c][/i][/p][/m]
+	[m1] [p][i][c][com]тж.[/com][/c][/i][/p] [ref]туххӕн[/ref] [/m]
+	[m1][trn]hardly, anyhow, with difficulty[/trn][/m]
+	[m3][*]- [ref]уой туххӕй[/ref][/*][/m]
+тъӕфилгъос
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]anim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]wild boar[/trn][/m]
+тъума
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]the whole family, tribe[/trn][/m]
+уӕ
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]сумах[/ref] [/m]
+	[m1][p][i][c][com]intj[/com][/c][/i][/p][/m]
+	[m1][trn]hey![/trn][/m]
+уӕд
+	[m1][p][i][c][com]adv[/com][/c][/i][/p][/m]
+	[m1][trn]then; in that case, let it be so[/trn][/m]
+уӕрдун
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]bullock-cart, cart[/trn][/m]
+уӕхе
+	[m1][p][i][c][com][/com][/c][/i][/p][/m]
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]уӕхуӕдӕг[/ref] [/m]
+	[m1][trn][/trn][/m]
+уӕхебӕл
+	[m1][p][i][c][com][/com][/c][/i][/p][/m]
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]уӕхуӕдӕг[/ref] [/m]
+	[m1][trn][/trn][/m]
+уӕхейау
+	[m1][p][i][c][com][/com][/c][/i][/p][/m]
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]уӕхуӕдӕг[/ref] [/m]
+	[m1][trn][/trn][/m]
+уӕхемӕ
+	[m1][p][i][c][com][/com][/c][/i][/p][/m]
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]уӕхуӕдӕг[/ref] [/m]
+	[m1][trn][/trn][/m]
+уӕхецӕй
+	[m1][p][i][c][com][/com][/c][/i][/p][/m]
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]уӕхуӕдӕг[/ref] [/m]
+	[m1][trn][/trn][/m]
+уӕхецӕн
+	[m1][p][i][c][com][/com][/c][/i][/p][/m]
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]уӕхуӕдӕг[/ref] [/m]
+	[m1][trn][/trn][/m]
+уой
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]е[/ref] [/m]
+	[m1][p][i][c][com][/com][/c][/i][/p][/m]
+	[m1][trn][/trn][/m]
+уоми
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]е[/ref] [/m]
+	[m1][p][i][c][com]adv[/com][/c][/i][/p][/m]
+	[m1][trn]there[/trn][/m]
+уордӕмӕ
+	[m1][p][i][c][com]adv[/com][/c][/i][/p][/m]
+	[m1][trn]from there[/trn][/m]
+уорс
+	[m1][p][i][c][com]adj[/com][/c][/i][/p][/m]
+	[m1][trn]white; grey (about hair)[/trn][/m]
+	[m3][*]- [ref]уорс гӕди бӕласӕ[/ref][/*][/m]
+	[m3][*]- [ref]уорс дарун[/ref][/*][/m]
+	[m3][*]- [ref]уорс дзӕнгъа[/ref][/*][/m]
+	[m3][*]- [ref]уорс кӕнун[/ref][/*][/m]
+уотӕ
+	[m1] [i][com]([p][c]мн.[/c][/p] уотитӕ)[/com][/i][/m]
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]ун[/ref] [/m]
+	[m1][p][i][c][com]adv[/com][/c][/i][/p][/m]
+	[m1][trn]so[/trn][/m]
+	[m3][*]- [ref]уотӕ кӕнун[/ref][/*][/m]
+урух
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]urukh (river)[/trn][/m]
+урух
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]urukh (river)[/trn][/m]
+	[m3][*]- [ref]урух кӕнун[/ref][/*][/m]
+	[m3][*]- [ref]урух ун[/ref][/*][/m]
+хедигъос
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]hidikus (village)[/trn][/m]
+хедигъос
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]hidikus (village)[/trn][/m]
+хумӕллӕг
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]humallag[/trn][/m]
+хумӕллӕг
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]prop,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]humallag[/trn][/m]
+хъаллӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]nikolaevskaya (village)[/trn][/m]
+хъаллӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]nikolaevskaya (village)[/trn][/m]
+хъалмухъ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]kalmykia[/trn][/m]
+хъалмухъ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]kalmykia[/trn][/m]
+хъарман
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]karman (village)[/trn][/m]
+хъарман
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]karman (village)[/trn][/m]
+цӕй
+	[m1][p][i][c][com]intj[/com][/c][/i][/p][/m]
+	[m1][trn]hey[/trn][/m]
+цӕйдӕр
+	[m1][p][i][c][com][/com][/c][/i][/p][/m]
+	[m1][trn][/trn][/m]
+цӕмӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman,[/com][/c][/i][/p][p][i][c][com]intj[/com][/c][/i][/p][/m]
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]ци[/ref] [/m]
+	[m1][trn]sludge ice; why? what for?[/trn][/m]
+цӕмӕй
+	[m1][p][i][c][com]conj[/com][/c][/i][/p][/m]
+	[m1][trn]in order to[/trn][/m]
+цӕмӕйдӕриддӕр
+	[m1][p][i][c][com][/com][/c][/i][/p][/m]
+	[m1][trn][/trn][/m]
+цӕмӕйдӕрти
+	[m1][p][i][c][com][/com][/c][/i][/p][/m]
+	[m1][trn][/trn][/m]
+цӕмӕн
+	[m1][p][i][c][com]adv[/com][/c][/i][/p][/m]
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]ци[/ref] [/m]
+	[m1][trn]why; what for[/trn][/m]
+цӕмӕндӕр
+	[m1][p][i][c][com]adv[/com][/c][/i][/p][/m]
+	[m1][trn]for some reason; for something[/trn][/m]
+цӕхгӕр
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][trn]cow-parsnip stem (edible); tub[/trn][/m]
+цидӕр
+	[m1][p][i][c][com]pron,[/com][/c][/i][/p][p][i][c][com]indef[/com][/c][/i][/p][/m]
+	[m1][trn]something[/trn][/m]
+цидӕриддӕр
+	[m1][p][i][c][com]pron,[/com][/c][/i][/p][p][i][c][com]indef[/com][/c][/i][/p][/m]
+	[m1] [p][i][c][com]тж.[/com][/c][/i][/p] [ref]цидӕрдӕр[/ref] [/m]
+	[m1][trn]whatever; everything[/trn][/m]
+цидӕртӕ
+	[m1][p][i][c][com]pron,[/com][/c][/i][/p][p][i][c][com]indef[/com][/c][/i][/p][/m]
+	[m1][trn]something[/trn][/m]
+цирдӕмӕ
+	[m1][p][i][c][com]adv[/com][/c][/i][/p][/m]
+	[m1][trn]where, in what direction[/trn][/m]
+цирдигӕй
+	[m1][p][i][c][com]adv[/com][/c][/i][/p][/m]
+	[m1] [p][i][c][com]тж.[/com][/c][/i][/p] [ref]цирдӕгӕй[/ref], [ref]цердигӕй[/ref] [/m]
+	[m1][trn]whence, from what siade[/trn][/m]
+цитӕ
+	[m1][p][i][c][com]n,[/com][/c][/i][/p][p][i][c][com]inanim,[/com][/c][/i][/p][p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+	[m1][p][i][c][com]см.[/com][/c][/i][/p] [ref]ци[/ref] [/m]
+	[m1][trn]honour; respect; glory[/trn][/m]
+	[m3][*]- [ref]цитӕ кӕнун[/ref][/*][/m]
+cумахон
+	[m1][p][i][c][com]pron,[/com][/c][/i][/p][p][i][c][com]pers,[/com][/c][/i][/p][p][i][c][com]2pl,[/com][/c][/i][/p][p][i][c][com]poss,[/com][/c][/i][/p][p][i][c][com]subst[/com][/c][/i][/p][/m]
+	[m1][trn]yours[/trn][/m]
