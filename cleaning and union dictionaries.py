@@ -465,7 +465,7 @@ def replace_m1():
 
 
 def transfer_duplicates():
-    with open('temp.txt', 'r', encoding='utf-8') as f:
+    with open('temp2.txt', 'r', encoding='utf-8') as f:
         lines = list(map(lambda x: x.strip().rstrip("\n"), f.readlines()))
     space = '	'
     used = []
