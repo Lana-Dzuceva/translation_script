@@ -1,0 +1,2260 @@
+алкӕциау
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]universal,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]equative[/com][/c][/i][/p][/m]
+		[m1][trn]every[/trn][/m]
+алкӕцибӕл
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]universal,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]superessiv[/com][/c][/i][/p][/m]
+		[m1][trn]every[/trn][/m]
+алкӕцимӕ
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]universal,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]allative[/com][/c][/i][/p][/m]
+		[m1][trn]every[/trn][/m]
+алкӕцимӕй
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]universal,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]ablative[/com][/c][/i][/p][/m]
+		[m1][trn]every[/trn][/m]
+алкӕцитӕбӕл
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]universal,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]superessiv[/com][/c][/i][/p][/m]
+		[m1][trn]every[/trn][/m]
+алкӕций
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]universal,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]genitive[/com][/c][/i][/p][/m]
+		[m1][trn]every[/trn][/m]
+алкӕцитӕй
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]universal,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]ablative[/com][/c][/i][/p][/m]
+		[m1][trn]every[/trn][/m]
+алкӕцимӕн
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]universal,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]dative[/com][/c][/i][/p][/m]
+		[m1][trn]every[/trn][/m]
+алкӕцитӕмӕ
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]universal,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]allative[/com][/c][/i][/p][/m]
+		[m1][trn]every[/trn][/m]
+алкӕцими
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]universal,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]inessive[/com][/c][/i][/p][/m]
+		[m1][trn]every[/trn][/m]
+алкӕцитӕн
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]universal,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]dative[/com][/c][/i][/p][/m]
+		[m1][trn]every[/trn][/m]
+алкӕцитӕ
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]universal,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]nominative[/com][/c][/i][/p][/m]
+		[m1][trn]every[/trn][/m]
+алкӕцитиау
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]universal,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]equative[/com][/c][/i][/p][/m]
+		[m1][trn]every[/trn][/m]
+алкӕцити
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]universal,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]genitive[/com][/c][/i][/p][/m]
+		[m1][trn]every[/trn][/m]
+алкӕцитими
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]universal,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]inessive[/com][/c][/i][/p][/m]
+		[m1][trn]every[/trn][/m]
+ескӕциау
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]equative[/com][/c][/i][/p][/m]
+		[m1][trn]some[/trn][/m]
+ескӕцибӕл
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]superessiv[/com][/c][/i][/p][/m]
+		[m1][trn]some[/trn][/m]
+ескӕцимӕ
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]allative[/com][/c][/i][/p][/m]
+		[m1][trn]some[/trn][/m]
+ескӕцимӕй
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]ablative[/com][/c][/i][/p][/m]
+		[m1][trn]some[/trn][/m]
+ескӕцитӕбӕл
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]superessiv[/com][/c][/i][/p][/m]
+		[m1][trn]some[/trn][/m]
+ескӕций
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]genitive[/com][/c][/i][/p][/m]
+		[m1][trn]some[/trn][/m]
+ескӕцитӕй
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]ablative[/com][/c][/i][/p][/m]
+		[m1][trn]some[/trn][/m]
+ескӕцимӕн
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]dative[/com][/c][/i][/p][/m]
+		[m1][trn]some[/trn][/m]
+ескӕцитӕмӕ
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]allative[/com][/c][/i][/p][/m]
+		[m1][trn]some[/trn][/m]
+ескӕцими
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]inessive[/com][/c][/i][/p][/m]
+		[m1][trn]some[/trn][/m]
+ескӕцитӕн
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]dative[/com][/c][/i][/p][/m]
+		[m1][trn]some[/trn][/m]
+ескӕцитӕ
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]nominative[/com][/c][/i][/p][/m]
+		[m1][trn]some[/trn][/m]
+ескӕцитиау
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]equative[/com][/c][/i][/p][/m]
+		[m1][trn]some[/trn][/m]
+ескӕцити
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]genitive[/com][/c][/i][/p][/m]
+		[m1][trn]some[/trn][/m]
+ескӕцитими
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]inessive[/com][/c][/i][/p][/m]
+		[m1][trn]some[/trn][/m]
+кӕциау
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]equative[/com][/c][/i][/p][/m]
+		[m1][trn]which[/trn][/m]
+кӕцибӕл
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]superessiv[/com][/c][/i][/p][/m]
+		[m1][trn]which[/trn][/m]
+кӕцимӕ
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]allative[/com][/c][/i][/p][/m]
+		[m1][trn]which[/trn][/m]
+кӕцимӕй
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]ablative[/com][/c][/i][/p][/m]
+		[m1][trn]which[/trn][/m]
+кӕцитӕбӕл
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]superessiv[/com][/c][/i][/p][/m]
+		[m1][trn]which[/trn][/m]
+кӕций
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]genitive[/com][/c][/i][/p][/m]
+		[m1][trn]which[/trn][/m]
+кӕцитӕй
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]ablative[/com][/c][/i][/p][/m]
+		[m1][trn]which[/trn][/m]
+кӕцимӕн
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]dative[/com][/c][/i][/p][/m]
+		[m1][trn]which[/trn][/m]
+кӕцитӕмӕ
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]allative[/com][/c][/i][/p][/m]
+		[m1][trn]which[/trn][/m]
+кӕцими
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]inessive[/com][/c][/i][/p][/m]
+		[m1][trn]which[/trn][/m]
+кӕцитӕн
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]dative[/com][/c][/i][/p][/m]
+		[m1][trn]which[/trn][/m]
+кӕцитӕ
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]nominative[/com][/c][/i][/p][/m]
+		[m1][trn]which[/trn][/m]
+кӕцитиау
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]equative[/com][/c][/i][/p][/m]
+		[m1][trn]which[/trn][/m]
+кӕцити
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]genitive[/com][/c][/i][/p][/m]
+		[m1][trn]which[/trn][/m]
+кӕцитими
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]inessive[/com][/c][/i][/p][/m]
+		[m1][trn]which[/trn][/m]
+макӕциау
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]equative[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+макӕцибӕл
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]superessiv[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+макӕцимӕ
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]allative[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+макӕцимӕй
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]ablative[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+макӕцитӕбӕл
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]superessiv[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+макӕций
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]genitive[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+макӕцитӕй
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]ablative[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+макӕцимӕн
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]dative[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+макӕцитӕмӕ
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]allative[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+макӕцими
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]inessive[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+макӕцитӕн
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]dative[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+макӕцитӕ
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]nominative[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+макӕцитиау
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]equative[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+макӕцити
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]genitive[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+макӕцитими
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]inessive[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+некӕциау
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]equative[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+некӕцибӕл
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]superessiv[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+некӕцимӕ
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]allative[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+некӕцимӕй
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]ablative[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+некӕцитӕбӕл
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]superessiv[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+некӕций
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]genitive[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+некӕцитӕй
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]ablative[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+некӕцимӕн
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]dative[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+некӕцитӕмӕ
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]allative[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+некӕцими
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]inessive[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+некӕцитӕн
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]dative[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+некӕцитӕ
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]nominative[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+некӕцитиау
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]equative[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+некӕцити
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]genitive[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+некӕцитими
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]plural,[/com][/c][/i][/p] [p][i][c][com]inessive[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+къахой
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]legless[/trn][/m]
+листӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]small things, small change; small; thin[/trn][/m]
+ӕлхий
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]adjective[/com][/c][/i][/p][/m]
+		[m1][trn]knot, loop; gloomy[/trn][/m]
+		[m3][*]- [ref]ӕлхий кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]ӕлхий ун[/ref][/*][/m]
+		[m3][*]- [ref]ӕлхий ӕрфуг[/ref][/*][/m]
+организацигӕнӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]organizer, organizing[/trn][/m]
+оссаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]ossetian; ossetic (attr)[/trn][/m]
+сайӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]bait; deceptive[/trn][/m]
+сари
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]svan[/trn][/m]
+сӕхолӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]loop; fold; ties; local bad quality cloth; knotty[/trn][/m]
+сента
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjectiveinanim,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]body part,[/com][/c][/i][/p] [p][i][c][com][/com][/c][/i][/p][/m]
+		[m1][trn]half of the body; one-sided, lop-sided; lame[/trn][/m]
+скъуд
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕскъуд[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]break; cut; crack[/trn][/m]
+ӕуундзундзийнадӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]adjectiveustment[/trn][/m]
+ӕцӕгӕлон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]alien, hostile, strange, foreign[/trn][/m]
+		[m3][*]- [ref]ӕцӕгӕлон кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]ӕцӕгӕлон ун[/ref][/*][/m]
+авдӕйнон
+		[m1][p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]cradle; a baby inessive a cradle[/trn][/m]
+адӕмимуггаг
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]адӕнимуггаг[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]nationality; mankind; humane, honest[/trn][/m]
+адӕнимуггаг
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]адӕмимуггаг[/ref][/m]
+славиайнаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]slav[/trn][/m]
+сор
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]faint[/trn][/m]
+тар
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]dark; dense, thick; deep[/trn][/m]
+тӕрмӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]offence; offensive[/trn][/m]
+тъӕфилгъос
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]lop-eared; hare[/trn][/m]
+азат
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]adjective[/com][/c][/i][/p][/m]
+		[m1][trn]free,independent[/trn][/m]
+азуймаг
+		[m1][p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]guilty; damned; devilry; devil[/trn][/m]
+азунгонд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]adjective[/com][/c][/i][/p][/m]
+		[m1][trn]accusation, exposure; exposed, blamed[/trn][/m]
+алкӕци
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]universal,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]nominative[/com][/c][/i][/p][/m]
+		[m1][trn]every[/trn][/m]
+амонӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]indicator; sign; pointer; showing[/trn][/m]
+амондӕнгъӕл
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]expecting happiness[/trn][/m]
+амонддӕттӕг
+		[m1][i][com]([p][c]plural[/c][/p] амонддӕтгутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]bearing happiness[/trn][/m]
+амондхӕссӕг
+		[m1][i][com]([p][c]plural[/c][/p] амондхӕсгутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]bearing happiness[/trn][/m]
+амудт
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]explanation; admonition;[/trn][/m]
+амунд
+		[m1][i][com]([p][c]plural[/c][/p] амундтитӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]admonition; sermon; explanation; sign; demonstration[/trn][/m]
+ангъосгин
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]guilty[/trn][/m]
+арӕхдзау
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]арӕхцау[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]experienced, fimiliar[/trn][/m]
+арӕхцау
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]арӕхдзау[/ref][/m]
+арази
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]agreement[/trn][/m]
+		[m3][*]- [ref]арази кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]арази ун[/ref][/*][/m]
+аргъоцгӕнагӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn][/trn][/m]
+аргъоцгонд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]respected[/trn][/m]
+аргъуфст
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn][/trn][/m]
+армадард
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]tame[/trn][/m]
+		[m3][*]- [ref]армадард кӕнун[/ref][/*][/m]
+арф
+		[m1][i][com]([p][c]plural[/c][/p] ӕрфитӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]depth[/trn][/m]
+асӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]size; height; age; the same size, height, age[/trn][/m]
+асӕст
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]cloudiness, cloudy[/trn][/m]
+асгин
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]tall[/trn][/m]
+асес
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]hot-tempered[/trn][/m]
+		[m3][*]- [ref]асес кӕнун[/ref][/*][/m]
+аслан
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]cheap[/trn][/m]
+астӕйуаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]mutual; middle[/trn][/m]
+асткъумон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]octagonal[/trn][/m]
+асттегъон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]octahedral[/trn][/m]
+аууонуарзагӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]shade-requiring[/trn][/m]
+аууонфӕразон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]shade-enduring[/trn][/m]
+ахӕвдӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]stockstill; nestled to[/trn][/m]
+		[m3][*]- [ref]ахӕвдӕг ун[/ref][/*][/m]
+ахургонд
+		[m1][i][com]([p][c]plural[/c][/p] ахургӕндтӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]scientist; educated[/trn][/m]
+бӕстихай
+		[m1][i][com]([p][c]plural[/c][/p] бӕстихӕйттӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]building, dwelling, room; yard; plot of land (adjectiveoining one's house); estate; region, district, part of the country[/trn][/m]
+гоймагон
+		[m1][p][i][c][com]adjective[/com][/c][/i][/p][/m]
+		[m1][trn]personal (pronoun)[/trn][/m]
+гъом
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]гъон[/ref][/m]
+гъон
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]гъом[/ref][/m]
+		[m1][p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]capable of doing smth; calltle herd[/trn][/m]
+ескӕци
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]nominative[/com][/c][/i][/p][/m]
+		[m1][trn]some[/trn][/m]
+еуӕ-еу
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]еуӕй-еу[/ref][/m]
+еуӕй-еу
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]еуӕ-еу[/ref][/m]
+		[m1][p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]pronoun[/com][/c][/i][/p][/m]
+		[m1][trn]other; some; somebody[/trn][/m]
+кӕдзестӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]pattern, design; figured[/trn][/m]
+кӕдзос
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]pure, innocent[/trn][/m]
+		[m3][*]- [ref]кӕдзос кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]кӕдзос ун[/ref][/*][/m]
+кӕдзосзӕрдӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]frank, moral[/trn][/m]
+кӕлӕнгонд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]witchcraft; bewitched[/trn][/m]
+кӕлӕх
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]ice-covered ground; slippery[/trn][/m]
+кӕлагӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective[/com][/c][/i][/p][/m]
+		[m1][trn]spilling; falling, pouring; stumbling[/trn][/m]
+кӕлмӕ
+		[m1][i][com]([p][c]plural[/c][/p] кӕлмитӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]wormy; worm[/trn][/m]
+		[m3][*]- [ref]кӕлмӕ кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]кӕлмӕ ун[/ref][/*][/m]
+кӕлмӕвзаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]evil tongue[/trn][/m]
+кӕло
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]thin; small, plain[/trn][/m]
+кӕлсиуӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]with small horns[/trn][/m]
+кӕнгӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]artificial, imitation; named; adopted[/trn][/m]
+кӕнкӕгун
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]full of dandruff[/trn][/m]
+кӕнкӕсӕр
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]with a dirty head, dandruffy head[/trn][/m]
+кӕнунгъон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]able to do, to make; able to function[/trn][/m]
+кӕрӕф
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]greedy, mercenary, self-interested[/trn][/m]
+кӕрзахсӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]sharp, angry, hot-tempered[/trn][/m]
+кӕронбӕттӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]conclusion; concluding[/trn][/m]
+кӕсӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]look-out station; sight (of the gun); visual; reading (hall)[/trn][/m]
+кӕсалгахӕссӕг
+		[m1][i][com]([p][c]plural[/c][/p] кӕсалгахӕсгутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]fisherman; fishing, fisherman's[/trn][/m]
+кӕсгон
+		[m1][i][com]([p][c]plural[/c][/p] кӕсгӕнттӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]kabardian[/trn][/m]
+кӕсийнӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]body aprt[/com][/c][/i][/p][/m]
+		[m1][trn]eye, eyesight; waiting; expected[/trn][/m]
+кӕстӕр
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]younger[/trn][/m]
+кӕстӕреуӕггӕнагӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]obliging[/trn][/m]
+кӕуагӕ
+		[m1][i][com]([p][c]plural[/c][/p] кӕуагитӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]crybaby; whining[/trn][/m]
+кӕундзаст
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]inessive tears; going to cry[/trn][/m]
+кӕфгъӕлӕс
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]insatiable[/trn][/m]
+кӕци
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]nominative[/com][/c][/i][/p][/m]
+		[m1][trn]which[/trn][/m]
+кӕцидӕр
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative[/com][/c][/i][/p][/m]
+		[m1][trn]someone, something[/trn][/m]
+кӕцидӕриддӕр
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative[/com][/c][/i][/p][/m]
+		[m1][trn]anyone, whatever, any[/trn][/m]
+къӕбӕда
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]talker; upstart; bad-mannered[/trn][/m]
+къӕбӕлдзуг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]curly[/trn][/m]
+		[m3][*]- [ref]къӕбӕлдзуг кӕнун[/ref][/*][/m]
+къӕбӕргор
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]poor, beggar[/trn][/m]
+къӕбӕрсайӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]asking for the last piece of bread[/trn][/m]
+къӕбет
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]къӕбот[/ref][/m]
+къӕбот
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]къӕбет[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]body part[/com][/c][/i][/p][/m]
+		[m1][trn]muzzle, beak; mug; mouth; tong[/trn][/m]
+къӕбургин
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]rocky[/trn][/m]
+къӕдзӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]bend; curvature[/trn][/m]
+		[m3][*]- [ref]къӕдзтӕ кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]къӕдзӕ кӕнун[/ref][/*][/m]
+къӕдзӕвзаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]tongue-tied[/trn][/m]
+къӕдзӕх
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]rock; mountain range[/trn][/m]
+къӕдзал
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]crooked[/trn][/m]
+къӕдзой
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]lop-sided[/trn][/m]
+къӕдзула
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]crooked, curved, humpbacked[/trn][/m]
+къӕйвунх
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]fried[/trn][/m]
+къӕйдзар
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]with a stone surface, roof, covered by stone piles, floor covered by piles[/trn][/m]
+къӕйдор
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]shale rock; shale; flat stone; jut of the rock under the water[/trn][/m]
+къӕйнӕх
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]impudent; persistent; stubborn; importunate[/trn][/m]
+къӕлӕтсӕр
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]with branched horns; antlered deer[/trn][/m]
+къӕли
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]tin, sheet metal[/trn][/m]
+къӕлос
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]bend; curvature; curved; bent; arciform[/trn][/m]
+къӕндзӕстуг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]confused; shy[/trn][/m]
+		[m3][*]- [ref]къӕндзӕстуг кӕнун[/ref][/*][/m]
+къӕрейаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]korean[/trn][/m]
+къӕрт
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]crack; splinter, fragment; broke off; split; cut; opened; unripped[/trn][/m]
+		[m3][*]- [ref]къӕрт кӕнун[/ref][/*][/m]
+къӕртгъос
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]keen ear; with a keen ear[/trn][/m]
+къӕрцгъос
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]with a keen ear; vigilant[/trn][/m]
+къӕсибадӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]witch, healer; bad-mannared[/trn][/m]
+къӕсхур
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]thin, skinny[/trn][/m]
+		[m3][*]- [ref]къӕсхур кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]къӕсхур ун[/ref][/*][/m]
+къабазгин
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]къабазгун[/ref][/m]
+къабазгун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]къабазгин[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]a man with strong arms; one having many relatives; ramified[/trn][/m]
+къабеллаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]thin, skinny[/trn][/m]
+къабозӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]branch; branchy[/trn][/m]
+къахсӕр
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]cephalopod[/trn][/m]
+къахур
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]skinny[/trn][/m]
+къеллон-меллон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]mud; turbidity;[/trn][/m]
+къеуӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]bleeding sap; resin; rosin; greasy, dirty[/trn][/m]
+къех
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]stupor; confusion[/trn][/m]
+		[m3][*]- [ref]къех кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]къех кӕсун[/ref][/*][/m]
+		[m3][*]- [ref]къех лӕуун[/ref][/*][/m]
+къидзих
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]skinny, ordinary, undersized[/trn][/m]
+къинди
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]stingy[/trn][/m]
+къирӕйцагъд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]whitewash(ing); whitewashed[/trn][/m]
+къирхагӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]drunk; drunkard[/trn][/m]
+къленц
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]dandy; arrogant man, proud[/trn][/m]
+къоде
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]body part[/com][/c][/i][/p][/m]
+		[m1][trn]tail; bobtail; without a tail[/trn][/m]
+къойдор
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]stubborn[/trn][/m]
+къолӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]hillside; slope; inclined, sloping[/trn][/m]
+		[m3][*]- [ref]къолӕ кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]къолӕ ун[/ref][/*][/m]
+къолгъос
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]unjust[/trn][/m]
+къолдох
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]aggressive; obsessive; uninvited; impostor[/trn][/m]
+къолергъӕв
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]separated inessive a wrong way[/trn][/m]
+		[m3][*]- [ref]къолергъӕв кӕнун[/ref][/*][/m]
+къолибадӕг
+		[m1][i][com]([p][c]plural[/c][/p] къолибадгутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]spoilt child, naughty child, capricious child, bad-mannered[/trn][/m]
+		[m3][*]- [ref]къолибадӕг кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]къолибадӕг уосӕ[/ref][/*][/m]
+къолой
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]with the crooked neck[/trn][/m]
+къона
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]hearth; fire; house; dear[/trn][/m]
+къопийесӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]copying[/trn][/m]
+къуӕтти
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]deaf-and-dump, deaf mute[/trn][/m]
+къуалейӕттаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]spoilt child, naughty child, capricious child, bad-mannered[/trn][/m]
+къуаргонд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]group; grouped together[/trn][/m]
+къубулдзуг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]knobby[/trn][/m]
+къудурдзӕф
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]heavily drunk[/trn][/m]
+къузур
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]body part[/com][/c][/i][/p][/m]
+		[m1][trn]protuberance, projection; bulge, lump; knob; uneveness; roughness; scar; wart[/trn][/m]
+къуллупп
+		[m1][i][com]([p][c]plural[/c][/p] къуллуппитӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]greedy, gluttonous[/trn][/m]
+		[m3][*]- [ref]къуллупп кӕнун[/ref][/*][/m]
+къулух
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]lame, lame man, lame woman[/trn][/m]
+къумӕлгъос
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]with dark ears[/trn][/m]
+къумӕлдзӕф
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]slightly drunk[/trn][/m]
+къумахгӕд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]locked[/trn][/m]
+къумон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]triangle; corner (kick)[/trn][/m]
+къумух
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]blunt; dull; clumsy, ugly[/trn][/m]
+		[m3][*]- [ref]къумух кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]къумух ун[/ref][/*][/m]
+къуппӕреу
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]with the prominent breast[/trn][/m]
+къупрагъ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]humpbacked, humpback[/trn][/m]
+къупсуйнӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]humpbacked, humpback[/trn][/m]
+къурсафӕ
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]къурсиавӕ[/ref][/m]
+къурсиавӕ
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]къурсафӕ[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]lace[/trn][/m]
+къуру
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]deaf[/trn][/m]
+		[m3][*]- [ref]къуру кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]къуру ун[/ref][/*][/m]
+къурф
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]deep[/trn][/m]
+къурфдзӕстӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]with deep eyes[/trn][/m]
+лӕвӕрд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]present; given (number); mentioned (example)[/trn][/m]
+лӕвар
+		[m1][i][com]([p][c]plural[/c][/p] лӕвӕрттӕ)[/com][/i][/m]
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]лӕвар кӕнун[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]adverb,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]present; for free;[/trn][/m]
+		[m3][*]- [ref]лӕвар кӕнун[/ref][/*][/m]
+лӕваргор
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]one who asks for a present, one who wants a present[/trn][/m]
+лӕвард
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]present; given[/trn][/m]
+лӕгӕхсарӕ
+		[m1][i][com]([p][c]plural[/c][/p] лӕгӕхсӕрттӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]courage[/trn][/m]
+лӕггонд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]courageous, humane, manlike[/trn][/m]
+лӕггорӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]walking man; asking man[/trn][/m]
+лӕгмӕцуд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]married[/trn][/m]
+лӕгуат
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]wreck, ruin; cripple; ruined[/trn][/m]
+лӕгфӕндон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]spoilt by the man's care[/trn][/m]
+лӕдӕр
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]simpleton; helpless, useless[/trn][/m]
+лӕдӕргӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]clear, understandable; keen-witted[/trn][/m]
+лӕдӕрунгӕнӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]interpreter; clear[/trn][/m]
+лӕкъӕрдӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]mud[/trn][/m]
+лӕкъун
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]turbidity[/trn][/m]
+		[m3][*]- [ref]лӕкъун кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]лӕкъун ун[/ref][/*][/m]
+лӕмирд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]mist; cloudy[/trn][/m]
+лӕпъа
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]wet; slush[/trn][/m]
+лӕхфид
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]weak[/trn][/m]
+лӕхъерӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]slush; swampy, sticky, dilute, liquid[/trn][/m]
+		[m3][*]- [ref]лӕхъерӕ кӕнун[/ref][/*][/m]
+лагуанта
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]sluggish, slow, clumsy[/trn][/m]
+лазунӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]echidna; malicious[/trn][/m]
+ласагӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]workstock; kidnapping[/trn][/m]
+лацамарз
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]sloven, slob; slow, clumsy, sluggish[/trn][/m]
+леворгин
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]armed by a revolver[/trn][/m]
+ледзагӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]running often[/trn][/m]
+лекъаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]lezghin[/trn][/m]
+лигъз
+		[m1][i][com]([p][c]plural[/c][/p] лигъзитӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]smooth surface; sweet (word)[/trn][/m]
+		[m3][*]- [ref]лигъз кӕнун[/ref][/*][/m]
+лигъзӕвзаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]the one speaking tenderly[/trn][/m]
+лигъстаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]forced to beg[/trn][/m]
+		[m3][*]- [ref]лигъстаг ун[/ref][/*][/m]
+лимӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]friend[/trn][/m]
+лисдзӕстӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]shortsighted[/trn][/m]
+лискъӕсӕр
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]with a lousy head[/trn][/m]
+листӕггӕнӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]crusher[/trn][/m]
+литвайаг
+		[m1][i][com]([p][c]plural[/c][/p] литвайӕгтӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]lithuanian[/trn][/m]
+лихстаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]beggar, the one who begs[/trn][/m]
+лихъӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]crushed, squashed, crumbled, ground; beat[/trn][/m]
+		[m3][*]- [ref]лихъӕ кӕнун[/ref][/*][/m]
+лух
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]slit, cut; log; wound; cut, split; broken (ground); decided[/trn][/m]
+		[m3][*]- [ref]лух кӕнун[/ref][/*][/m]
+лухфадӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]sawmill, powersaw bench[/trn][/m]
+мӕгуйраг
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]мӕгурӕг[/ref][/m]
+мӕгур
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]poor man; poor[/trn][/m]
+		[m3][*]- [ref]мӕгур кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]мӕгур ун[/ref][/*][/m]
+		[m3][*]- [ref]мӕгури бон[/ref][/*][/m]
+мӕгурӕг
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]мӕгуйраг[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]poor man; poor[/trn][/m]
+мӕгурдӕйраг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]poor[/trn][/m]
+мӕйнӕуӕггун
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]lunatic; epileptic, mad[/trn][/m]
+мӕйрохс
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]moonlight; moon (attr)[/trn][/m]
+мӕлӕг
+		[m1][i][com]([p][c]plural[/c][/p] мӕлгутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]dying[/trn][/m]
+мӕлӕтхӕссӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]bringing death[/trn][/m]
+мӕлгъӕвзаг
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]мӕлгъӕвзаггун[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]phrasemonger, rhetorician; eloquent[/trn][/m]
+мӕлгъӕвзаггун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]мӕлгъӕвзаг[/ref][/m]
+мӕнӕугун
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]having a lot of wheat; sown with wheat; producing wheat[/trn][/m]
+мӕнгӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]lies, deception; false, slanderous; fictitious, fake; empty; blank (shot)[/trn][/m]
+		[m3][*]- [ref]мӕнгӕ дзорун[/ref][/*][/m]
+		[m3][*]- [ref]мӕнгӕ кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]мӕнгӕ ун[/ref][/*][/m]
+мӕнгӕй
+		[m1][i][com]([p][c]plural[/c][/p] мӕнгӕйттӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]small[/trn][/m]
+мӕнгӕнцойнӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]unsteadiness; unsteady, shaky[/trn][/m]
+мӕнгарӕзт
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]fake; falsification; sly, cunning[/trn][/m]
+мӕнгард
+		[m1][i][com]([p][c]plural[/c][/p] мӕнгӕрдтӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]perjurer; fraud, trickster; dishonourable, treacherous[/trn][/m]
+		[m3][*]- [ref]мӕнгард миуӕ[/ref][/*][/m]
+		[m3][*]- [ref]мӕнгард ун[/ref][/*][/m]
+мӕрдӕмбес
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]half-dead[/trn][/m]
+мӕрддзӕстӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]niggard; niggardly, greedy[/trn][/m]
+мӕрдивад
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]deathly pale[/trn][/m]
+мӕрдтӕйдзӕуӕг
+		[m1][i][com]([p][c]plural[/c][/p] мӕрдтӕйдзӕугутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]risen from death; thin[/trn][/m]
+мӕрдтӕмӕцӕуӕг
+		[m1][i][com]([p][c]plural[/c][/p] мӕрдтӕмӕцӕугутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]dying[/trn][/m]
+мӕрдхуз
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]necrotic; death paleness[/trn][/m]
+мӕскуйаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]resident of moscow; moscow (attr)[/trn][/m]
+мӕстӕймарӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]the one who makes angry, embitters, offends[/trn][/m]
+мӕстӕфсес
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]bitterness; full of bitterness; distressed[/trn][/m]
+мӕстаг
+		[m1][i][com]([p][c]plural[/c][/p] мӕстӕгтӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]something offensive[/trn][/m]
+мӕстадӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]offense; bitter[/trn][/m]
+		[m3][*]- [ref]мӕстадӕ кӕнун[/ref][/*][/m]
+мӕстигӕр
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]angry; irritable, nervous; hot-tempered[/trn][/m]
+мӕстмарӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]sneer, jeer; offending, distressing, embittering[/trn][/m]
+мӕтъӕл
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]sorrow, grief; sad; warm (water); depressed; weak[/trn][/m]
+		[m3][*]- [ref]мӕтъӕл кӕнун[/ref][/*][/m]
+мӕхъӕлон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]ingush (noun,attr)[/trn][/m]
+мӕцъӕл
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]moisture; humid; weak, tired[/trn][/m]
+		[m3][*]- [ref]мӕцъӕл кӕнун[/ref][/*][/m]
+мадзора
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]silent person; silent[/trn][/m]
+мадиард
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]naked[/trn][/m]
+мадтӕл
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]bitch, cow; brood-hen; mother's; native[/trn][/m]
+макӕци
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]nominative[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+малдон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]deep river; deep[/trn][/m]
+мангойлаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]mongol[/trn][/m]
+маргӕйдзаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]poisonous[/trn][/m]
+марггин
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]scorpion; poisoned[/trn][/m]
+маргъдарӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]poultry farm; poultry (attr)[/trn][/m]
+мард
+		[m1][i][com]([p][c]plural[/c][/p] мӕрдтӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]dead[/trn][/m]
+		[m3][*]- [ref]мӕрдти бон[/ref][/*][/m]
+		[m3][*]- [ref]мӕрдти бӕстӕ[/ref][/*][/m]
+маст
+		[m1][i][com]([p][c]plural[/c][/p] мӕститӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]body part[/com][/c][/i][/p][/m]
+		[m1][trn]bile, bitterness, offence, anger; trouble; bitter, bilious[/trn][/m]
+		[m3][*]- [ref]маст есун[/ref][/*][/m]
+		[m3][*]- [ref]маст кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]масти дзӕкъолӕ[/ref][/*][/m]
+мегрелаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]megrelian[/trn][/m]
+медӕггаг
+		[m1][i][com]([p][c]plural[/c][/p] медӕггӕгтӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]lining; internal[/trn][/m]
+медӕмӕцӕуӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]incoming[/trn][/m]
+медтаст
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]concave[/trn][/m]
+ментал
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]metal[/trn][/m]
+мереттаг
+		[m1][i][com]([p][c]plural[/c][/p] мереттӕгтӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]inhabitant of imeretia (region inessive georgia)[/trn][/m]
+мет
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]snow[/trn][/m]
+миздесӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]salaried; paid[/trn][/m]
+мизихъаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]man, macho; loutish; rude[/trn][/m]
+микили
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]микъилда[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]undersized, shortish, plain[/trn][/m]
+микъилда
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]микили[/ref][/m]
+минеуӕгон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]adjectiveective; haveing a quality; specific[/trn][/m]
+минкин
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]weak, soft[/trn][/m]
+минмурон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]having thousand voices[/trn][/m]
+мисийраг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]egyptian[/trn][/m]
+мойнӕгин
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]married[/trn][/m]
+молдавайнаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]moldavian[/trn][/m]
+мондаг
+		[m1][i][com]([p][c]plural[/c][/p] мондӕгтӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]desiring, desirous; desire, passion; lust; excitement[/trn][/m]
+		[m3][*]- [ref]мондаг кӕнун[/ref][/*][/m]
+мондидзаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]blissful; blessed; bliss[/trn][/m]
+		[m3][*]- [ref]мондзидзаг кӕнун[/ref][/*][/m]
+монт
+		[m1][i][com]([p][c]plural[/c][/p] монттитӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]edible burdock[/trn][/m]
+морӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]fraction, grain, fragment; broken to pieces[/trn][/m]
+		[m3][*]- [ref]морӕ кӕнун[/ref][/*][/m]
+мордвайаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]mordvin[/trn][/m]
+мулд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]win, prize; won; loser[/trn][/m]
+мулкдзӕстӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]greedy; bourgeois[/trn][/m]
+мурзгъур
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]malicious, gloomy, dark[/trn][/m]
+мусу
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]мусуй[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]snow leopard, ounce; clodhopper; uneven, rough[/trn][/m]
+мусуй
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]мусу[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]snow leopard, ounce; clodhopper; uneven, rough[/trn][/m]
+мухургӕнӕг
+		[m1][i][com]([p][c]plural[/c][/p] мухургӕнгутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]printer, typographer; printing[/trn][/m]
+мухуркӕнуйнаг
+		[m1][i][com]([p][c]plural[/c][/p] мухуркӕнуйнӕгтӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]somethings has to be printed[/trn][/m]
+нӕбӕззон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]garbage; unfit, useless[/trn][/m]
+нӕдӕруймон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]angry, angry man[/trn][/m]
+нӕдзӕрон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]unsociable[/trn][/m]
+нӕзгъӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]needles (of a conifer); coniferous[/trn][/m]
+нӕл
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]male[/trn][/m]
+нӕлгоймаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]man, male[/trn][/m]
+нӕлкӕндус
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]european white hellebore[/trn][/m]
+нӕмугсоргӕнӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]grain-dryer[/trn][/m]
+нӕрст
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]broadening, widening; expansion; swelling; broadened; swollen, bloated; fat; plump, buxom[/trn][/m]
+нӕуесӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]disobedience; disobedient[/trn][/m]
+		[m3][*]- [ref]нӕуесӕн кӕнун[/ref][/*][/m]
+нӕфӕдгуйаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]taboo; forbidden[/trn][/m]
+нӕфӕразӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]unhealthy, weak[/trn][/m]
+нӕфӕразгӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]unhealthy, weak[/trn][/m]
+		[m3][*]- [ref]нӕфӕразгӕ кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]нӕфӕразгӕ ун[/ref][/*][/m]
+нӕфӕтгиаг
+		[m1][i][com]([p][c]plural[/c][/p] нӕфӕтгиӕгтӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]taboo; forbidden[/trn][/m]
+надамонӕг
+		[m1][i][com]([p][c]plural[/c][/p] надамонгутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]guide, conductor, leader; guiding[/trn][/m]
+найфон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]belonging to the family; youngest; kindred, related[/trn][/m]
+накӕгӕнӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]swimmer; swimming[/trn][/m]
+налат
+		[m1][i][com]([p][c]plural[/c][/p] налӕттӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]sly person; sly; mischievous person; mischievous; insidious[/trn][/m]
+нанайаг
+		[m1][i][com]([p][c]plural[/c][/p] нанайӕгтӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]nanay[/trn][/m]
+нарӕг
+		[m1][i][com]([p][c]plural[/c][/p] наргутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]gorge; narrow, tight; thin[/trn][/m]
+		[m3][*]- [ref]нарӕг кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]нарӕг ун[/ref][/*][/m]
+нарӕгбӕрзӕй
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]with a thin neck[/trn][/m]
+нард
+		[m1][i][com]([p][c]plural[/c][/p] нӕрдтӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]grease, fat; fat (attr)[/trn][/m]
+		[m3][*]- [ref]нард кӕнун[/ref][/*][/m]
+нардиуарӕг
+		[m1][i][com]([p][c]plural[/c][/p] нардиуаргутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]distributer of fat (meat); generous[/trn][/m]
+нартихуартонӕг
+		[m1][i][com]([p][c]plural[/c][/p] нартихуартонгутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]corn harvester[/trn][/m]
+наудзуд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]navigation, shipping; navigable[/trn][/m]
+незӕмхец
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]sickly[/trn][/m]
+незӕфхуӕрд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]consumptive, sickly[/trn][/m]
+незгун
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]sick, sick man[/trn][/m]
+некӕци
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]singular,[/com][/c][/i][/p] [p][i][c][com]nominative[/com][/c][/i][/p][/m]
+		[m1][trn]none[/trn][/m]
+немуцаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]german (noun,attr)[/trn][/m]
+нендеуагӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]coward; timid, irresolute, hesitating[/trn][/m]
+ненецаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]nenets (noun,attr)[/trn][/m]
+нецизонӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]illiterate, uneducated, uncivilized[/trn][/m]
+нивӕйдзаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]happy[/trn][/m]
+нивӕфтуд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]image; cliche; painted, decorated[/trn][/m]
+нивгун
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]happy[/trn][/m]
+нигӕд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]buried[/trn][/m]
+нигалӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]hostility; hostile[/trn][/m]
+нигулӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]setting, sunset; west (noun,attr)[/trn][/m]
+ниййерӕг
+		[m1][i][com]([p][c]plural[/c][/p] ниййергутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]parent; dear[/trn][/m]
+ниллӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]low place; low-lying[/trn][/m]
+нимӕдзон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]numeral; numerical[/trn][/m]
+нимад
+		[m1][i][com]([p][c]plural[/c][/p] нимӕдтитӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]counting; authoritative, powerful[/trn][/m]
+нимайӕг
+		[m1][i][com]([p][c]plural[/c][/p] нимайгутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]counter; accountant; counting; respecting[/trn][/m]
+нимодзӕг
+		[m1][i][com]([p][c]plural[/c][/p] нимодзгутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]informer, squealer; traitor; recommending[/trn][/m]
+нисангонд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]mark; purpose; marked; intended, meant;[/trn][/m]
+ниссаст
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]broken-down[/trn][/m]
+нифсдӕттӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]perspective; inspirer[/trn][/m]
+нифссаст
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]irresolute, diffident, cowardly[/trn][/m]
+нифсхаст
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]brave[/trn][/m]
+ниффудард
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]inveterate, hostile, angry[/trn][/m]
+нихмӕлӕууӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]opponent; (adversative) conjunctionunction[/trn][/m]
+нихой
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]without nail, without claw[/trn][/m]
+нихъуӕрд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]swallow; swallowed[/trn][/m]
+ногъайаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]nogay[/trn][/m]
+норвегиаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]norwegian[/trn][/m]
+папилойнӕгӕнӕг
+		[m1][i][com]([p][c]plural[/c][/p] папилойнӕгӕнгутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]defaulter, plunderer[/trn][/m]
+парахат
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]abundance, wealth; spreading; abundant, rich; free, spacious; widespread[/trn][/m]
+		[m3][*]- [ref]парахат кӕнун[/ref][/*][/m]
+парахатгӕнӕг
+		[m1][i][com]([p][c]plural[/c][/p] парахатгӕнгутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]disseminator; initiator[/trn][/m]
+пилӕстӕг
+		[m1][i][com]([p][c]plural[/c][/p] пилӕстгутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]ivory; elephant's[/trn][/m]
+пихсбун
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]shrub, bush; shrubby[/trn][/m]
+пихсгун
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]shrubby; trees with a lot of dry branches; place with a lot of brushwood[/trn][/m]
+пихцилсӕр
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]body part[/com][/c][/i][/p][/m]
+		[m1][trn]double (flower); shaggy[/trn][/m]
+португайлаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]portuguese[/trn][/m]
+прангӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]european[/trn][/m]
+пурф
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]sprinkling, pouring; sprayed, watered[/trn][/m]
+		[m3][*]- [ref]пурф кӕнун[/ref][/*][/m]
+пурхӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]splashes; broken; torn; scattered; watered; bespattered[/trn][/m]
+		[m3][*]- [ref]пурхӕ кӕнун[/ref][/*][/m]
+пусулмон
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]пусумон[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]muslim[/trn][/m]
+пусумон
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]пусулмон[/ref][/m]
+пухцӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]bast, bass; fibrous[/trn][/m]
+		[m3][*]- [ref]ниппухцӕ ’й кодта[/ref][/*][/m]
+пъӕр-пъӕр
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]overprotected; mollycoddled; used to comfort[/trn][/m]
+		[m3][*]- [ref]пъӕр-пъӕр кӕнун[/ref][/*][/m]
+пъагондарӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]military man[/trn][/m]
+рӕвдауӕг
+		[m1][i][com]([p][c]plural[/c][/p] рӕвдаугутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]nanny; consoler; endearing, sweet[/trn][/m]
+рӕвдауӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]endearing; place where chicken lays eggs[/trn][/m]
+рӕвдзӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]good condition; decoration; equipment; clothes; finishing; inessive good order; ready; quick, prompt[/trn][/m]
+		[m3][*]- [ref]рӕвдзӕ кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]рӕвдзӕ ун[/ref][/*][/m]
+рӕгӕфт
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]рӕгафт[/ref][/m]
+рӕгафт
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]рӕгӕфт[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]provocation; provoked[/trn][/m]
+рӕдзӕгъдт
+		[m1][i][com]([p][c]plural[/c][/p] рӕдзӕгъдтитӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]disorder; chaotic, scattered[/trn][/m]
+рӕдзӕхсӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]dispersion, spread, scatter; scattered, spread[/trn][/m]
+рӕнгъон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]enlisted man; ordinary; ordinal; small (letter)[/trn][/m]
+рӕнст
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]hit; heavily drunk[/trn][/m]
+рӕстӕуӕз
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]balance; stable[/trn][/m]
+рӕстеуӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]truth, justice; fair, just[/trn][/m]
+рӕстмӕгӕнӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]rectifier; straightener; correctional[/trn][/m]
+рӕсттегъон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]rectangle; rectangular[/trn][/m]
+рӕсуд
+		[m1][i][com]([p][c]plural[/c][/p] рӕсудтитӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]body part[/com][/c][/i][/p][/m]
+		[m1][trn]swelling; swollen[/trn][/m]
+рӕутасӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]flexibility; flexible[/trn][/m]
+рӕхснӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]straight thread (cut from leather);[/trn][/m]
+равзарӕггаг
+		[m1][i][com]([p][c]plural[/c][/p] равзарӕггӕгтӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]embryo; sprout; derived[/trn][/m]
+рагагъон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]early fruit, vegetable; preliminary[/trn][/m]
+раггӕндӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]early ploughing; plowed early[/trn][/m]
+рагмард
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]untimely death; the one who died early[/trn][/m]
+рагъойнӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]dog's-tail[/trn][/m]
+радгин
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]person on the waiting list; next, regular[/trn][/m]
+разамонӕг
+		[m1][i][com]([p][c]plural[/c][/p] разамонгутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]leader; leadership; leading[/trn][/m]
+развӕд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]predecessor; previous, earlier[/trn][/m]
+		[m3][*]- [ref]развӕд кӕнун[/ref][/*][/m]
+развӕндагамонӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]guide; guiding[/trn][/m]
+раздзӕуӕг
+		[m1][i][com]([p][c]plural[/c][/p] раздзӕугутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]leader; vanguard; preposition; foremost, headmost[/trn][/m]
+раздзау
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]going at the head, tracking; future[/trn][/m]
+разуац
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]forerunner, precursor; presage, foretoken; forerunning[/trn][/m]
+		[m3][*]- [ref]разуац хӕссун[/ref][/*][/m]
+райдайӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]beginning; initial[/trn][/m]
+ранихӕсагӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]sticky; bastard parsley[/trn][/m]
+рардӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]return; task; problem; given[/trn][/m]
+раст
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]adverb,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]straight, correct, fair; truth; directly, correctly[/trn][/m]
+		[m3][*]- [ref]раст кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]раст ун[/ref][/*][/m]
+растгонд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]correction; discharge, excuse; straightened; corrected; justified[/trn][/m]
+растиуӕрцӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]fair distribution; distributing fair[/trn][/m]
+расткъумон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]rectangle; rectangular[/trn][/m]
+раттагӕ
+		[m1][i][com]([p][c]plural[/c][/p] раттагитӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]generous[/trn][/m]
+рауагъд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]release; delivery, distribution; publication; released; distributed; published[/trn][/m]
+раууат
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]destruction; unfitness; decrepitude; misery; shabby; decrepit[/trn][/m]
+		[m3][*]- [ref]раууат кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]раууатмӕ ӕрцӕун[/ref][/*][/m]
+рафӕлгӕст
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]review[/trn][/m]
+рафӕнзӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]imitator; copying[/trn][/m]
+рахес
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]right-handed person; right[/trn][/m]
+рацъон
+		[m1][i][com]([p][c]plural[/c][/p] рацъӕнттӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]rachin[/trn][/m]
+ревӕд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]emptying; empty[/trn][/m]
+		[m3][*]- [ref]ревӕд кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]ревӕд ун[/ref][/*][/m]
+ресагӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]sick[/trn][/m]
+рист
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]pain; sick[/trn][/m]
+ристзӕрдӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]someone who lost his relative; insulted, humbled[/trn][/m]
+робасвад
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]робасивад[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]cheat; roguish[/trn][/m]
+робасивад
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]робасвад[/ref][/m]
+ромаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]roman[/trn][/m]
+рохс
+		[m1][i][com]([p][c]plural[/c][/p] рохситӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]light; bright[/trn][/m]
+		[m3][*]- [ref]рохс дарун[/ref][/*][/m]
+		[m3][*]- [ref]рохс кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]рохс уадзун[/ref][/*][/m]
+рохсгӕнӕг
+		[m1][i][com]([p][c]plural[/c][/p] рохсгӕнгутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]celestial body; illuminating[/trn][/m]
+рохсгӕнӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]lamp; lighting[/trn][/m]
+рохсзӕрдӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]joy; joyfull, joyous[/trn][/m]
+румийнаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]romanian[/trn][/m]
+рунгин
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]sick, patient[/trn][/m]
+		[m3][*]- [ref]рунгин ун[/ref][/*][/m]
+сӕдзӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]swamp; swampy, marshy[/trn][/m]
+сӕйгӕфӕрсӕг
+		[m1][i][com]([p][c]plural[/c][/p] сӕйгӕфӕрсгутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]visiting the sick man[/trn][/m]
+сӕйгау
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]adverb,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]sick, patient, like a sick man[/trn][/m]
+сӕлӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]freezing; frosty[/trn][/m]
+сӕлӕф
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]newly fallen snow; rain and snow mixed[/trn][/m]
+сӕлхӕр
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]extravagant; empty-headed; dull, half-witted[/trn][/m]
+сӕнӕгӕнӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]wine-making[/trn][/m]
+сӕндоцӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]time to press grapes; wine press; grindstone; wine-making[/trn][/m]
+сӕнтдзӕф
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]dolt, oaf, silly, dull[/trn][/m]
+сӕрбадӕгӕнӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]dominating[/trn][/m]
+сӕрбадтгӕнӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]chairman[/trn][/m]
+сӕрбарӕ
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]сӕребарӕ[/ref][/m]
+сӕргин
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]brainy; efficient; deer[/trn][/m]
+сӕргъӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]oaf; silly[/trn][/m]
+сӕрдареуӕггӕнӕг
+		[m1][i][com]([p][c]plural[/c][/p] сӕрдареуӕггӕнгутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]chairperson[/trn][/m]
+сӕребарӕ
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]сӕрбарӕ[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]freedom, independence; free, independent[/trn][/m]
+		[m3][*]- [ref]сӕребарӕ дӕттун[/ref][/*][/m]
+		[m3][*]- [ref]сӕребарӕ кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]сӕребарӕ ун[/ref][/*][/m]
+сӕребарӕгӕнӕг
+		[m1][i][com]([p][c]plural[/c][/p] сӕребарӕгӕнгутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]liberator, releaser; liberating[/trn][/m]
+сӕрзелӕггун
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]megrims; giddy; mad, crazy[/trn][/m]
+сӕрзелӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]giddiness; giddy[/trn][/m]
+сӕрзела
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]giddiness; giddy[/trn][/m]
+сӕрмагонд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]adverb,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]particular, special, separate; main; personal; extraordinary; property[/trn][/m]
+сӕрсӕфӕн
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]сӕрисӕфӕн[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]place of death, downfall; abyss, chasm; disastrous, destructive[/trn][/m]
+сӕрустур
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]proud; important; arrogant[/trn][/m]
+		[m3][*]- [ref]сӕрустур кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]сӕрустур ун[/ref][/*][/m]
+сӕрфӕг
+		[m1][i][com]([p][c]plural[/c][/p] сӕрфгутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]cleaner, sweeper[/trn][/m]
+сӕрхат
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]vice-versa; inversion; reverse[/trn][/m]
+сӕрхизт
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]protection; careful; unsociable; punctilious, scrupulous[/trn][/m]
+сӕццӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]stupor; stare, fixed look[/trn][/m]
+		[m3][*]- [ref]сӕццӕ ун[/ref][/*][/m]
+		[m3][*]- [ref]сӕццӕ фӕуун[/ref][/*][/m]
+сагел
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]сагелӕ[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]bear spear; forked[/trn][/m]
+		[m3][*]- [ref]сагел кӕнун[/ref][/*][/m]
+сагелӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]bear spear; forked[/trn][/m]
+сагсор
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]chaser of the deer; young man; swift-footed, quick; full of energy, dashing[/trn][/m]
+сагъд
+		[m1][i][com]([p][c]plural[/c][/p] сӕгъдтитӕ, сӕгъдтӕлтӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]planting[/trn][/m]
+сайӕггадӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]cheat; deceptive[/trn][/m]
+сайнӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]shining; black[/trn][/m]
+		[m3][*]- [ref]сайнӕг ӕлдар[/ref][/*][/m]
+салӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]morocco, goatskin; chamois; leather[/trn][/m]
+салд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]frozen subsoil, frost; frozen[/trn][/m]
+салдар
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]angry[/trn][/m]
+салф
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]invisibility; invisible[/trn][/m]
+самандор
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]adobe[/trn][/m]
+сард
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]cold[/trn][/m]
+сатӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]shadow, coolness; cool; pure, clear[/trn][/m]
+сау
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]black; mourning[/trn][/m]
+		[m3][*]- [ref]сау дарун[/ref][/*][/m]
+		[m3][*]- [ref]сау кӕнун[/ref][/*][/m]
+сауӕрфуг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]dark-browed[/trn][/m]
+саугур
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]stone-blind[/trn][/m]
+саугурмӕ
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]саугурма[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]stone-blind[/trn][/m]
+саугурма
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]саугурмӕ[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]stone-blind[/trn][/m]
+саугъӕдтон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]deciduous forest; wild, from forest[/trn][/m]
+саудалингӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]dark[/trn][/m]
+саударӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]mourning[/trn][/m]
+саудзалуг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]dark-haired; brunet[/trn][/m]
+саудзар
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]black, black-skinned[/trn][/m]
+саудзиккогин
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]dark-haired[/trn][/m]
+саумӕрӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]chernozem, black earth[/trn][/m]
+саурасуг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]as drunk as a sow[/trn][/m]
+саусӕр
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]dark-haired, dark-headed[/trn][/m]
+саухелӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]brunet, dark-haired[/trn][/m]
+сауцӕстӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]dark-eyed[/trn][/m]
+сауцъарӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]black, black-skinned[/trn][/m]
+сахатон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]sentry; watch (attr)[/trn][/m]
+сахъ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]fine young man; brave[/trn][/m]
+сахъатгун
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]cripple, freak; defective[/trn][/m]
+седтон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]call-up (age); vocative case[/trn][/m]
+селфой
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]sly person[/trn][/m]
+сиӕхсаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]suitable to be son-inessive-law[/trn][/m]
+сиахъ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]giant; huge; grand[/trn][/m]
+сибийраг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]siberian[/trn][/m]
+сикъадзӕф
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]drunk[/trn][/m]
+сикъо
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]one-horned; dull[/trn][/m]
+силвӕлхӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]beautiful, noble, honest, clam, slender[/trn][/m]
+силвӕндӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]someone who obeys woman's advices[/trn][/m]
+силваз
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]philander; womanlike[/trn][/m]
+силосгӕнӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]siloing; silo[/trn][/m]
+симӕр
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]mustiness; rotten, frusty[/trn][/m]
+синдзӕдзар
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]echinodermatous[/trn][/m]
+синдзӕзӕрдӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]hard-hearted, cruel[/trn][/m]
+синдзӕтъаффӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]needles (of a conifer); coniferous[/trn][/m]
+синдздзар
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]echinodermatous[/trn][/m]
+синхон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]neighbour[/trn][/m]
+систӕ
+		[m1][i][com]([p][c]plural[/c][/p] систитӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]louse, lousy[/trn][/m]
+сиуой
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]one-horned[/trn][/m]
+сиуон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]horned; horny deer[/trn][/m]
+сифтӕрӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]larch; foliaceous[/trn][/m]
+скифаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]scythian[/trn][/m]
+скъеб
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]shoes without back; arrogant[/trn][/m]
+слестгонд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]person under investigation[/trn][/m]
+ӕсмаггӕнӕг
+		[m1][i][com]([p][c]plural[/c][/p] ӕсмаггӕнгутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]смаггӕнӕг[/ref][/m]
+смаггӕнӕг
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕсмаггӕнӕг[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]stink; stinking[/trn][/m]
+ӕсмаггӕнагӕ
+		[m1][i][com]([p][c]plural[/c][/p] ӕсмаггӕнагитӕ)[/com][/i][/m]
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]смаггӕнагӕ[/ref][/m]
+смаггӕнагӕ
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕсмаггӕнагӕ[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]skunk; stinking[/trn][/m]
+содзӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]incendiary; envy[/trn][/m]
+сомехаг
+		[m1][i][com]([p][c]plural[/c][/p] сомехӕгтӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]armenian[/trn][/m]
+сомигӕнӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]on oath[/trn][/m]
+сонт
+		[m1][i][com]([p][c]plural[/c][/p] сӕнттӕ)[/com][/i][/m]
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]сӕнттӕ цӕгъдун[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]dream, folly; dull, crazy[/trn][/m]
+сортӕгӕнагӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]epileptic[/trn][/m]
+сос
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]silence; hollow; porous; not compact; secret[/trn][/m]
+сосӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]secret; clandestine[/trn][/m]
+		[m3][*]- [ref]сосӕг кӕнун[/ref][/*][/m]
+сосӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]july; heat, hot time; stuffiness[/trn][/m]
+		[m3][*]- [ref]сосӕн кӕнун[/ref][/*][/m]
+соцъа
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]envy; envious[/trn][/m]
+ставд
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕставд[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]thickness; thick; big[/trn][/m]
+ставдбӕрзӕй
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕставдбӕрзӕй[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]with the thick neck[/trn][/m]
+стад
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]ӕстад[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]smoked; tired; tiredness;[/trn][/m]
+стъопӕла
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]primrose[/trn][/m]
+сувӕргин
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]pregnant[/trn][/m]
+		[m3][*]- [ref]сувӕргин кӕнун[/ref][/*][/m]
+сугъдӕггонд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]consecration; consecrated; purified[/trn][/m]
+сугъдӕгзӕрдӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]innocence; innocent; moral; frank[/trn][/m]
+сугъзӕрийнӕ
+		[m1][i][com]([p][c]plural[/c][/p] сугъзӕринттӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]gold[/trn][/m]
+сумсумӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]dawdler; milksop; snoring, sniffing[/trn][/m]
+сунтъо
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]worms; worminess; wormy[/trn][/m]
+сунукӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]ashes; flocks; exhausting[/trn][/m]
+		[m3][*]- [ref]сунукӕ кӕнун[/ref][/*][/m]
+сурмадзаст
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]cross-eyed person; cross-eyed[/trn][/m]
+сурмедзаст
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]cross-eyed; squint[/trn][/m]
+сурх
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]body part[/com][/c][/i][/p][/m]
+		[m1][trn]red; redness; blood[/trn][/m]
+		[m3][*]- [ref]сурх кӕнун[/ref][/*][/m]
+сурхӕфсӕддон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]red army soldier; red army[/trn][/m]
+сурхгвардион
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]red guard[/trn][/m]
+сурхдзӕстӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]red-eyed[/trn][/m]
+сурхфлотон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]red navy man; red navy[/trn][/m]
+сурхцъарӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]red-skinned, redskin[/trn][/m]
+сухӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]drought; dry[/trn][/m]
+сфӕлдесонд
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]исфӕлдесонд[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]creation; creature; created[/trn][/m]
+схъӕл
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]ӕсхъӕл[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]proud[/trn][/m]
+схъӕлфий
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]snub-nosed[/trn][/m]
+тӕбун
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]wool; cloth; woollen[/trn][/m]
+тӕвдӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]heat; warmth; warmed[/trn][/m]
+		[m3][*]- [ref]тӕвдӕ кӕнун[/ref][/*][/m]
+тӕвдӕгӕнӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]heating[/trn][/m]
+тӕгъзӕстӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman,[/com][/c][/i][/p] [p][i][c][com]body part[/com][/c][/i][/p][/m]
+		[m1][trn]honeycomb bone; weak, weakling[/trn][/m]
+тӕкъӕр
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]strength, solidity; strong, hardened[/trn][/m]
+		[m3][*]- [ref]тӕкъӕр кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]тӕкъӕр ун[/ref][/*][/m]
+тӕлмӕцгонд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]observation; note; noticed[/trn][/m]
+тӕлфӕгой
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]restless, fidgety; fidget[/trn][/m]
+тӕмӕс
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]adverb,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]astonishment; amazing[/trn][/m]
+		[m3][*]- [ref]тӕмӕстӕ кӕнун[/ref][/*][/m]
+тӕмӕссаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]miracle; amazing[/trn][/m]
+тӕнгъӕдӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]liquid, fluid[/trn][/m]
+тӕнгъазӕдӕнт
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]тӕнгъаздӕнт[/ref][/m]
+тӕнгъаздӕнт
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]тӕнгъазӕдӕнт[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]ascetic[/trn][/m]
+тӕнкъӕр
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]turning, setting; sour[/trn][/m]
+тӕппӕлӕнгӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]death from fulminant disease[/trn][/m]
+		[m3][*]- [ref]тӕппӕлӕнгӕ кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]тӕппӕлӕнгӕ ун[/ref][/*][/m]
+тӕргай
+		[m1][i][com]([p][c]plural[/c][/p] тӕргӕйттӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]caprice; offence; rejection; capricious; offended, hurt[/trn][/m]
+		[m3][*]- [ref]тӕргай кӕнун[/ref][/*][/m]
+тӕрегъӕдгун
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]sinner, sinful[/trn][/m]
+тӕркк
+		[m1][i][com]([p][c]plural[/c][/p] тӕрккитӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]caprice; irritation, annoyance; capricious; irritable[/trn][/m]
+		[m3][*]- [ref]тӕркк кӕнун[/ref][/*][/m]
+тӕрсилӕхӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]coward, cowardly[/trn][/m]
+тӕрхойнаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]under the jurisdiction; accused[/trn][/m]
+тӕрхонгонд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]decision; decided, settled; convicted, sentenced[/trn][/m]
+тӕсзӕрдӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]coward; cowardly[/trn][/m]
+тӕссаг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]danger; terrible[/trn][/m]
+тӕссар
+		[m1][i][com]([p][c]plural[/c][/p] тӕссӕрттӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]slope; diametral line; perpendicular line; landmark; diametrical, cross[/trn][/m]
+тӕтӕйраг
+		[m1][i][com]([p][c]plural[/c][/p] тӕтӕйрӕгтӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]tatar[/trn][/m]
+тӕтон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]generous[/trn][/m]
+тӕхвадӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]transient, fast; transience[/trn][/m]
+тӕходуйаг
+		[m1][i][com]([p][c]plural[/c][/p] тӕходуйӕгтӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]object of the desire, desired; blessed[/trn][/m]
+тӕходуйтӕгӕнӕг
+		[m1][i][com]([p][c]plural[/c][/p] тӕходуйтӕгӕнгутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]envious person; avid; envy[/trn][/m]
+тӕхсал
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]тӕхсалӕ[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]squirrel; poisonous roots; flexible and fast[/trn][/m]
+тӕхсалӕ
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]тӕхсал[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]squirrel; poisonous roots; flexible and fast[/trn][/m]
+табедзӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]caress; attentive; tender;[/trn][/m]
+		[m3][*]- [ref]табедзӕ кӕнун[/ref][/*][/m]
+тагъддзорӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]talker, talking fast[/trn][/m]
+тагъдцӕттӕгӕнагӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]early fruit, vegetable; early, fast-ripening[/trn][/m]
+таджиккаг
+		[m1][i][com]([p][c]plural[/c][/p] таджиккӕгтӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]tajik[/trn][/m]
+талингӕ
+		[m1][i][com]([p][c]plural[/c][/p] талингитӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]dark, dusk[/trn][/m]
+		[m3][*]- [ref]талингити[/ref][/*][/m]
+		[m3][*]- [ref]талингӕ кӕнун[/ref][/*][/m]
+тамахса
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]miracle; miraculous[/trn][/m]
+таруг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]dark; dense[/trn][/m]
+тасӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]bend; flexibility; conjunctionugation; having verbal paradigm; compliant; flexible[/trn][/m]
+		[m3][*]- [ref]ӕнцон тасӕн[/ref][/*][/m]
+тауӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]oxide; sour[/trn][/m]
+		[m3][*]- [ref]тауӕг кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]тауӕг ун[/ref][/*][/m]
+тафст
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]warmth, heat; warmed, melted[/trn][/m]
+тегъфӕзӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]facet, side; cut (glass)[/trn][/m]
+тезгъогӕнӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]walking; reveller[/trn][/m]
+телигъӕдӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]telegraphic; postposition[/trn][/m]
+тигок
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]jump to the wrong side; staggering, waddling[/trn][/m]
+		[m3][*]- [ref]тигоккитӕ кӕнун[/ref][/*][/m]
+тигоккитӕ кӕнун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]тигок[/ref][/m]
+тиллефгонд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]deviation, evasion; evasive[/trn][/m]
+тобӕгонд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]forbidden; the one who swore[/trn][/m]
+тоггъӕуагӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]anaemia; anaemic[/trn][/m]
+тогкалӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]bloodshed; blody[/trn][/m]
+тогуарӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]death; disaster; bloodshed; bloody[/trn][/m]
+тогцох
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]anaemia; anaemic[/trn][/m]
+тохефтонг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]combat readiness; ready to fight[/trn][/m]
+тохунгъон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]fighting efficiency; combat-ready[/trn][/m]
+туаллаг
+		[m1][i][com]([p][c]plural[/c][/p] туаллӕгтӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]tual (man, woman); tual[/trn][/m]
+тубутт
+		[m1][i][com]([p][c]plural[/c][/p] тубуттитӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]indignation; indignant[/trn][/m]
+		[m3][*]- [ref]тубуттитӕ кӕнун[/ref][/*][/m]
+тугъдон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]fighter, soldier; battle; military, war[/trn][/m]
+тумӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]soft silky grass; silky[/trn][/m]
+тумбулдзӕсгон
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]round-faced[/trn][/m]
+тумбулрос
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]with fat cheeks[/trn][/m]
+тумукъе
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]looser; unfortunate[/trn][/m]
+тунуафӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]weaver's loom[/trn][/m]
+туппур
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]hillock, bump, barrow; swollen, prominent, bulging; fat[/trn][/m]
+		[m3][*]- [ref]туппур кӕнун[/ref][/*][/m]
+туппургонд
+		[m1][i][com]([p][c]plural[/c][/p] туппургӕндтӕ, туппургӕндтӕлтӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]swelling; hillock, barrow, bump; swollen; prominent[/trn][/m]
+турккаг
+		[m1][i][com]([p][c]plural[/c][/p] турккӕгтӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]turk; turkish[/trn][/m]
+туркмейнаг
+		[m1][i][com]([p][c]plural[/c][/p] туркмейнӕгтӕ)[/com][/i][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]turkmen[/trn][/m]
+тухӕсаст
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]loss of power; broken, weak[/trn][/m]
+		[m3][*]- [ref]тухӕсаст кӕнун[/ref][/*][/m]
+тухдзурд
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]tough talk; sharp word; intractable, disobedient[/trn][/m]
+		[m3][*]- [ref]тухдзурд кӕнун[/ref][/*][/m]
+тухтард
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]driving on; hijacked[/trn][/m]
+		[m3][*]- [ref]тухтард кӕнун[/ref][/*][/m]
+тъӕбӕртдзӕстӕ
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]tic[/trn][/m]
+тъӕпӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]flatness; plane; smooth surface; flat, plain (attr); stocky[/trn][/m]
+		[m3][*]- [ref]тъӕпӕн кӕнун[/ref][/*][/m]
+тъӕпӕнкъах
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]flat-footedness; flat-footed; bear[/trn][/m]
+тъӕпкъах
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]flat-footedness; splashing[/trn][/m]
+тъӕпхал
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]тъӕпхали[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]bloody wound; wounded[/trn][/m]
+тъӕпхали
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]тъӕпхал[/ref][/m]
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]bloody wound; wounded[/trn][/m]
+тъезӕг
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]whimperer[/trn][/m]
+тъезой
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]whimperer[/trn][/m]
+тъулин
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]heavy; huge thing; fat[/trn][/m]
+тъума-тъума
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]pitch-darkness[/trn][/m]
+тъух
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]animated,[/com][/c][/i][/p] [p][i][c][com]human[/com][/c][/i][/p][/m]
+		[m1][trn]fat man; fat, full[/trn][/m]
+		[m3][*]- [ref]тъух кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]тъух ун[/ref][/*][/m]
+уӕлӕнхасӕн
+		[m1][p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]application, addition; insertion; additive; appendage, adjectiveunct[/trn][/m]
+хом
+		[m1][p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]noun,[/com][/c][/i][/p] [p][i][c][com]inanimate,[/com][/c][/i][/p] [p][i][c][com]nonhuman[/com][/c][/i][/p][/m]
+		[m1][trn]raw, undercooked; wet; wet abscess; coarse calico[/trn][/m]
+хъӕлсӕр
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]сӕргъӕн[/ref][/m]
+хъодигӕнӕг
+		[m1][i][com]([p][c]plural[/c][/p] хъодигӕнгутӕ)[/com][/i][/m]
+		[m1][p][i][c][com]adjective[/com][/c][/i][/p][/m]
+		[m1][trn]boycotting, renouncing[/trn][/m]
+циавӕрдӕр
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative[/com][/c][/i][/p][/m]
+		[m1][trn]some[/trn][/m]
+циавӕрдӕрдӕр
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]циавӕрдӕриддӕр[/ref][/m]
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative[/com][/c][/i][/p][/m]
+		[m1][trn]every[/trn][/m]
+циавӕрдӕриддӕр
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]циавӕрдӕрдӕр[/ref][/m]
+циавӕрфӕнди
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative[/com][/c][/i][/p][/m]
+		[m1][trn]every[/trn][/m]
+циуавӕр
+		[m1][p][i][c][com]pronoun,[/com][/c][/i][/p] [p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]interrogative[/com][/c][/i][/p][/m]
+		[m1][trn]which[/trn][/m]
+циуавӕрдӕр
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]циавӕрдӕр[/ref][/m]

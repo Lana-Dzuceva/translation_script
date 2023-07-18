@@ -1,0 +1,77 @@
+астӕу
+		[m1][p][i][c][com]postposition[/com][/c][/i][/p][/m]
+		[m1][trn]inessive the middle, between[/trn][/m]
+ӕной
+		[m1][p][i][c][com]postposition,[/com][/c][/i][/p] [p][i][c][com]conjunctionunction,[/com][/c][/i][/p] [p][i][c][com]interjection[/com][/c][/i][/p][/m]
+		[m1][trn]without; and then; really?; and what?[/trn][/m]
+раз
+		[m1][p][i][c][com]postposition[/com][/c][/i][/p][/m]
+		[m1][trn]near[/trn][/m]
+рӕбун
+		[m1][p][i][c][com]postposition[/com][/c][/i][/p][/m]
+		[m1][trn]near[/trn][/m]
+сӕр
+		[m1][p][i][c][com]postposition[/com][/c][/i][/p][/m]
+		[m1][trn]on[/trn][/m]
+агъоммӕ
+		[m1][p][i][c][com]postposition[/com][/c][/i][/p][/m]
+		[m1][trn]before[/trn][/m]
+адӕбӕл
+		[m1][p][i][c][com]postposition[/com][/c][/i][/p][/m]
+		[m1][trn]because of; after this[/trn][/m]
+туххӕй
+		[m1][p][i][c][com]postposition[/com][/c][/i][/p][/m]
+		[m1][trn]because of; about[/trn][/m]
+алфӕн
+		[m1][p][i][c][com]postposition[/com][/c][/i][/p][/m]
+		[m1][trn]for the sake of; inessive the name of[/trn][/m]
+медӕг
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]медӕгӕ[/ref][/m]
+		[m1][p][i][c][com]postposition[/com][/c][/i][/p][/m]
+		[m1][trn]inessive, inside[/trn][/m]
+медӕгӕ
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]медӕг[/ref][/m]
+рӕуагӕй
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]рӕуаги[/ref][/m]
+рӕуаги
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]рӕуагӕй[/ref][/m]
+		[m1][p][i][c][com]postposition[/com][/c][/i][/p][/m]
+		[m1][trn]by reason of; because of; like; supposedly, smb says[/trn][/m]
+рӕуони
+		[m1][p][i][c][com]postposition[/com][/c][/i][/p][/m]
+		[m1][trn]on the pretext of, by reason of[/trn][/m]
+сӕрапгонд
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]сӕраппонд[/ref][/m]
+сӕраппонд
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]сӕрапгонд[/ref][/m]
+		[m1][p][i][c][com]postposition[/com][/c][/i][/p][/m]
+		[m1][trn]inessive the name, for the sake of, because of[/trn][/m]
+сӕрбӕл
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]сӕр[/ref][/m]
+		[m1][p][i][c][com]postposition[/com][/c][/i][/p][/m]
+		[m1][trn]above, on[/trn][/m]
+сӕргъи
+		[m1][p][i][c][com]postposition[/com][/c][/i][/p][/m]
+		[m1][trn]above; near; at the head[/trn][/m]
+		[m3][*]- [ref]сӕргъи ӕрлӕуун[/ref][/*][/m]
+сӕрмӕ
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]сӕр[/ref][/m]
+		[m1][p][i][c][com]postposition[/com][/c][/i][/p][/m]
+		[m1][trn]up, above[/trn][/m]
+сӕрти
+		[m1][p][i][c][com]postposition[/com][/c][/i][/p][/m]
+		[m1][trn]across; above; passing[/trn][/m]
+туххӕн
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]туххӕй[/ref][/m]
+уӕлсӕргъӕ
+		[m1][p][i][c][com]postposition[/com][/c][/i][/p][/m]
+		[m1][trn]above; near[/trn][/m]
+хӕццӕ
+		[m1][p][i][c][com]postposition[/com][/c][/i][/p][/m]
+		[m1][trn]with, together[/trn][/m]
+хинцмӕ
+		[m1][p][i][c][com]postposition[/com][/c][/i][/p][/m]
+		[m1][trn]at sb's expense; inessive respect of; following one's example; under the influence[/trn][/m]
+цори
+		[m1][p][i][c][com]postposition[/com][/c][/i][/p][/m]
+		[m1][trn]near, close to, by[/trn][/m]

@@ -1,0 +1,2814 @@
+бауайайтӕ
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-ba,[/com][/c][/i][/p] [p][i][c][com]optativ,[/com][/c][/i][/p] [p][i][c][com]2,[/com][/c][/i][/p] [p][i][c][com]plural[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+бауайанӕ
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-ba,[/com][/c][/i][/p] [p][i][c][com]optativ,[/com][/c][/i][/p] [p][i][c][com]1,[/com][/c][/i][/p] [p][i][c][com]plural[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+бауайдӕ
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-ba,[/com][/c][/i][/p] [p][i][c][com]optativ,[/com][/c][/i][/p] [p][i][c][com]3,[/com][/c][/i][/p] [p][i][c][com]singular[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+бауайинӕ
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-ba,[/com][/c][/i][/p] [p][i][c][com]optativ,[/com][/c][/i][/p] [p][i][c][com]1,[/com][/c][/i][/p] [p][i][c][com]singular[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+бауайсӕ
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-ba,[/com][/c][/i][/p] [p][i][c][com]optativ,[/com][/c][/i][/p] [p][i][c][com]2,[/com][/c][/i][/p] [p][i][c][com]singular[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+бауӕд
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-ba,[/com][/c][/i][/p] [p][i][c][com]imperative,[/com][/c][/i][/p] [p][i][c][com]3,[/com][/c][/i][/p] [p][i][c][com]singular[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+бауӕнтӕ
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-ba,[/com][/c][/i][/p] [p][i][c][com]imperative,[/com][/c][/i][/p] [p][i][c][com]3,[/com][/c][/i][/p] [p][i][c][com]plural[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+бауайуонцӕ
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-ba,[/com][/c][/i][/p] [p][i][c][com]optativ,[/com][/c][/i][/p] [p][i][c][com]3,[/com][/c][/i][/p] [p][i][c][com]plural[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+бауо
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-ba,[/com][/c][/i][/p] [p][i][c][com]imperative,[/com][/c][/i][/p] [p][i][c][com]2,[/com][/c][/i][/p] [p][i][c][com]singular[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+бауотӕ
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-ba,[/com][/c][/i][/p] [p][i][c][com]imperative,[/com][/c][/i][/p] [p][i][c][com]2,[/com][/c][/i][/p] [p][i][c][com]plural[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+бадӕ
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-ba,[/com][/c][/i][/p] [p][i][c][com]present,[/com][/c][/i][/p] [p][i][c][com]2,[/com][/c][/i][/p] [p][i][c][com]singular[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+бацайтӕ
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-ba,[/com][/c][/i][/p] [p][i][c][com]present,[/com][/c][/i][/p] [p][i][c][com]2,[/com][/c][/i][/p] [p][i][c][com]plural[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+бацан
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-ba,[/com][/c][/i][/p] [p][i][c][com]present,[/com][/c][/i][/p] [p][i][c][com]1,[/com][/c][/i][/p] [p][i][c][com]plural[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+бадӕн
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-ba,[/com][/c][/i][/p] [p][i][c][com]present,[/com][/c][/i][/p] [p][i][c][com]1,[/com][/c][/i][/p] [p][i][c][com]singular[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+бацӕй
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-ba,[/com][/c][/i][/p] [p][i][c][com]present,[/com][/c][/i][/p] [p][i][c][com]3,[/com][/c][/i][/p] [p][i][c][com]singular[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+бацӕнцӕ
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-ba,[/com][/c][/i][/p] [p][i][c][com]present,[/com][/c][/i][/p] [p][i][c][com]3,[/com][/c][/i][/p] [p][i][c][com]plural[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+ес
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]exst,[/com][/c][/i][/p] [p][i][c][com]present,[/com][/c][/i][/p] [p][i][c][com]3[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+исайтӕ
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-is,[/com][/c][/i][/p] [p][i][c][com]present,[/com][/c][/i][/p] [p][i][c][com]2,[/com][/c][/i][/p] [p][i][c][com]plural[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+исан
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-is,[/com][/c][/i][/p] [p][i][c][com]present,[/com][/c][/i][/p] [p][i][c][com]1,[/com][/c][/i][/p] [p][i][c][com]plural[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+исӕй
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-is,[/com][/c][/i][/p] [p][i][c][com]present,[/com][/c][/i][/p] [p][i][c][com]3,[/com][/c][/i][/p] [p][i][c][com]singular[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+исӕнцӕ
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-is,[/com][/c][/i][/p] [p][i][c][com]present,[/com][/c][/i][/p] [p][i][c][com]3,[/com][/c][/i][/p] [p][i][c][com]plural[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+исуайайтӕ
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-is,[/com][/c][/i][/p] [p][i][c][com]optativ,[/com][/c][/i][/p] [p][i][c][com]2,[/com][/c][/i][/p] [p][i][c][com]plural[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+исдӕ
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-is,[/com][/c][/i][/p] [p][i][c][com]present,[/com][/c][/i][/p] [p][i][c][com]2,[/com][/c][/i][/p] [p][i][c][com]singular[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+исуайанӕ
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-is,[/com][/c][/i][/p] [p][i][c][com]optativ,[/com][/c][/i][/p] [p][i][c][com]1,[/com][/c][/i][/p] [p][i][c][com]plural[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+исуайдӕ
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-is,[/com][/c][/i][/p] [p][i][c][com]optativ,[/com][/c][/i][/p] [p][i][c][com]3,[/com][/c][/i][/p] [p][i][c][com]singular[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+исдӕн
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-is,[/com][/c][/i][/p] [p][i][c][com]present,[/com][/c][/i][/p] [p][i][c][com]1,[/com][/c][/i][/p] [p][i][c][com]singular[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+исуайинӕ
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-is,[/com][/c][/i][/p] [p][i][c][com]optativ,[/com][/c][/i][/p] [p][i][c][com]1,[/com][/c][/i][/p] [p][i][c][com]singular[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+исуайсӕ
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-is,[/com][/c][/i][/p] [p][i][c][com]optativ,[/com][/c][/i][/p] [p][i][c][com]2,[/com][/c][/i][/p] [p][i][c][com]singular[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+исуӕд
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-is,[/com][/c][/i][/p] [p][i][c][com]imperative,[/com][/c][/i][/p] [p][i][c][com]3,[/com][/c][/i][/p] [p][i][c][com]singular[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+исуӕнтӕ
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-is,[/com][/c][/i][/p] [p][i][c][com]imperative,[/com][/c][/i][/p] [p][i][c][com]3,[/com][/c][/i][/p] [p][i][c][com]plural[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+исуайуонцӕ
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-is,[/com][/c][/i][/p] [p][i][c][com]optativ,[/com][/c][/i][/p] [p][i][c][com]3,[/com][/c][/i][/p] [p][i][c][com]plural[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+исуо
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-is,[/com][/c][/i][/p] [p][i][c][com]imperative,[/com][/c][/i][/p] [p][i][c][com]2,[/com][/c][/i][/p] [p][i][c][com]singular[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+исуотӕ
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-is,[/com][/c][/i][/p] [p][i][c][com]imperative,[/com][/c][/i][/p] [p][i][c][com]2,[/com][/c][/i][/p] [p][i][c][com]plural[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+кӕрдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]mow; reap, crop, cut; cut (paper), cut (clothes); chop, cut[/trn][/m]
+кӕун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]cry[/trn][/m]
+уӕд
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]imperative,[/com][/c][/i][/p] [p][i][c][com]3,[/com][/c][/i][/p] [p][i][c][com]singular[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+уотӕ
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]imperative,[/com][/c][/i][/p] [p][i][c][com]2,[/com][/c][/i][/p] [p][i][c][com]plural[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+асхъаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]wait[/trn][/m]
+ӕвӕрун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]ивӕрун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]put; lay on; put inessive; do up (clothes); assess; bury[/trn][/m]
+		[m3][*]- [ref]зӕрдӕ ӕвӕрун[/ref][/*][/m]
+		[m3][*]- [ref]къох ӕвӕрун[/ref][/*][/m]
+		[m3][*]- [ref]мард ӕвӕрун[/ref][/*][/m]
+		[m3][*]- [ref]хъалон ӕвӕрун[/ref][/*][/m]
+		[m3][*]- [ref]цӕппӕртӕ ӕвӕрун[/ref][/*][/m]
+ӕвгӕнун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]strew; pour; load; draw[/trn][/m]
+ӕвгӕрдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]slaughter, kill; torment[/trn][/m]
+ӕвгъӕзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]spill; rinse; clean the bowels of a killed animal; wash oneself[/trn][/m]
+ӕвдӕрзун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]ӕвдирзун[/ref], [ref]ӕвдирсун[/ref][/m]
+		[m1][p][i][c][com][/com][/c][/i][/p][/m]
+		[m1][trn]irritate skin, rub sore, chafe coll. overeat, stuff oneself, devour[/trn][/m]
+ӕвдесун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]show, indicate[/trn][/m]
+ӕвдирзун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕвдӕрзун[/ref], [ref]ӕвдирсун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]rub; rub sore, chafe (skin); overeat[/trn][/m]
+ӕвдирсун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕвдӕрзун[/ref][/m]
+ӕвдозун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]screw(inessive); fix, hang; press; lock; oppress[/trn][/m]
+ӕвзедун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]raise one's hand against smb; threaten[/trn][/m]
+ӕвзуйун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]come out (about hair), come off; wither[/trn][/m]
+ӕвзурун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]appear; be born; propagate; sprout, blossom out; descend; be notable[/trn][/m]
+ӕвналун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]touch; begin, start[/trn][/m]
+		[m3][*]- [ref]идард ӕвналун[/ref][/*][/m]
+ӕгъзӕлун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]strew, crumble; fall inessive, collapse[/trn][/m]
+ӕгъзалун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]clean, shell grains; strew, dump[/trn][/m]
+ӕзгелун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]dig; rake; rummage; annoy; provoke a quarrel; elicit[/trn][/m]
+ӕзгеун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]stagger; get loose; warp; lose solidity[/trn][/m]
+ӕзгъӕруадзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]melt[/trn][/m]
+ӕзгъодун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]згъодун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]go out (about smoke)[/trn][/m]
+ӕзгъорун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]run; chase[/trn][/m]
+ӕзгъундун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]build[/trn][/m]
+ӕздӕхун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]turn, roll up; return; drop inessive[/trn][/m]
+ӕздахун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]return; turn[/trn][/m]
+ӕздирвун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]chafe[/trn][/m]
+ӕздирхун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]scratch; rub sore, chafe[/trn][/m]
+ӕздодун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]stroke, touch; busy oneself (with)[/trn][/m]
+ӕздохун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]здохун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]twist, turn; go round; turn around[/trn][/m]
+ӕздухсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]curl, kink; twine (about, round)[/trn][/m]
+ӕзмӕлун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]move, stir; stagger[/trn][/m]
+		[m3][*]- [ref]ӕзмӕлун кӕнун[/ref][/*][/m]
+ӕзмӕнтун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]змӕнтун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]stir (up); knead, puddle; rebel, revolt[/trn][/m]
+ӕзмелун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]stretch yarn for threads; spin gently; double yarn threads; shape wool for yarn inessive rings by reeling it on hand; potter (about); eat[/trn][/m]
+ӕййафун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]catch up, reach, overtake; have time to; stand, suffering; be a relative[/trn][/m]
+ӕййевун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]exchange; replace; fade[/trn][/m]
+ӕлвасун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]pull; tighten; chain; compress; unsheathe (sabre)[/trn][/m]
+ӕлвесун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]spin[/trn][/m]
+ӕлвинун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]cut hair[/trn][/m]
+ӕлгъевун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]make threads harder[/trn][/m]
+ӕлгъетун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]abuse; curse; insult; use bad words[/trn][/m]
+ӕлхӕнун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]buy; bribe[/trn][/m]
+ӕлхъевун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]press, compress, push; oppress; ache (about heart)[/trn][/m]
+ӕмбӕлун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]befit; meet, come across; get to; touch; collide; happen; hit[/trn][/m]
+ӕмбӕрзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]close, cover; shield; cloud[/trn][/m]
+ӕмбӕхсун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]римӕхсун[/ref][/m]
+ӕмбаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]let rot[/trn][/m]
+ӕмбесун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]compose, invent[/trn][/m]
+ӕмбодун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]smell, feel[/trn][/m]
+ӕмболун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]молун[/ref][/m]
+ӕмбохун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]roar, moo; scream, worry a lot; sob[/trn][/m]
+ӕмбуйун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]rot, decompose[/trn][/m]
+ӕмбурсун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕмпурсун[/ref][/m]
+ӕмвӕрсун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕнвӕрсун[/ref][/m]
+ӕмвелун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕууелун[/ref][/m]
+ӕмгъудевгъуйун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]delay[/trn][/m]
+ӕмма
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]ӕмме[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]eat (childish)[/trn][/m]
+ӕмме
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕмма[/ref][/m]
+ӕмполун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]crumple; fold; eat, devour[/trn][/m]
+ӕмпулун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]fold; wrinkle; frown; collapse, shrink; settle; droop; wilt[/trn][/m]
+ӕмпурсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]destroy; shatter; trample; burst (into), invade; attack[/trn][/m]
+ӕмпъозун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]mend clothes or shoes; patch up; darn[/trn][/m]
+ӕмпъохун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]drag; tighten[/trn][/m]
+ӕнӕргъун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]moan[/trn][/m]
+ӕнвӕрсун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]ӕмвӕрсун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]condescend; be non squeamish; do not slight; show sympathy; like[/trn][/m]
+ӕнгозун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]glut oneself (with)[/trn][/m]
+ӕнгъӕлун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]suppose; think; hope[/trn][/m]
+ӕнгъезун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]ferment; may, should (inessive questions)[/trn][/m]
+		[m3][*]- [ref]ӕнгъезун кӕнун[/ref][/*][/m]
+ӕндӕвсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]shiver, frozen, be cold[/trn][/m]
+ӕндӕвун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]warm oneself; let feel oneself[/trn][/m]
+ӕндӕдзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]glue; stick, stick together;[/trn][/m]
+ӕндӕфсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be cold, become numb[/trn][/m]
+ӕндавун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]make warm; let to feel oneself; touch; evoke tender emotions[/trn][/m]
+ӕндадзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]rivet, solder; fix; stick; make incisions; caulk; sculpt; advance, rush[/trn][/m]
+ӕндедзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]recover; heal; revive; weld, solder[/trn][/m]
+ӕндеун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]dare, have the courage; be brave[/trn][/m]
+ӕндзӕвун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]touch, be contiguous (to); brush (against)[/trn][/m]
+ӕндзарун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]set on fire[/trn][/m]
+ӕндзерун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]find smth accidentally[/trn][/m]
+ӕндозун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]fix[/trn][/m]
+ӕнкъарун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]understand, guess; feel; become cloudy[/trn][/m]
+ӕнкъосун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]shake, rock[/trn][/m]
+ӕнкъуӕлхун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]push; crawl[/trn][/m]
+ӕнкъусун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]move; shake; swing, rock[/trn][/m]
+		[m3][*]- [ref]ӕнкъусун кӕнун[/ref][/*][/m]
+ӕнпъохун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]drag, carry; tighten; drink too much; gorge[/trn][/m]
+ӕнсӕндун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]trample down, knead; crumb; oppress, evslave, violate, suppress[/trn][/m]
+ӕнседун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]stir up (against)[/trn][/m]
+ӕнсонун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]push; push forward; stick into; close[/trn][/m]
+ӕнсун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]инсун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]sharpen; grind[/trn][/m]
+ӕнсуфун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]shrink; settle, sink; give away[/trn][/m]
+ӕнтӕсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]succeed; appear; happen, be born[/trn][/m]
+ӕнтаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]ferment wort; collect hay, winnow hay; breed[/trn][/m]
+ӕнтъирун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]drive away, cashier; banish, chase[/trn][/m]
+ӕнтъохун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]throw; drag[/trn][/m]
+ӕнуӕрдун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕууӕрдун[/ref][/m]
+ӕнхӕлун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]be hostile to smb,smth; differ (from inessive)[/trn][/m]
+ӕнхарсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]augment, supplement[/trn][/m]
+ӕнхасун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]add; attach; cover[/trn][/m]
+ӕнхуӕрсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]set out, move on; push; move; step aside[/trn][/m]
+ӕнцӕ
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]present,[/com][/c][/i][/p] [p][i][c][com]3,[/com][/c][/i][/p] [p][i][c][com]plural[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+ӕнцайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]lean on; rest, lie; stop, cease; calm (down), quieten down; have rest; stop[/trn][/m]
+ӕнцъолун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]squeeze, flatten, compress, crumple; knead; fold, wrinkle[/trn][/m]
+ӕнцъохун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]drag; drink[/trn][/m]
+ӕнцъулун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]shrink, wince; wrinkle; wither; close[/trn][/m]
+ӕппӕлун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]boast; praise, approve; laud[/trn][/m]
+ӕрӕвгӕнун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]pour[/trn][/m]
+ӕрӕскъуйун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]ӕрискъуйун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]fall of, break loose, break off[/trn][/m]
+ӕрӕхсбадун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]calm down[/trn][/m]
+ӕрвӕнсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]condescend, don't slight, not to be squeamish; be reconciled, accept; be pround of; fancy oneself, give oneself airs[/trn][/m]
+ӕрвнӕрун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]thunder[/trn][/m]
+ӕргъӕвсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be cold, freeze[/trn][/m]
+ӕргъӕвун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]hit the mark; cock the hammer[/trn][/m]
+ӕргъувун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]help to climb; help to sit; load, lift; roll over, shift[/trn][/m]
+ӕрдозун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]castrate; root out[/trn][/m]
+ӕревдӕлун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]get free, find free time[/trn][/m]
+ӕрискъуйун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕрӕскъуйун[/ref][/m]
+ӕркъахун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]dig out[/trn][/m]
+ӕрмӕвдолун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]roll out the paste inessive hands[/trn][/m]
+ӕрмарӕхсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]adapt, accommodate oneself (to)[/trn][/m]
+ӕрорамун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕруорамун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]stop, hold (back); prevent[/trn][/m]
+ӕртӕмун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]swell[/trn][/m]
+ӕртӕсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]differ; be distinguished[/trn][/m]
+ӕртасун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]itr[/com][/c][/i][/p][/m]
+		[m1][trn]bend; obey; become obedient; know; explore; disassemble; separate; distinguish[/trn][/m]
+		[m3][*]- [ref]ӕртасун кӕнун[/ref][/*][/m]
+ӕрттевун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]shine, glitter, beam; be glossy[/trn][/m]
+		[m3][*]- [ref]ӕрттевун кӕнун[/ref][/*][/m]
+ӕруорамун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]ӕрорамун[/ref][/m]
+ӕрфун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]fasten (together)[/trn][/m]
+ӕрхавӕрун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]run (against, into); hinder[/trn][/m]
+ӕрхастӕун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn][/trn][/m]
+ӕрхуӕлун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be exhausted[/trn][/m]
+ӕскъӕрун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]скъӕрун[/ref], [ref]искъӕрун[/ref][/m]
+		[m1][p][i][c][com]vtr[/com][/c][/i][/p][/m]
+		[m1][trn]expel, force; drive; ride, drive[/trn][/m]
+ӕскъӕфун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]скъӕфун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]grasp, pull out; kidnap, steal; carry[/trn][/m]
+ӕскъаун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]аскъаун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]eat, chew; understand, consider; shred; deal with small matters[/trn][/m]
+ӕскъетун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]come to (one's senses); wake[/trn][/m]
+ӕскъуӕлхун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]скъуӕлхун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]crawl upwards, move slowly; distinguish oneself; be notable (for)[/trn][/m]
+ӕскъуӕнхун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]скъуӕнхун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]distinguish oneself; be notable (for)[/trn][/m]
+монцагъуйун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]perform a mating ritual, lek[/trn][/m]
+рӕйун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]bark[/trn][/m]
+римӕхсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]hide oneself[/trn][/m]
+ӕскъунун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]скъунун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]tear; burst, crack; break; be depleted, impoverished[/trn][/m]
+ӕсмотун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]смотун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]smell[/trn][/m]
+ӕстӕрнун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]decorate, adorn[/trn][/m]
+ӕстӕрун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]стӕрун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]lick[/trn][/m]
+ӕстӕфун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]notice; apprehend; understand[/trn][/m]
+ӕстъӕлун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]mangle; do to death; die[/trn][/m]
+ӕстъалун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]стъалун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]ruin; mangle; do to death; make poor, ravage; kill[/trn][/m]
+ӕстъегъун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]стъегъун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]hide, skin; peel; rob[/trn][/m]
+ӕстъезун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]whimper; gnash[/trn][/m]
+ӕсхуайун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]схуайун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]push[/trn][/m]
+ӕсхъаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]pick; pluck at bald spot; rub[/trn][/m]
+ӕсхъеун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]схъеун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]jump aside; jump off; jump; fall off; give a start, be frightened[/trn][/m]
+ӕттун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]give[/trn][/m]
+ӕтхӕлун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]reproach[/trn][/m]
+ӕууӕндун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]believe, trust[/trn][/m]
+ӕууӕрдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]tan; roll, felt, knead; train[/trn][/m]
+ӕууайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]shrink[/trn][/m]
+ӕууелун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]ӕмвелун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]chew[/trn][/m]
+ӕуундзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]adapt[/trn][/m]
+ӕфсӕрун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]advance, tread; push; trample down, press; make a step; break into[/trn][/m]
+ӕфсадун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]satiate, satisfy, feed; fill with, provide with[/trn][/m]
+ӕфсерун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]ear[/trn][/m]
+ӕфснайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]clean up; lay inessive a supply (of); preserve, save; hide[/trn][/m]
+ӕфтаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]add; exaggerate; separate; take out; put off; yank; endure[/trn][/m]
+		[m3][*]- [ref]деденӕг ӕфтаун[/ref][/*][/m]
+		[m3][*]- [ref]дзиуарӕ ӕфтаун[/ref][/*][/m]
+		[m3][*]- [ref]цӕппӕртӕ ӕфтаун[/ref][/*][/m]
+ӕфтуййун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕфтуйун[/ref][/m]
+ӕфтуйун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]ӕфтуййун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]increase; perch oneself, dock; separate, split; achieve, reach; go (to); get, fall; pick up; remember[/trn][/m]
+ӕфтъирун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]gorge, eat[/trn][/m]
+ӕфхӕлун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]injure, damage, rub; fall (upon, on); rate, shout (at); go bad[/trn][/m]
+ӕфхалун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]damage[/trn][/m]
+ӕфхуӕлун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]corrode[/trn][/m]
+ӕхгӕнун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]close, lock; enclose[/trn][/m]
+ӕхсӕдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]weed; cut[/trn][/m]
+ӕхсайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]draw, striving; worry[/trn][/m]
+ӕхседун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]boil, seethe; accrete; cook, boil; strengthen; solder[/trn][/m]
+ӕхсинун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]gnaw, eat the inside, nibble; comb wool[/trn][/m]
+ӕхснайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]clear, sanctify[/trn][/m]
+ӕхснирсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]sneeze[/trn][/m]
+ӕхснодун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]double yarn threads; spin, twist[/trn][/m]
+ӕхснун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]wash[/trn][/m]
+ӕхсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]shoot; throw; launch[/trn][/m]
+абохун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]rage; roar[/trn][/m]
+абузун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]swell; boil up; grow; spread[/trn][/m]
+авинсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]sharpen sickle; set against[/trn][/m]
+агайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]touch; irritate; worry; rush, gallop[/trn][/m]
+агорун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]search; seek, try to obtain; demand[/trn][/m]
+агъуйун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]accustom oneself; be capricious; rage, rave; bother[/trn][/m]
+ададзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]be free[/trn][/m]
+адзӕгъдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]resound[/trn][/m]
+адтан
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ун[/ref][/m]
+адтайтӕ
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ун[/ref][/m]
+содзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]burn, set fire[/trn][/m]
+стъалун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]ruin, destroy[/trn][/m]
+тӕхсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]cut, hew[/trn][/m]
+тохун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]fight[/trn][/m]
+адтӕнцӕ
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ун[/ref][/m]
+уайсӕ
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]optativ,[/com][/c][/i][/p] [p][i][c][com]2,[/com][/c][/i][/p] [p][i][c][com]singular[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+уайдӕ
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]optativ,[/com][/c][/i][/p] [p][i][c][com]3,[/com][/c][/i][/p] [p][i][c][com]singular[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+уайанӕ
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]optativ,[/com][/c][/i][/p] [p][i][c][com]1,[/com][/c][/i][/p] [p][i][c][com]plural[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+уайайтӕ
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]optativ,[/com][/c][/i][/p] [p][i][c][com]2,[/com][/c][/i][/p] [p][i][c][com]plural[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+уайуонцӕ
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]optativ,[/com][/c][/i][/p] [p][i][c][com]3,[/com][/c][/i][/p] [p][i][c][com]plural[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+уӕрдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]felt[/trn][/m]
+уонцӕ
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ун[/ref][/m]
+уӕн
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ун[/ref][/m]
+азӕлун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]echo[/trn][/m]
+азгъундун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]roof, thatch, tile[/trn][/m]
+аздодун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]move, fidget[/trn][/m]
+азмодун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]finger, fumble; work[/trn][/m]
+		[m3][*]- [ref]азмодун кӕнун[/ref][/*][/m]
+азун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]give shelter; caress; feed[/trn][/m]
+		[m3][*]- [ref]азун кӕнун[/ref][/*][/m]
+айтӕ
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]present,[/com][/c][/i][/p] [p][i][c][com]2,[/com][/c][/i][/p] [p][i][c][com]plural[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+амӕнтун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]knead: dirty[/trn][/m]
+амайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]put, lay; build; plane, shave; cut; trim[/trn][/m]
+амидиун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]excite[/trn][/m]
+амонун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]show; teach; explain; admonish, preach; foretoken; mean[/trn][/m]
+ан
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]present,[/com][/c][/i][/p] [p][i][c][com]1,[/com][/c][/i][/p] [p][i][c][com]plural[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+арӕзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be done; come right; come out; go[/trn][/m]
+арӕнӕвӕрун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]limit, restrict[/trn][/m]
+арӕхсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be able, can; suit, fit[/trn][/m]
+аразун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]make, produce; build; arrange; form; prepare; finish; direct; tune; put, land; decorate[/trn][/m]
+араун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]scorch; proclaim; sound (echo)[/trn][/m]
+аргъаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]perform a religious rite; preach a sermon[/trn][/m]
+аргъоцун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]respect, worship[/trn][/m]
+ардаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]incite; edify; squeal[/trn][/m]
+аруйун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]burn oneself; sound, be heard[/trn][/m]
+архайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]act, endeavour, try; sti, rustle[/trn][/m]
+асадун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]cloud; cover seeds inessive tillage; crop, plant[/trn][/m]
+		[m3][*]- [ref]асадун кӕнун[/ref][/*][/m]
+асдзӕгъдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]ache; yell[/trn][/m]
+аскъаун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]ӕскъаун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]eat[/trn][/m]
+астӕрнун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]pave; decorate; trim, face, tile[/trn][/m]
+астарун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]pave; trim, face, tile[/trn][/m]
+асхаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]search[/trn][/m]
+ауӕрдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]spare[/trn][/m]
+ауазун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]dam, lock (river)[/trn][/m]
+ауиндзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]hang[/trn][/m]
+ауодун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]look after, patronize; take care[/trn][/m]
+афун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]reach, correspond the level; suit[/trn][/m]
+ахӕссун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]catch; capture, occupy (place); arrest[/trn][/m]
+ахедун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]grow excessively; seem big; impress; multiply; develop; influence[/trn][/m]
+ахуадун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]eat, try[/trn][/m]
+ахъелун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]set (a dog) on, set against[/trn][/m]
+ацаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]touch[/trn][/m]
+бӕгъдаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]entrust (with)[/trn][/m]
+бӕззун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be fit; be useful, be suited for[/trn][/m]
+		[m3][*]- [ref]бӕззун кӕнун[/ref][/*][/m]
+бӕллун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]strive; desire; dream[/trn][/m]
+бӕлсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]stand, endure; control oneself[/trn][/m]
+бӕттун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]tie up, bind[/trn][/m]
+бӕхфӕлдесун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]devote a horse to deceased[/trn][/m]
+бавгӕнун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]pour; load[/trn][/m]
+бавгъӕзун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]бангъӕвзун[/ref][/m]
+		[m1][p][i][c][com][/com][/c][/i][/p][/m]
+		[m1][trn][/trn][/m]
+бавдӕлун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]байевдӕлун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]find time; begin, start[/trn][/m]
+бавдӕрзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]chafe; gorge oneself[/trn][/m]
+бавдесун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]show, indicate; claim; report, betray; appear (before), show[/trn][/m]
+бавдозун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]clasp; lock[/trn][/m]
+бавдолун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]roll, knead[/trn][/m]
+бавдулун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]roll, knead[/trn][/m]
+бавзарун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]test, try out, experience; suffer; endure;[/trn][/m]
+		[m3][*]- [ref]бавзарун кӕнун[/ref][/*][/m]
+бавзедун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]flap; raise one's hand; threat[/trn][/m]
+бавзелун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]throw[/trn][/m]
+бавзуйун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]fall out, thin; lose weight[/trn][/m]
+бавзурун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]adhere[/trn][/m]
+бавналун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]touch; begin, start[/trn][/m]
+бавтъирсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]gorge oneself[/trn][/m]
+багъзӕлун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]begin to fall down; fall down; gush out[/trn][/m]
+багъзалун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]pour, spill; peel, shell; thresh (a quantity of)[/trn][/m]
+баздӕхун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]turn around; turn; return[/trn][/m]
+баздахун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]turn; return; direct; appeal (to); dare[/trn][/m]
+баздухсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]curl, begin to turn[/trn][/m]
+базирнун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]sleep[/trn][/m]
+базмӕлун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]start moving; stir, move[/trn][/m]
+		[m3][*]- [ref]базмӕлун кӕнун[/ref][/*][/m]
+байабузун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]байбузун[/ref][/m]
+байагайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]vtr[/com][/c][/i][/p][/m]
+		[m1][trn]set off at a gallop; set on; begin[/trn][/m]
+байбузун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]байабузун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]swell, distend, blister, expand[/trn][/m]
+байвӕзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]stretch; stretch out, reach[/trn][/m]
+байвӕрзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]give hope, reassure, promise[/trn][/m]
+байвӕрун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]put inessive, insert; put; put (against), set (against, to); lay; save, keep; bury[/trn][/m]
+байвазун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]reach, stretch[/trn][/m]
+байвайун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]байивайун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]become pale; shrink, contract[/trn][/m]
+байвулун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]overflow; spread; gush out[/trn][/m]
+байгетун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]байигетун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be too lazy (to do smth); hesitate, doubt; loiter, delay[/trn][/m]
+байгъосун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]listen; hear out; listen (to), harken (to); listen inessive (to); obey; lend (an) ear[/trn][/m]
+байгъусун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]reach one's ears, be heard[/trn][/m]
+байдзӕгъдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]spill[/trn][/m]
+байевдӕлун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]бавдӕлун[/ref][/m]
+байзайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]remain; fall behind[/trn][/m]
+байивайун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]байвайун[/ref][/m]
+байигетун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]байгетун[/ref][/m]
+байинсун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]бансун[/ref][/m]
+байирайун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]байрайун[/ref][/m]
+баййафун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]catch up (with), reach; come abreast (with), become equal; come, arrive inessive time; fine; experience[/trn][/m]
+баййевун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]exchange; replace; change; barter; move[/trn][/m]
+байрӕзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]grow up[/trn][/m]
+байрайун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]байирайун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]boil up; greet[/trn][/m]
+байсӕрдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]grease, seal, coat (with), putty (with; rub with; wipe; plaster[/trn][/m]
+байсӕрун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]harden[/trn][/m]
+байсӕфун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]lose; die; disappear, vanish; go bad; lose[/trn][/m]
+байсафун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]ruin, destroy; damage; lose[/trn][/m]
+байсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]take; take away; rob; retake; capture[/trn][/m]
+байсусун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]exhale, dry up, dry out; exhaust, run dry[/trn][/m]
+		[m3][*]- [ref]байсусун кӕнун[/ref][/*][/m]
+байтаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]sown; drop; spill; scatter; spread[/trn][/m]
+байтиндзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]reach out; stretch; open wide; spread, stretch; crucify[/trn][/m]
+байхуӕрсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]hire; freight[/trn][/m]
+балвӕсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]tighten, tighten up[/trn][/m]
+балвасун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]pull, tighten, tie up[/trn][/m]
+балвесун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]spin[/trn][/m]
+балвинун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]cut[/trn][/m]
+балгъетун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]curse; scold[/trn][/m]
+балхӕнун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]buy, buy inessive, buy up; purchase[/trn][/m]
+балхъевун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]wound smb's pride; pinch, nip, jam[/trn][/m]
+бамбӕлун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]meet; touch[/trn][/m]
+бамбӕрзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]cover; shade; darken, screen, shield; close, curtain off; put on[/trn][/m]
+бамбаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]rot[/trn][/m]
+бамбуйун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]rot; decompose; get dirty[/trn][/m]
+		[m3][*]- [ref]бамбуйун кӕнун[/ref][/*][/m]
+бампулун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]sit; tighten; shrink; writhe; stoop[/trn][/m]
+бампурсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]attack, break inessive; undertake; invade[/trn][/m]
+бампъозун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]repair; darn[/trn][/m]
+бампъохун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]drag inessive, bring inessive[/trn][/m]
+бангъӕвзун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]бавгъӕзун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]gargle; spill[/trn][/m]
+бангъӕлун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]think, suppose[/trn][/m]
+бангъезун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]turn sour; come[/trn][/m]
+бандӕвун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]become numb (with cold), freeze; touch[/trn][/m]
+бандӕдзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]fasten, glue[/trn][/m]
+бандавун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]warm; help; caress; touch; influence[/trn][/m]
+бандадзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]rivet; caulk up; fix; join, glue together; press[/trn][/m]
+бандедзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]heal, recover; revive[/trn][/m]
+бандеун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]dare,[/trn][/m]
+бандзӕвун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]touch[/trn][/m]
+бандзарун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]set on fire; instigate[/trn][/m]
+банкъарун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]feel; be touched[/trn][/m]
+банкъосун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]loosen; swing; shake[/trn][/m]
+банкъусун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]stagger; swing, become shaky[/trn][/m]
+бансӕндун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]crumble (a quantity of); trample down; bruise, press[/trn][/m]
+бансонун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]push into; cover; stray; poke, shove; push, push into[/trn][/m]
+бансун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]байинсун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]grind; sharpen[/trn][/m]
+бантӕсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]turn out well, have time[/trn][/m]
+бантаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]rake up; ferment[/trn][/m]
+банхӕссун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]reach, get to; get at, reach to; add[/trn][/m]
+банхасун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]add; apply; envelop[/trn][/m]
+банхуӕрсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]shift, move[/trn][/m]
+банцайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]stop; become quite, cease, fall into silence; lean against; press; stop; attack[/trn][/m]
+банцъолун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]press, clasp[/trn][/m]
+банцъулун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]press oneself, be constrained; be deformed; shrink; fade; crumple[/trn][/m]
+барӕуадзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]let[/trn][/m]
+барветун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]send[/trn][/m]
+баргъӕвсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]become cold, freeze, become numb (with cold)[/trn][/m]
+баргъӕвун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]load; get[/trn][/m]
+бардозун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]castrate, emasculate[/trn][/m]
+бартасун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]separate (from); take away; sort out[/trn][/m]
+баруайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]settle, accumulate; dry up; decrease, shrink; fade, wither[/trn][/m]
+барун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]weigh; measure; compare; liken; excuse, forgive[/trn][/m]
+басгӕрдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]explore[/trn][/m]
+басгарун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]explore, examine; check; test, fin out; feel; follow; visit[/trn][/m]
+баскъухун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be notable (for)[/trn][/m]
+бастаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]mix, stir; praise[/trn][/m]
+бастун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]get tired; stay; appear close to (smth)[/trn][/m]
+басхъаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]clear away; pick out[/trn][/m]
+батхалун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]object (to); reproach[/trn][/m]
+баун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-ba[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+баууӕндун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]trust; (en)trust (with); give faith; believe[/trn][/m]
+		[m3][*]- [ref]баууӕндун кӕнун[/ref][/*][/m]
+баууӕрдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]jerk; bruise; grind[/trn][/m]
+бафсӕдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]get one's fill, eat plenty (of)[/trn][/m]
+бафсӕрун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]step, overstep; break inessive, invade[/trn][/m]
+бафсадун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]feed up, give to drink, satiate (with); supply, provide[/trn][/m]
+бафснайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]take away, gather; bring inessive order; hide[/trn][/m]
+бафтаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]add, sum up, increase; inoculate (with); involve; load (on); set (against)[/trn][/m]
+бафтуййун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]get inessive, stray, wander (to a place)[/trn][/m]
+бафтуйун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]add; replenish; turn on[/trn][/m]
+бафтъирун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]gorge up[/trn][/m]
+бафхуӕрун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]abuse; insult; punish; deal shortly[/trn][/m]
+бахгӕнун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]shut, close[/trn][/m]
+бахсӕдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]clean, cut off; weed[/trn][/m]
+бахседун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]accrete; cook; solder; melt; harden[/trn][/m]
+бахсинун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]crack (with one's teeth), gnaw round, nibble; eat out; split[/trn][/m]
+бахсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]shoot; fling, throw[/trn][/m]
+бедаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]spill, overflow; increase; expand[/trn][/m]
+бедзарун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]безарун[/ref][/m]
+бедуйун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]influence, affect[/trn][/m]
+бедун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]бетун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]be salient; be good for future use; influence[/trn][/m]
+безарун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]feel sick[/trn][/m]
+бериндзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]yawn, stretch oneself[/trn][/m]
+бетиндзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]expand[/trn][/m]
+бетун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]бедун[/ref][/m]
+бийун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]weave, spin; twist[/trn][/m]
+бунбаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]die, disappear from the earth[/trn][/m]
+бурсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]break inessive, press; overpower[/trn][/m]
+бурун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]crawl; drag oneself along, go slowly; grovel[/trn][/m]
+бухсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]stand, tolerate, bear[/trn][/m]
+гӕрдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]break through, make one's way through[/trn][/m]
+гезун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]touch; hurt, bother; bang[/trn][/m]
+геун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]dream; lounge about, hang around; vegetate; idle[/trn][/m]
+гурун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]slide; ride[/trn][/m]
+гъӕрзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]groan, moan[/trn][/m]
+гъӕун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]need, require; lack; be needed, wanted[/trn][/m]
+гъӕцун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]fertilize; season (food); trim, decorate; sharpen; make incisions (on), notch; swear, abuse[/trn][/m]
+гъавун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]aim; intend; strive[/trn][/m]
+гъазун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]play, have fun; dance; perform; go coupling[/trn][/m]
+гъарун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]leak, get into; act, operate, influence; offer; apply[/trn][/m]
+		[m3][*]- [ref]гъарун кӕнун[/ref][/*][/m]
+гъаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]do harm; waste, reduce; cosume[/trn][/m]
+гъигӕдарун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]bother, dirturb[/trn][/m]
+гъизун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]freeze; wish smth bad[/trn][/m]
+гъирнун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]grumble; shriek, whine[/trn][/m]
+гъузун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]sneak, skink[/trn][/m]
+дӕйун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]suck[/trn][/m]
+дӕлӕнсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]humiliate[/trn][/m]
+дӕмун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]require; bring up; tame; exhaust; annoy, reproach[/trn][/m]
+дӕн
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]present,[/com][/c][/i][/p] [p][i][c][com]1,[/com][/c][/i][/p] [p][i][c][com]singular[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+дӕттун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]give[/trn][/m]
+давун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]steal; carry quickly[/trn][/m]
+дарун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]breed, keep; have; hold; wear; owe; have to do smth; to take into account; extend, reach[/trn][/m]
+дасун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]shave; lay; construct, build; fleece, win[/trn][/m]
+даун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]spawn; stroke; hit, beat[/trn][/m]
+дзиназун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]moan, cry; suffer; yell[/trn][/m]
+дзиргъаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]look heavily[/trn][/m]
+дзорун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]say; call (on)[/trn][/m]
+дирзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]rub, polish; roughen[/trn][/m]
+додун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]itch[/trn][/m]
+домун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]require[/trn][/m]
+донбадун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]swell[/trn][/m]
+доцун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]milk[/trn][/m]
+думун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]smoke; blow[/trn][/m]
+дунсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]belly, swell, inflate[/trn][/m]
+евгъаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]make a blunder, miss; pass[/trn][/m]
+евгъуйун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]pass; miss[/trn][/m]
+евун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕййевун[/ref][/m]
+егаун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]игаун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be depressed, sad[/trn][/m]
+егъаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]enlarge[/trn][/m]
+егъун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]уегъун[/ref][/m]
+едзун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]уедзун[/ref][/m]
+елун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]уелун[/ref][/m]
+еппарун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]distract; separate; remove, part (from); develop[/trn][/m]
+ервӕзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]escape; get out; slip off[/trn][/m]
+		[m3][*]- [ref]ервӕзун кӕнун[/ref][/*][/m]
+ергъӕвсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]secure (against)[/trn][/m]
+ергъӕвун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]defend; separate; deliver[/trn][/m]
+ерун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]give birth; find[/trn][/m]
+ерхӕфсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]entertain, have fun; calm, reassure[/trn][/m]
+есун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]take; get (at); get, obtain; take away; capture; take off; gather; lend[/trn][/m]
+ефтиндзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]harness; charge[/trn][/m]
+ефун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]drink, get drunk[/trn][/m]
+ефхӕссун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]convey; conduct; entertain; help inessive disaster, trouble, danger; save, rescue[/trn][/m]
+зӕгъун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]say[/trn][/m]
+зӕлун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]spread (about sound)[/trn][/m]
+зӕмбун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]yawn[/trn][/m]
+зӕрдӕлхӕнун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]please; bribe[/trn][/m]
+зӕрдӕхсайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]worry; doubt, suspect[/trn][/m]
+зӕрун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]strew[/trn][/m]
+зайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]fawn, kitten; grow[/trn][/m]
+		[m3][*]- [ref]зайун афонӕ[/ref][/*][/m]
+		[m3][*]- [ref]зайун кӕнун[/ref][/*][/m]
+зарун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]sing[/trn][/m]
+згъодун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕзгъодун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]go away, make one's way[/trn][/m]
+здохун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕздохун[/ref][/m]
+зелун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]rotate, swing; turn; drill; bustle about; care; serve[/trn][/m]
+зиннун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be seen; appear; seem[/trn][/m]
+змӕнтун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕзмӕнтун[/ref][/m]
+зонун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]know; can[/trn][/m]
+		[m3][*]- [ref]зонун кӕнун[/ref][/*][/m]
+зурун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]twist, turn[/trn][/m]
+зурхун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]have fun, enjoy oneself, be happy[/trn][/m]
+ивӕзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]stretch[/trn][/m]
+ивӕрзун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]иуӕрзун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]promise, reassure; encourage[/trn][/m]
+ивӕрун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕвӕрун[/ref][/m]
+ивазун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]stretch, draw, pull[/trn][/m]
+ивайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]pale[/trn][/m]
+ивулун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]overflow; go inessive great numbers, go; propagate; breed[/trn][/m]
+игӕрдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]break through; make one's way through; squeeze (oneself) through; tread[/trn][/m]
+игайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]touch, affect[/trn][/m]
+игаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]look sad[/trn][/m]
+игетун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]hesitate; delay, linger; be lazy, don't want to do anything[/trn][/m]
+игурун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be born[/trn][/m]
+		[m3][*]- [ref]игурун кӕнун[/ref][/*][/m]
+игъӕндун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]smear; soil, stain; spill[/trn][/m]
+игъаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]spend or waste generously; consume; reduce[/trn][/m]
+игъусун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be heard[/trn][/m]
+идайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]begin, start, get to[/trn][/m]
+идзӕгъдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]throw about; spill[/trn][/m]
+идзӕлун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]enjoy[/trn][/m]
+идзӕхсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]spill[/trn][/m]
+идзулун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]smile; be happy, have fun[/trn][/m]
+идуйун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]run out; decrease[/trn][/m]
+изӕрун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]pour, strew; spill; shower, pepper (with)[/trn][/m]
+изӕрхун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]исӕрхун[/ref][/m]
+изазун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]pull; lift[/trn][/m]
+изайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]remain, stay[/trn][/m]
+икъинсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]suffer (from), be tormented silently[/trn][/m]
+имӕхсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]wear through; tear (apart)[/trn][/m]
+		[m3][*]- [ref]имӕхсун кӕнун[/ref][/*][/m]
+имисун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]wander; think up, compose; invent; yearn; recollect[/trn][/m]
+инӕргъун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]ӕнӕргъун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]moan[/trn][/m]
+инӕфун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]moan; sigh[/trn][/m]
+инайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]thresh[/trn][/m]
+инсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]whet; grind, mill[/trn][/m]
+инун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]уинун[/ref][/m]
+ирӕзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]grow, develop; grow up; increase; rise; enlarge[/trn][/m]
+ирайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]boil[/trn][/m]
+исӕвдулун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]make oneself dirty, soil oneself, stain oneself[/trn][/m]
+исӕлвӕсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]gather; appear suddenly; plunge into the crowd[/trn][/m]
+исӕрдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]smear, grease; plaster[/trn][/m]
+исӕрун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]incandesce, harden[/trn][/m]
+исӕрхун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]изӕрхун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]entertain, have fun, enjoy oneself[/trn][/m]
+исӕфтуййун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]disappear accidentally; come unstuck, be torn off[/trn][/m]
+исӕфун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]disappear; die; descend[/trn][/m]
+исбӕлгъарун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]offer[/trn][/m]
+исбадун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]sit, take a sit[/trn][/m]
+		[m3][*]- [ref]исбадун кӕнун[/ref][/*][/m]
+искъӕрун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕскъӕрун[/ref][/m]
+исолӕфун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]breath inessive; breath out; have a rest; sign; get rid of; come to[/trn][/m]
+исреун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]реун[/ref][/m]
+иссӕун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]come; mount, ascend, climb[/trn][/m]
+истӕрнун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]decorate; adorn[/trn][/m]
+истун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]get up; stand[/trn][/m]
+исун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-is[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+итаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]sow; throw about; spread; hang[/trn][/m]
+итиндзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]stretch, draw; extend; spread; open wide[/trn][/m]
+иуӕзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]drive by, ride; move[/trn][/m]
+иуӕрзун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]иуӕрсун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]promise[/trn][/m]
+иуӕрсун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]иуӕрзун[/ref][/m]
+иуӕхсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]dislocate[/trn][/m]
+иуарун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]devide; give out; distribute[/trn][/m]
+ихӕлун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]get undone; unpack, unwrap; fall apart; collapse; explode; decay[/trn][/m]
+ихалун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]destroy; smash; disorder; violate; undo, unravel; dismantle; break; fell; damage; rip; blow up[/trn][/m]
+ихуӕрсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]hire[/trn][/m]
+кӕлун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]flow; pour; spill; fall; go to ruin[/trn][/m]
+кӕнун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]do; make, create, fabricate; build; lead; pour, spill; put on; open[/trn][/m]
+кӕрзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]shudder, give a start[/trn][/m]
+кӕрсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]work[/trn][/m]
+кӕсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]look; read; seem, look[/trn][/m]
+		[m3][*]- [ref]ӕнгъӕлмӕ кӕсун[/ref][/*][/m]
+уо
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]imperative,[/com][/c][/i][/p] [p][i][c][com]2,[/com][/c][/i][/p] [p][i][c][com]singular[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+кадӕвзарун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]feel fame, honour[/trn][/m]
+кайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]take out; touch; reduce; consume partially[/trn][/m]
+калун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]spill; scatter, spread; dump; fell[/trn][/m]
+кафун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]dance[/trn][/m]
+кеун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]list; stumble; stagger; limp a little[/trn][/m]
+киндун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]do (from time to time); do atrocity[/trn][/m]
+ковун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]pray, say a prayer; bow, stoop[/trn][/m]
+комдарун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]fast[/trn][/m]
+комун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]obey; agree; succumb[/trn][/m]
+корун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]ask, request; seek inessive marriage[/trn][/m]
+косун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]work; do; make, engage[/trn][/m]
+къӕртун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]report, inform, declare; interpret[/trn][/m]
+къӕфун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]lick and quickly swallow[/trn][/m]
+къахун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]dig; mine, produce; elicit, find out; provoke[/trn][/m]
+къефун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]ефун[/ref], [ref]цъефун[/ref], [ref]къирхун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]drink[/trn][/m]
+къехун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]drink[/trn][/m]
+къинзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]whimper[/trn][/m]
+къинсун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]икъинсун[/ref][/m]
+къирхун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]drink, get drunk; steal; do, be engaged inessive smth[/trn][/m]
+къофун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]drink[/trn][/m]
+къуӕзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]stutter; miss (one's aim)[/trn][/m]
+къуӕлхун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]limp, creep[/trn][/m]
+къуӕрун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]drive inessive, hammer inessive; push; hit; cut off[/trn][/m]
+къуӕхцун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]miss[/trn][/m]
+лӕборун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]attack; burst (into), storm (into); aggress; snatch, catch[/trn][/m]
+лӕбурун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]slip down, slide down; spread[/trn][/m]
+лӕгӕрдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]cut through[/trn][/m]
+лӕдӕрсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]flow down, percolate, leak[/trn][/m]
+лӕдӕрун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]understand[/trn][/m]
+		[m3][*]- [ref]лӕдӕрун кӕнун[/ref][/*][/m]
+лӕдарун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]strain; decant; percolate, leak; drop; cry[/trn][/m]
+лӕзӕрун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]tear apart, wear out; decline[/trn][/m]
+лӕмарун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]squeeze; wring out; press; strain[/trn][/m]
+лӕперун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]eat[/trn][/m]
+лӕсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]drag oneself along; creep; stick (inessive), sink; grovel before[/trn][/m]
+		[m3][*]- [ref]лӕсун кӕнун[/ref][/*][/m]
+лӕуӕрдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]walk inessive the mud, wade through mud[/trn][/m]
+лӕуӕрун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]sink into[/trn][/m]
+лӕуарун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]sift, screen, filter, strain[/trn][/m]
+лӕуерун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]jump, jump on, jump over[/trn][/m]
+лӕуун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]нихмӕ лӕуун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]stand; stay; wait; bear, suffer; keep (about food)[/trn][/m]
+		[m3][*]- [ref]кусти лӕуун[/ref][/*][/m]
+		[m3][*]- [ref]лӕуун кӕнун[/ref][/*][/m]
+лӕхорун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]grind (coarse); talk nonsense[/trn][/m]
+ласун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]нидздзӕхст ласун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]carry; transport; drag; pull; take off; weigh; be taken (by water); retrieve from[/trn][/m]
+ледзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]run; flee; move[/trn][/m]
+лийун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]defecate[/trn][/m]
+лихсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]spit[/trn][/m]
+лохун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]take; carry; drag; steal[/trn][/m]
+мӕлун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]die[/trn][/m]
+мӕнгӕууӕндун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]believe is something false[/trn][/m]
+мӕцун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]make oneself dirty[/trn][/m]
+марун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]kill[/trn][/m]
+мастесун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]revenge[/trn][/m]
+мезун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]urinate; leak[/trn][/m]
+молун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]win, beat[/trn][/m]
+мурхун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]busy oneself, tinker with; steal[/trn][/m]
+нӕй
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]exst,[/com][/c][/i][/p] [p][i][c][com]3,[/com][/c][/i][/p] [p][i][c][com]singular[/com][/c][/i][/p][/m]
+		[m1][trn]negative.exst[/trn][/m]
+нӕййе
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]нӕййес[/ref][/m]
+нӕййес
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]нӕййе[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]negative,[/com][/c][/i][/p] [p][i][c][com]exst,[/com][/c][/i][/p] [p][i][c][com]3,[/com][/c][/i][/p] [p][i][c][com]singular[/com][/c][/i][/p][/m]
+		[m1][trn]negative.exst[/trn][/m]
+нӕмун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]beat; press, jam; tan; ram; knead[/trn][/m]
+нӕрсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]swell; broaden, widen; grow fat; puff up (dough)[/trn][/m]
+нӕтун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]moan, groan[/trn][/m]
+нӕуесун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]disobey[/trn][/m]
+нӕфӕразун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]be sick, fell unwell[/trn][/m]
+нӕхсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]go into, pierce; stick[/trn][/m]
+найун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]wade; swim[/trn][/m]
+ненвӕрсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]disdain[/trn][/m]
+неун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]howl, wail[/trn][/m]
+нивӕндун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]string, stretch[/trn][/m]
+нивӕцун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]compose, write[/trn][/m]
+нигӕнун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]bury; dig[/trn][/m]
+нигозун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]push into, bury, dig into[/trn][/m]
+ниголун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]dip, plunge[/trn][/m]
+нигъулун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]dive; fall into; hide oneself[/trn][/m]
+нидзӕвун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]touch[/trn][/m]
+нидзӕфсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]touch[/trn][/m]
+никъолун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]blink, wink[/trn][/m]
+никъулун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]blink, twinkle[/trn][/m]
+нимӕхсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]hide[/trn][/m]
+нимайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]count; respect[/trn][/m]
+нимодзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]inform against someone, report; betray; recommend[/trn][/m]
+ниргӕвдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]slaughter[/trn][/m]
+нистун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]become, stand up[/trn][/m]
+ниуӕрдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]muffle, wrap oneself up; drag along, roll; press, jam[/trn][/m]
+ниуазун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]drink[/trn][/m]
+нифтуййун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]нифтун[/ref][/m]
+нифтун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]нифтуййун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]drop inessive, call on, run inessive, get (to a place)[/trn][/m]
+ниффедзӕхсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]call down, settle down[/trn][/m]
+нихӕсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]stick to[/trn][/m]
+нихасун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]glue, stick; solder[/trn][/m]
+нихун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]scratch[/trn][/m]
+ниххуӕрсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]fire point-blank; say to face[/trn][/m]
+нихъолун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]dip, plunge[/trn][/m]
+нихъуӕрун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]swallow[/trn][/m]
+нихъулун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]plunge into, dip, dive[/trn][/m]
+носун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]kiss[/trn][/m]
+перун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]comb, card[/trn][/m]
+пирнун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]move, make one's way through[/trn][/m]
+рӕвдаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]caress, console; lull to sleep[/trn][/m]
+рӕгӕнун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]powder, salt, strew[/trn][/m]
+рӕгафун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]gibe, taunt, provoke[/trn][/m]
+рӕгинсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]stretch[/trn][/m]
+рӕгосун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]scold, abuse[/trn][/m]
+рӕдӕдзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]flow, drip, drop; cry[/trn][/m]
+рӕдӕхсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]climb up[/trn][/m]
+рӕдадзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]pour; cry[/trn][/m]
+рӕдесун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]discover signs of the approaching childbirth, labour[/trn][/m]
+рӕдзӕгъдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]throw about, scatter about, cause chaos[/trn][/m]
+рӕдзӕхсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]scatter[/trn][/m]
+рӕдовун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]pull, pull out; root away, outroot[/trn][/m]
+рӕдуйун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be mistaken[/trn][/m]
+рӕдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be calm; calm down, calm[/trn][/m]
+рӕдуфсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]get scratched[/trn][/m]
+рӕмодзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]tear, pull out; blow up; open; take away, appropriate[/trn][/m]
+рӕмпъозун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]pierce[/trn][/m]
+рӕмун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]wait, stand, bear[/trn][/m]
+рӕмухсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be torn, scratched[/trn][/m]
+рӕндун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]smooth out; hit[/trn][/m]
+рӕсӕндун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]make turya; crumble, chop[/trn][/m]
+рӕсадзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]set on, put inessive; direct; seat, offer seats; stick into, drive into; place, arrange[/trn][/m]
+рӕсуйун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]swell, gather[/trn][/m]
+рӕсхъбетун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]boil up; direct one's step[/trn][/m]
+рӕтаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]quilt, sew[/trn][/m]
+рӕтегъун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]push, shove; raise (one's hand against smb), swing one's arm[/trn][/m]
+рӕтъозун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]stab, pierce[/trn][/m]
+рӕуӕхсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]feel bad, faint, feel slack; rouse oneself[/trn][/m]
+рӕуегъун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]give a push, strike[/trn][/m]
+рӕулӕгӕрдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]flow round[/trn][/m]
+рӕхӕссун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]sew, stitch[/trn][/m]
+рӕхасун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]baste, tack; quilt; sew[/trn][/m]
+рӕхсбетун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]boil up, slop over; direct one's step[/trn][/m]
+рӕхуайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]pierce[/trn][/m]
+рӕхцун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]doze[/trn][/m]
+рӕцогъун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]throw away, throw down, throw[/trn][/m]
+рагфӕдзӕхсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]warn[/trn][/m]
+рагъамайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]stack, stockpile[/trn][/m]
+радхӕссун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]be on duty[/trn][/m]
+развӕдзӕхсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]warn[/trn][/m]
+разгелун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕзгелун[/ref][/m]
+райевдӕлун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]find time; become free[/trn][/m]
+райсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]take of; take; accept; take away[/trn][/m]
+		[m3][*]- [ref]хе райсун[/ref][/*][/m]
+райтун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]int[/com][/c][/i][/p][/m]
+		[m1][trn]give[/trn][/m]
+растун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]enrank[/trn][/m]
+раттун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]give; make a present[/trn][/m]
+ресун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]ache, hurt[/trn][/m]
+реун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]belch[/trn][/m]
+рохун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]рухӕн[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn][/trn][/m]
+рухун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]bellow, howl, roar[/trn][/m]
+сӕдзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]stick, get stuck; pierce, go into[/trn][/m]
+сӕйун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be ill; be (inessive a hospital, inessive bed)[/trn][/m]
+сӕлун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]freeze, be frozen, freeze over[/trn][/m]
+		[m3][*]- [ref]сӕлун кӕнун[/ref][/*][/m]
+сӕлфун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]drizzle[/trn][/m]
+сӕндоцун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]produce wine; press grapes[/trn][/m]
+сӕрфун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]clean; sweep; wipe; run (one's hand); slit[/trn][/m]
+сӕттун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]break; chop, split; resign oneself to; conque; pacify; suppress; confess[/trn][/m]
+сӕхъсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]stop talking[/trn][/m]
+		[m3][*]- [ref]сӕхъсун кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]сӕхъсун фӕуун[/ref][/*][/m]
+садзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]plant; stick inessive, drive inessive; hammer inessive[/trn][/m]
+сайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]cheat, be cunning[/trn][/m]
+севун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]reap, cut, mow; sum up; disappear, collapse[/trn][/m]
+седун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]call; appeal[/trn][/m]
+семун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]dance[/trn][/m]
+серун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]dance; amble[/trn][/m]
+сехун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]strike; drink[/trn][/m]
+скъӕрун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕскъӕрун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]chase,drive too hard[/trn][/m]
+скъӕфун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕскъӕфун[/ref][/m]
+скъаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]eat[/trn][/m]
+скъуӕлхун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕскъуӕлхун[/ref][/m]
+скъуӕнхун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕскъуӕнхун[/ref][/m]
+скъуйун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕскъуйун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]break, burst, crack[/trn][/m]
+ӕскъуйун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]скъуйун[/ref][/m]
+скъунун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕскъунун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]break, tear; burst, crack; be interrupted; grow scarce[/trn][/m]
+смотун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕсмотун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]smell, nose[/trn][/m]
+сомун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]winnow[/trn][/m]
+сорун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]drive away, drive out; catch up; chase[/trn][/m]
+стӕрун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕстӕрун[/ref][/m]
+стайун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕстайун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]get tired; fit, adapt; solder, weld[/trn][/m]
+стъӕлун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]ӕстъӕлун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]die, perish, suffer losses[/trn][/m]
+стъӕлфун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]start, give a start; jump; sparkle[/trn][/m]
+стъегъун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕстъегъун[/ref][/m]
+суййун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]feel cold; get frostbitten[/trn][/m]
+		[m3][*]- [ref]суййун кӕнун[/ref][/*][/m]
+схуайун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕсхуайун[/ref][/m]
+схъеун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕсхъеун[/ref][/m]
+тӕдзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]drop, leak[/trn][/m]
+тӕлмӕцун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]note, notice; observe, watch[/trn][/m]
+тӕлфун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]move, rotate, fidget, ,tremble[/trn][/m]
+тӕрсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be afraid, fear[/trn][/m]
+		[m3][*]- [ref]тӕрсун кӕнун[/ref][/*][/m]
+тӕрун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]chase; drive away; fire, send away[/trn][/m]
+тӕтун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]give[/trn][/m]
+тӕфсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]warm oneself; melt; burn with fever, feel chilly[/trn][/m]
+тӕхун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]fly; run[/trn][/m]
+тавун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]warm, warm up[/trn][/m]
+тадзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]drip, moisten, inject[/trn][/m]
+тайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]melt; dissolve; digest; be digested[/trn][/m]
+		[m3][*]- [ref]тайун кӕнун[/ref][/*][/m]
+тасун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]bend;[/trn][/m]
+тахун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]dress, decorate[/trn][/m]
+тегъун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]sift, screen; shake (tree); strike[/trn][/m]
+		[m3][*]- [ref]хе тегъун[/ref][/*][/m]
+телун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]nod; wave; shake[/trn][/m]
+толун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]dip[/trn][/m]
+тонун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]tear; blast; torture; scratch; take off[/trn][/m]
+тузмун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]strive; hurry; make one's way[/trn][/m]
+тулозун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be nervous[/trn][/m]
+тулун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]roll, roll down, slide[/trn][/m]
+тундзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]hurry; rush[/trn][/m]
+турнун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]seek, strive[/trn][/m]
+тухсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]wind around, twist around; make one's way; worry[/trn][/m]
+тъезун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]тъинзун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]whimper, cry[/trn][/m]
+тъизун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]cry, whimper; go bad (about the weather)[/trn][/m]
+тъинзун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]тъезун[/ref][/m]
+тъифсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]whimper[/trn][/m]
+тъолун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]carry, drag[/trn][/m]
+тъувун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]run away[/trn][/m]
+тъунсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]thrust, put inside[/trn][/m]
+		[m3][*]- [ref]хе тъунсун[/ref][/*][/m]
+уӕлӕфтаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]cover[/trn][/m]
+уӕлдаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]flow ((a)round / past / over)[/trn][/m]
+уӕмун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]уомун[/ref][/m]
+уадзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]let; give a chance; let go; skip; leave[/trn][/m]
+		[m3][*]- [ref]арахъ уадзун[/ref][/*][/m]
+уазавӕрун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]enlighten; preach; profess[/trn][/m]
+уайснайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]trade, sell[/trn][/m]
+уайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]run; flit, race' jump; flow[/trn][/m]
+уарзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]love[/trn][/m]
+уарун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]rain[/trn][/m]
+уасун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]whiste, buzz; sing; play; bleat, neigh, low, roar; croak; meow[/trn][/m]
+уафун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]weave; spin[/trn][/m]
+уегъун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]егъун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]shake, rock[/trn][/m]
+уедзун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]едзун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]gather, collect; peck[/trn][/m]
+уелун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]елун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]jolt; throw[/trn][/m]
+уесун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be humble, be obedient; obey[/trn][/m]
+уинун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]инун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]see[/trn][/m]
+ун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be; be situated; consist; exist[/trn][/m]
+унӕргъун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]инӕргъун[/ref], [ref]ӕнӕргъун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]moan; howl[/trn][/m]
+унӕрун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]rattle; make noise[/trn][/m]
+уодӕнсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]stand, tolerate; give way, submit; forgive, become favourable[/trn][/m]
+уодӕсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]get wet[/trn][/m]
+уодайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]wet, moisten[/trn][/m]
+уодун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]endeavour; take care; tend[/trn][/m]
+уозӕлун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]tend; coax; take care; caress; treat[/trn][/m]
+уозгалун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]look severely; threaten[/trn][/m]
+уозерун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]walk; wander[/trn][/m]
+уозун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]rock, lull[/trn][/m]
+уолӕфун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]breathe; sigh; have a rest[/trn][/m]
+уомун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]be sick[/trn][/m]
+уорӕхсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be worried, rush about, spin[/trn][/m]
+уорамун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]break; stop; delay; hold; hinder; calm; withstand; control oneself; stand[/trn][/m]
+уорсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]endevour[/trn][/m]
+уосафун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]knead[/trn][/m]
+уосун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]inform confidentially[/trn][/m]
+уӕнтӕ
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]imperative,[/com][/c][/i][/p] [p][i][c][com]3,[/com][/c][/i][/p] [p][i][c][com]plural[/com][/c][/i][/p][/m]
+		[m1][trn]be[/trn][/m]
+уотӕхсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]suffer (torments)[/trn][/m]
+урнун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]trust, believe[/trn][/m]
+урухсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]swirl, spin[/trn][/m]
+усун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]report[/trn][/m]
+уфсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]endeavour; take care; offer; arrange; to do honour (to); coax; treat; make special emphasis[/trn][/m]
+фӕдзӕхсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]entrust; bid; prescribe; bless; leave; insure[/trn][/m]
+фӕдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]split[/trn][/m]
+фӕзгъазун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]stand, tolerate[/trn][/m]
+фӕлварун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]examine; test; try[/trn][/m]
+фӕлгӕнун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]imagine[/trn][/m]
+фӕлгӕсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]look; watch; observe[/trn][/m]
+фӕлгосун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]process[/trn][/m]
+фӕлготун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]process; filter; stir[/trn][/m]
+фӕлгоцун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]filter[/trn][/m]
+фӕлгурун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]regenerate[/trn][/m]
+фӕлгъазун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]wave[/trn][/m]
+фӕлгъарун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]test, try[/trn][/m]
+фӕлгъаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]require; achieve; extort[/trn][/m]
+фӕлдӕрвун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]hit[/trn][/m]
+фӕлдӕхун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]topple over, turn over[/trn][/m]
+фӕлдайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]wet; moisten[/trn][/m]
+фӕлдафун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]hit, crown[/trn][/m]
+фӕлдахун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]topple over, turn over;[/trn][/m]
+фӕлдевун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]create[/trn][/m]
+фӕлдесун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]create[/trn][/m]
+фӕлдзӕгъдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]sweep[/trn][/m]
+фӕлдзӕун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]pass[/trn][/m]
+фӕлевун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]deceive; prevaricate[/trn][/m]
+фӕлкъевун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]build, contrive[/trn][/m]
+фӕлкъуӕрун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]blink, wink[/trn][/m]
+фӕллайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]get tired (with)[/trn][/m]
+фӕлмӕцун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]get tired (with); feel as a burden[/trn][/m]
+		[m3][*]- [ref]фӕлмӕцун кӕнун[/ref][/*][/m]
+фӕлсодзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]decant, filter,[/trn][/m]
+фӕлтӕрнун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]исфӕлтӕрнун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]test[/trn][/m]
+фӕлтӕрун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]try, test; make oneself familiar (with), adapt; exercise[/trn][/m]
+фӕлтарун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]test; harden[/trn][/m]
+фӕлундун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]equip; decorate; dress, dress up[/trn][/m]
+фӕлхӕтун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]change; repeat; overturn[/trn][/m]
+фӕлхатун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]deceive; change; modify; turn over; repeat[/trn][/m]
+фӕлхезун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]pass[/trn][/m]
+фӕлхъӕзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]wave, being choppy/rough (about sea)[/trn][/m]
+фӕлхъаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]drill, bore[/trn][/m]
+фӕндун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]want, wish[/trn][/m]
+фӕнзун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]tease; mimic; imitate, follow smb.'s example[/trn][/m]
+фӕразун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]can, be able to do, endure[/trn][/m]
+фӕрсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]ask; guess, tell fortunes[/trn][/m]
+фӕсмӕрун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be a sign, know smb. by sight only[/trn][/m]
+фӕуун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive,[/com][/c][/i][/p] [p][i][c][com]preverb,[/com][/c][/i][/p] [p][i][c][com]preverb-fӕ[/com][/c][/i][/p][/m]
+		[m1][trn]be.hab; finish; find oneself[/trn][/m]
+		[m3][*]- [ref]ескӕмӕн хуарз фӕуун[/ref][/*][/m]
+фадун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]split, chop; break; loosen; be covered with rash[/trn][/m]
+фасун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]do smb's hair; stroke[/trn][/m]
+фаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]blame, condemn; disparage; abuse, talk scandal; mock[/trn][/m]
+фегъосун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]hear; hear for a long time, overhear, to strain one's ears[/trn][/m]
+		[m3][*]- [ref]фегъосун кӕнун[/ref][/*][/m]
+федун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]pay[/trn][/m]
+фелвӕсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]jump out; rush; appear suddenly; dislocate[/trn][/m]
+феллаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]wave; shake; flutter; hover[/trn][/m]
+феппайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]notice; apprehend; guess; perceive[/trn][/m]
+фертайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]taking a bath long[/trn][/m]
+ферхуӕцун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]choke (over)[/trn][/m]
+фесарун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]roast, fry[/trn][/m]
+фесафун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]destroy; annihilate; waste; lose[/trn][/m]
+фескъухун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]turn out well, be a succsess[/trn][/m]
+фетхалун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]object to; speak to[/trn][/m]
+фехсуйун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be erased; be worn; get exhausted, get wasted[/trn][/m]
+фидрайвӕрун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]heal[/trn][/m]
+филаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]flutter[/trn][/m]
+финсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]write[/trn][/m]
+фиргъӕун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]plot against smb; to lead an ungodly life, go against god; do not believe inessive god[/trn][/m]
+фицун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]boil; bake; roast[/trn][/m]
+фудевдӕлон
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]do a bad turn[/trn][/m]
+фуззун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]provoke ab argument[/trn][/m]
+хӕлцун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]supply, feed[/trn][/m]
+хӕрсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]bring up, educate[/trn][/m]
+хӕссун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]дзурд хӕссун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]carry; take away; transfer; accomplish; keep; rear; bring up; refer; stick; last[/trn][/m]
+		[m3][*]- [ref]уосӕ хӕссун[/ref][/*][/m]
+хӕтун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]go, walk; wander, travel; roam from place to place; bend; become blunt; turn over; have a dissolute way of life[/trn][/m]
+хатун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]multiply; turn, turn over; appeal;[/trn][/m]
+хаун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]fall[/trn][/m]
+		[m3][*]- [ref]тъӕппитӕ хаун[/ref][/*][/m]
+		[m3][*]- [ref]цардӕй тъӕппитӕ хаун[/ref][/*][/m]
+хафун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]rub; scrape, shave; steal[/trn][/m]
+хацун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]feed[/trn][/m]
+хебакӕнун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]assign[/trn][/m]
+хелун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]crawl; drag oneself along; ride; go[/trn][/m]
+хетун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be tormented (by), suffer (from); pine; be sick for a long time; stay alone[/trn][/m]
+хехӕлцун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]eat[/trn][/m]
+хидун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]хитун[/ref][/m]
+хинцун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]count, maintain records; calculate; take the circumstances into account; treat well, respect[/trn][/m]
+хирхун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]steal; drink[/trn][/m]
+хитун
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]хидун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be alone, stay alone[/trn][/m]
+ходун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]laugh at; mock; condemn[/trn][/m]
+хонун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]call, name; invite[/trn][/m]
+хуӕдахедун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be self-sufficient[/trn][/m]
+хуӕрзауодун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]take care (of), favour, patronize[/trn][/m]
+хуӕрун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]eat; corrode; eat the inside (of); erode; itch[/trn][/m]
+		[m3][*]- [ref]ард хуӕрун[/ref][/*][/m]
+		[m3][*]- [ref]хе хуӕрун[/ref][/*][/m]
+		[m3][*]- [ref]хуӕрун кӕнун[/ref][/*][/m]
+хуӕцун
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]гъӕбесӕй хуӕцун[/ref][/m]
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]hold; maintain; grasp; bite; scold; fight; struggle, battle[/trn][/m]
+хуайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]hit; beat; push; thrash[/trn][/m]
+хуарун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]paint[/trn][/m]
+хузӕййевун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]moult[/trn][/m]
+хуййун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]sew; slaughter[/trn][/m]
+хуннун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]be named, called[/trn][/m]
+хуссун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]sleep; lie; go out[/trn][/m]
+		[m3][*]- [ref]хуссун кӕнун[/ref][/*][/m]
+хуфун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]cough[/trn][/m]
+хъӕлфун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]move cheerfully[/trn][/m]
+хъӕртун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]reach; achieve; be enough[/trn][/m]
+цӕвун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]beat, hit; beat up; strike[/trn][/m]
+цӕгъдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]destroy, exterminate; cut, chop; forge; beat; whip; shake; shake out; play[/trn][/m]
+цӕрун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]live[/trn][/m]
+цӕфсун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]burn, glow; inflame; stick[/trn][/m]
+цайун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]soothe; calm down[/trn][/m]
+цит
+		[m1][p][i][c][com]particle[/com][/c][/i][/p][/m]
+		[m1][trn]verb multiplication particle[/trn][/m]
+цитӕвзарун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]feel honour, pride, glory[/trn][/m]
+цодун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]hesitate; shake, swing, stagger; stumble[/trn][/m]
+цорун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]fry, toast[/trn][/m]
+цумун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]sup; drink[/trn][/m]
+цурхун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]pack; pile[/trn][/m]
+цъетун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]intransitive[/com][/c][/i][/p][/m]
+		[m1][trn]light; enlighten; glow[/trn][/m]
+цъефун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]drink[/trn][/m]
+цъирун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]suck[/trn][/m]
+цъопцӕгъдун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]fluff wool[/trn][/m]
+цъофун
+		[m1][p][i][c][com]verb,[/com][/c][/i][/p] [p][i][c][com]transition[/com][/c][/i][/p][/m]
+		[m1][trn]drink[/trn][/m]

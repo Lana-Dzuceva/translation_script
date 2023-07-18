@@ -1,0 +1,67 @@
+ӕдӕуагӕ
+		[m1][p][i][c][com]adverb,[/com][/c][/i][/p] [p][i][c][com]adjective[/com][/c][/i][/p][/m]
+		[m1][trn]without suspicion; really; undoubtedly; surely; doubtless[/trn][/m]
+ӕзмӕлунгӕнгӕ
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]змӕлунгӕнгӕ[/ref][/m]
+		[m1][p][i][c][com]adverb,[/com][/c][/i][/p] [p][i][c][com]adjective[/com][/c][/i][/p][/m]
+		[m1][trn]moving; movable[/trn][/m]
+сах
+		[m1][p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]adverb[/com][/c][/i][/p][/m]
+		[m1][trn]intently, hard; inessive embarrassment, inessive perplexity; heavy[/trn][/m]
+аллихузи
+		[m1][p][i][c][com]adverb,[/com][/c][/i][/p] [p][i][c][com]adjective[/com][/c][/i][/p][/m]
+		[m1][trn]different[/trn][/m]
+амӕйразмӕ
+		[m1][p][i][c][com]adverb,[/com][/c][/i][/p] [p][i][c][com]adjective[/com][/c][/i][/p][/m]
+		[m1][trn]before; former, previous[/trn][/m]
+армӕги
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]ӕрмӕги[/ref][/m]
+		[m1][p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]adverb[/com][/c][/i][/p][/m]
+		[m1][trn]cash[/trn][/m]
+афтед
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]афтид[/ref][/m]
+		[m1][p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]adverb[/com][/c][/i][/p][/m]
+		[m1][trn]empty; inessive vain[/trn][/m]
+афтид
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]афтед[/ref][/m]
+змӕлунгӕнгӕ
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]ӕзмӕлунгӕнгӕ[/ref][/m]
+рӕстӕмбес
+		[m1][p][i][c][com]also[/com][/c][/i][/p] [ref]рӕстӕнбес[/ref][/m]
+		[m1][p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]adverb[/com][/c][/i][/p][/m]
+		[m1][trn]equally, half-and-half; middle[/trn][/m]
+рӕстӕнбес
+		[m1][p][i][c][com]q.v.[/com][/c][/i][/p] [ref]рӕстӕмбес[/ref][/m]
+разаууон
+		[m1][p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]adverb[/com][/c][/i][/p][/m]
+		[m1][trn]full-time (tuition), resident (studies); inessive presence[/trn][/m]
+сӕнтдзурд
+		[m1][p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]adverb[/com][/c][/i][/p][/m]
+		[m1][trn]madly, recklessly; speaking rashly[/trn][/m]
+		[m3][*]- [ref]сӕнтдзурд кӕнун[/ref][/*][/m]
+сӕрбонзонгӕ
+		[m1][p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]adverb[/com][/c][/i][/p][/m]
+		[m1][trn]with restraint, calmly, inessive cold blood; restrained, cool, calm,[/trn][/m]
+сӕрдигон
+		[m1][p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]adverb[/com][/c][/i][/p][/m]
+		[m1][trn]inessive summer; summer (attr)[/trn][/m]
+сабургомау
+		[m1][p][i][c][com]adverb,[/com][/c][/i][/p] [p][i][c][com]adjective[/com][/c][/i][/p][/m]
+		[m1][trn]slowly; quiet; calm; meek[/trn][/m]
+саланци
+		[m1][p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]adverb[/com][/c][/i][/p][/m]
+		[m1][trn]friendly[/trn][/m]
+тӕргӕбӕхӕй
+		[m1][p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]adverb[/com][/c][/i][/p][/m]
+		[m1][trn]at a gallop[/trn][/m]
+тагъд
+		[m1][p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]adverb[/com][/c][/i][/p][/m]
+		[m1][trn]fast[/trn][/m]
+		[m3][*]- [ref]тагъд кӕнун[/ref][/*][/m]
+		[m3][*]- [ref]тагъд ун[/ref][/*][/m]
+тухгин
+		[m1][p][i][c][com]adjective,[/com][/c][/i][/p] [p][i][c][com]adverb[/com][/c][/i][/p][/m]
+		[m1][trn]powerfully, very; strong[/trn][/m]
+фадуатон
+		[m1][p][i][c][com]adjective[/com][/c][/i][/p][/m]
+		[m1][trn]adverbial[/trn][/m]
